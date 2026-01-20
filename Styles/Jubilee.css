@@ -1,0 +1,107 @@
+/* 
+File: Jubilee.css Date: 2026-01-16
+
+Author: Gunnar Liden
+
+General information
+====================
+
+Defines all style classes for the application Jubilee.htm
+
+*/
+
+/* The whole page */
+.cl_image_page
+{
+    border: solid 2px blue;
+    font-family: 'Arial';
+    font-size: 15px;
+    font-weight: bold;
+    width: 550px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    height: 420px;
+}
+
+/* For all <label> elements */
+label
+{
+    margin-left: 10px;
+}
+
+
+/* For some <button> elements */
+button
+{
+    border: solid 2px black;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 95%;
+}
+
+/* Logo <div> element */
+.cl_jubilee_logo
+{
+    /* border: solid 2px yellow; */
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 0, 40);
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    overflow: hidden;   
+    width: 100%;
+}
+
+.cl_div_jubilee_title_info
+{
+    /* border: solid 1px yellow; */
+    clear: both;
+}
+
+.cl_div_jubilee_title
+{
+     /* border: solid 1px white; */
+     margin-left: 10%;
+    font-size: 15px;
+    width: 78%;
+    float: left;
+}
+
+.cl_div_jubilee_info
+{
+    /* border: solid 1px white; */
+    text-align: right;
+    padding-right: 6px;
+    width: 8%;
+    float: right;
+    cursor: pointer;
+}
+
+.cl_jazz_notes_title
+{
+    clear: both;
+}
+
+/* Image <img> Elemente in <div> element logo */
+.cl_jazz_notes_title img
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cl_div_image_container
+{
+    border: solid 1px black;
+    width: 100%;
+    height: 85%;
+    clear: both;    
+}
+
+
+
