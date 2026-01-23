@@ -41,6 +41,10 @@
 // Class corresponding to the XML file Jubilee.xml
 //
 
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// Start Class Jubilee  ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
 // Class corresponding to the XML element <JubileePhoto> in the file Jubilee.xml
 class JubileeXml
 {
@@ -595,6 +599,13 @@ class JubileeXml
 
 } // JubileeXml
 
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// End Class Jubilee  //////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// Start Class JubileeTags  ////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
 
 // Class defining the tags of the XML file Jubilee.xml
 class JubileeTags 
@@ -629,3 +640,213 @@ class JubileeTags
     getPhotoDay(){return this.m_tag_photo_day;} 
 
 } // JubileeTags
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// End Class JubileeTags  //////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// Start Class JubileeData  ////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+// Class holding all data for a jubilee photo
+class JubileeData 
+{
+    // Creates the instance of the class
+    constructor(i_url_photo) 
+    {
+        // Member variables
+        // ================
+
+        // URL (server address) for the photo
+        this.m_url = i_url_photo;
+
+        // URL (server address) for the small photo
+        this.m_url_small = "";      
+
+        // Photo text
+        this.m_text = "";
+
+       // Photo event name
+       this.m_event = "";   
+
+       // Year
+       this.m_year = "";      
+
+       // Month
+       this.m_month = "";
+
+       // Day
+       this.m_day = "";
+
+    } // constructor
+
+    // Get and set functions for the member variables
+    // ==============================================
+
+    // Returns the URL (server address) for the photo
+    getUrl() { return this.m_url;} 
+
+    // Sets the URL (server address) for the photo
+    setUrl(i_url) { this.m_url = i_url;} 
+
+    // Returns the URL (server address) for the small photo
+    getUrlSmall() { return this.m_url_small;} 
+
+    // Sets the URL (server address) for the small photo
+    setUrlSmall(i_url_small) { this.m_url_small = i_url_small;}  
+    
+    // Returns the photo text
+    getText() { return this.m_text;} 
+
+    // Sets the photo text
+    setText(i_text) { this.m_text = i_text;}
+
+    // Returns the event name
+    getEvent() { return this.m_event;} 
+
+    // Sets the band name
+    setEvent(i_event) { this.m_event = i_event;}
+
+    // Returns the day
+    getDay() { return this.m_day;} 
+
+    // Sets the day
+    setDay(i_day) { this.m_day = i_day;}
+
+    // Returns the month
+    getMonth() { return this.m_month;} 
+
+    // Sets the month
+    setMonth(i_month) { this.m_month = i_month;}
+
+    // Returns the year
+    getYear() { return this.m_year;} 
+
+    // Sets the year
+    setYear(i_year) { this.m_year = i_year;}
+
+    // Check functions for the member variables
+    // ========================================
+
+} // JubileeData
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// End Class JubileeData  //////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// Start Class JubileeDataList  ////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+// Class holding a list of JubileeData objects
+class JubileeDataList
+{
+    // Creates the instance of the class
+    constructor()
+    {
+        // Member variables
+        // ================
+
+        // Array of JubileeData objects)
+        this.m_jubilee_data_array = [];
+
+    } // constructor
+
+    // Member functions
+    // ================
+
+    // Get the list
+    getList()
+    {
+        return this.m_jubilee_data_array;
+    
+    } // getList
+    
+    // Appends a Jubilee object
+    // Object will not be appended if already in the array
+    appendJubileeData(i_jubilee_data)
+    {
+        if (this.alreadyInJubileeDataArray(i_jubilee_data))
+        {
+            return;
+        }
+
+        this.m_jubilee_data_array[this.getNumberOfJubileeObjects()] = i_jubilee_data;
+
+    } // appendJubileeData
+    
+    // Returns true if the image already is in the array 
+    alreadyInJubileeDataArray(i_jubilee_data)
+    {
+        var ret_exists = false;
+
+        var input_photo_url = i_jubilee_data.getUrl();
+
+        for (var index_photo=0; index_photo < this.m_jubilee_data_array.length; index_photo++)
+        {
+            var current_photo_url = this.m_jubilee_data_array[index_photo].getUrl();
+
+            if (current_photo_url == input_photo_url)
+            {
+                ret_exists = true;
+
+                break;
+            }
+
+        } // index_photo
+        
+        return ret_exists;
+
+    } // alreadyInJubileeDataArray
+
+    // Returns the number of JubileeData objects
+    getNumberOfJubileeObjects()
+    {
+        return this.m_jubilee_data_array.length;
+
+    } // getNumberOfJubileeObjects
+
+    // Returns the photo data object for a given photo number
+    getPhotoData(i_photo_number)
+    {
+        if (i_photo_number <= 0 || i_photo_number > this.m_jubilee_data_array.length)
+        {
+            alert("JubileeDataList.getPhotoData Photo number " + i_photo_number.toString() + ' is not between 1 and ' + this.m_jubilee_data_array.length.toString());
+            
+            return null;
+        }
+
+        return this.m_jubilee_data_array[i_photo_number - 1];
+
+    } // getPhotoData
+
+    // Returns true there are photos to display
+    photosDefined()
+    {
+        if (this.m_jubilee_data_array.length > 0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    } // photosDefined    
+
+    // Initialize the array ofJubileeData objects
+    // (clear/empty the array)
+    init()
+    {
+        this.m_jubilee_data_array = [];
+
+    } // init    
+
+} // JubileeDataList
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////// End Class JubileeDataList  //////////////////////////
+///////////////////////////////////////////////////////////////////////////////
