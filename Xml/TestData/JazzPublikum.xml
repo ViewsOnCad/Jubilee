@@ -1,0 +1,2826 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<!--  JAZZ live AARAU audience pictures -->  
+<JazzPublikum>
+
+  <AudienceDirectory>FotoPublikum</AudienceDirectory>
+
+	<Audience>
+		<AudienceYear>2013</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>20</AudienceDay>	
+		<AudienceRowOne>JAZZ live AARAU Fotograf</AudienceRowOne>
+		<AudienceRowTwo>Peter Günthart</AudienceRowTwo>
+		<AudienceNames>Peter Günthart</AudienceNames>
+		<AudienceRemark>Im Vorstand 1996-2016</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0001_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0001_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>17</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2015</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0002_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0002_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>17</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Heinz &amp; Peter Häuptli &amp; Peter Günthart </AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0003_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0003_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>17</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Heinz und Heidi Gerber</AudienceNames>
+		<AudienceRemark>Heinz im Vorstand 2010-2013</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0004_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0004_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>17</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2015</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0005_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0005_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>17</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Ivana Scholian &amp; Thomas Scholian</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0006_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0006_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>21</AudienceDay>
+		<AudienceRowOne>Gründer JAZZ live AARAU</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>Im Vorstand 1996-2012</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0007_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0007_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>21</AudienceDay>
+		<AudienceRowOne>Restaurant Affenkasten</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0008_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0008_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>11</AudienceDay>
+		<AudienceRowOne>Saal im IBA Gebäude</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2006</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>Enkelkind Peter Häuptli</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0009_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0009_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0009_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>11</AudienceDay>
+		<AudienceRowOne>Saal im IBA Gebäude</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2006</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>Enkelkind Peter Häuptli</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0010_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0010_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0010_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2004</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>30</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>Tochter von Elmar Frey</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0011_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0011_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2004</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>30</AudienceDay>
+		<AudienceRowOne>Restaurant Affenkasten</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2004</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>Tochter von Elmar Frey</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0011_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0011_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Sponsor &amp; JAZZ live AARAU Vorstand</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2011</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Gunnar Lidén &amp; Peter Günthart &amp; Veronique Weiersmüller &amp; Georges Weiersmüller &amp; Peter Häuptli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0012_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0012_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Sponsor von JAZZ live AARAU</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2011</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0013_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0013_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Sponsor &amp; JAZZ live AARAU Vorstand</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Gunnar Lidén &amp; Peter Günthart &amp; Veronique Weiersmüller &amp; Georges Weiersmüller &amp; Peter Häuptli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0014_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0014_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>4</AudienceMonth>
+		<AudienceDay>1</AudienceDay>
+		<AudienceRowOne>Gründer JAZZ live AARAU</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>Im Vorstand 1996-2012</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0015_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0015_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>21</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2006</AudienceRowTwo>
+		<AudienceNames>Lena Lidén &amp; Marcelo Torquato</AudienceNames>
+		<AudienceRemark>Lena ist Tochter von Gunnar Lidén</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0016_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0016_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>	
+		<AudienceRowOne>Gründer JAZZ live AARAU und Fotograf</AudienceRowOne>
+		<AudienceRowTwo>Peter Günthart</AudienceRowTwo>
+		<AudienceNames>Peter Günthart</AudienceNames>
+		<AudienceRemark>Im Vorstand 1996-2016</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0017_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0017_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen (2011)</AudienceRowOne>
+		<AudienceRowTwo>Heinz Gerber (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Alex Vimposek &amp; Heinz Gerber &amp; Gesa Vimposek</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0018_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0018_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Ursula Stähli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0019_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0019_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0019_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Gründer JAZZ live AARAU</AudienceRowOne>
+		<AudienceRowTwo>Werner Stähli</AudienceRowTwo>
+		<AudienceNames>Werner Stähli</AudienceNames>
+		<AudienceRemark>Im Vorstand 1996-2000</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0020_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0020_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0020_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Dora Scheidegger</AudienceNames>
+		<AudienceRemark>Im Vorstand 2013-2017 (schlechtes Foto)</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0021_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0021_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0021_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Esther Günthart</AudienceNames>
+		<AudienceRemark>(schlechtes Foto)</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0022_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0022_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0022_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0023_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0023_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0023_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0024_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0024_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0024_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0025_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0025_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0025_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0026_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0026_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0026_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>(schlechtes Foto)</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0027_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0027_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0027_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0028_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0028_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0028_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Konrad Oehler &amp; Xyz</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0029_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0029_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0029_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Hubert Keller &amp; Veronique Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Hubert Keller &amp; Veronique Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0030_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0030_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0030_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Rita Wegmüller &amp; Noldi Gnädig &amp; Xyz &amp; Xyz</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0031_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0031_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0031_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Arthur Herrmann &amp; Marianne Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0032_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0032_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0032_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Zora Nyffenegger</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0033_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0033_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0033_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Inge Meier &amp; Markus Meier &amp; Anni Häuptli &amp; Werner Stähli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0034_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0034_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0034_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Arthur Herrmann &amp; Esther Günthart</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0035_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0035_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0035_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0036_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0036_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0036_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Rosmari  Bochsler &amp; Hansjürg Bochsler &amp; Xyz &amp; Karl Wittich &amp; Xyz &amp; Sabine Siegrist &amp; Lilian Rothenbühler</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0037_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0037_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0037_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Xyz &amp; Xyz &amp; Annelies Wittich &amp; Xyz &amp; Arthur Herrmann &amp; Xyz</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0038_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0038_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0038_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Sabine Siegrist &amp; Lilian Rothenbühler &amp; Erich Fischer &amp; Xyz</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0039_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0039_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0039_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Annelies Wittich &amp; Erich Fischer &amp; Xyz &amp; Xyz &amp; Ursula Stähli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0040_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0040_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0040_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0041_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0041_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0041_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>Karl Wittich &amp; Peter Häuptli &amp; Gunnar Lidén &amp; Xyz</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0042_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0042_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0042_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0043_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0043_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0043_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Rolf Bürli</AudienceRowTwo>
+		<AudienceNames>Rolf Bürli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0044_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0044_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0044_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Erich Fischer</AudienceRowTwo>
+		<AudienceNames>Erich Fischer</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0045_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0045_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0045_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Erich Fischer &amp; Rolf Bürli &amp; Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Erich Fischer &amp; Rolf Bürli &amp; Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0046_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0046_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0046_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0047_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0047_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0047_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Rolf Bürli &amp; Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Rolf Bürli &amp; Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0048_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0048_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0048_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Erich Fischer</AudienceRowTwo>
+		<AudienceNames>Erich Fischer</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0049_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0049_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0049_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marco Käppeli &amp; Rolf Bürli</AudienceRowTwo>
+		<AudienceNames>Marco Käppeli &amp; Rolf Bürli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0050_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0050_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0050_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Arthur Herrmann &amp; Xyz &amp; Marianne Herrmann</AudienceRowTwo>
+		<AudienceNames>Arthur Herrmann &amp; Xyz &amp; Marianne Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0051_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0051_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0051_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marianne Herrmann</AudienceRowTwo>
+		<AudienceNames>Marianne Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0052_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0052_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0052_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marianne Herrmann</AudienceRowTwo>
+		<AudienceNames>Marianne Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0053_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0053_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0053_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Xyz &amp; Arthur Herrmann</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Arthur Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0054_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0054_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0054_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marianne Herrmann</AudienceRowTwo>
+		<AudienceNames>Marianne Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0055_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0055_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0055_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0056_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0056_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0056_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Sabine Siegrist</AudienceRowTwo>
+		<AudienceNames>Sabine Siegrist</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0057_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0057_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0057_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Konrad Oeler &amp; Rolf Bürli &amp; Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Konrad Oehler &amp; Rolf Bürli &amp; Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0058_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0058_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0058_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0059_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0059_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0059_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0060_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0060_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0060_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Bruno Lüthy</AudienceRowTwo>
+		<AudienceNames>Bruno Lüthy</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0061_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0061_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0061_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller &amp; Rougie Rothenbühler</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller &amp; Rougie Rothenbühler</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0062_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0062_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0062_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Konrad Oeler</AudienceRowTwo>
+		<AudienceNames>Konrad Oehler</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0063_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0063_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0063_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0064_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0064_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0064_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Bruno Lüthy</AudienceRowTwo>
+		<AudienceNames>Bruno Lüthy</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0065_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0065_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0065_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Konrad Oeler</AudienceRowTwo>
+		<AudienceNames>Konrad Oehler</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0066_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0066_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0066_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Marco Käppeli</AudienceRowTwo>
+		<AudienceNames>Marco Käppeli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0067_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0067_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0067_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller &amp; Rougie Rothenbühler &amp; Bruno Lüthy &amp; Marco Käppeli &amp; Konrad Oeler</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller &amp; Rougie Rothenbühler &amp; Bruno Lüthy &amp; Marco Käppeli &amp; Konrad Oeler</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0068_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0068_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0068_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller &amp; Rougie Rothenbühler</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller &amp; Rougie Rothenbühler</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0069_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0069_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0069_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller &amp; Rougie Rothenbühler&amp; Sabine Siegrist</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller &amp; Rougie Rothenbühler &amp; Sabine Siegrist</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0070_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0070_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0070_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Bruno Lüthy</AudienceRowTwo>
+		<AudienceNames>Bruno Lüthy</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0071_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0071_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0071_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0072_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0072_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0072_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0073_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0073_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0073_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0074_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0074_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0074_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Rolf Bürli &amp; Erich Fischer</AudienceRowTwo>
+		<AudienceNames>Rolf Bürli &amp; Erich Fischer</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0075_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0075_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0075_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0076_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0076_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0076_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0077_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0077_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0077_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Arthur Herrmann</AudienceRowTwo>
+		<AudienceNames>Arthur Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0078_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0078_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0079_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0079_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0079_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Arthur Herrmann &amp; Bruno Lüthy</AudienceRowTwo>
+		<AudienceNames>Arthur Herrmann &amp; Bruno Lüthy</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0080_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0080_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0080_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0081_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0081_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0081_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>	
+	<Audience>
+		<AudienceYear>2011</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>5</AudienceDay>
+		<AudienceRowOne>Jubiläum 15 Jahre</AudienceRowOne>
+		<AudienceRowTwo>Arthur Herrmann</AudienceRowTwo>
+		<AudienceNames>Arthur Herrmann</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0082_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0082_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0082_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>31</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>Eva Eder</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0083_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0083_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Walter Zürcher</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0084_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0084_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Claude Gittelson</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0085_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0085_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Maarit (geb. Lüthy) &amp; Gunnar Lidén</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0086_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0086_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0087_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0087_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0088_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0088_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0089_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0089_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0090_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0090_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Ron Gittelson</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0091_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0091_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0092_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0092_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0093_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0093_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0094_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0094_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0095_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0095_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0096_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0096_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0097_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0097_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Rolf Weinmann</AudienceNames>
+		<AudienceRemark>Partner Laura Cesar</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0098_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0098_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>Foto nicht so gut</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0099_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0099_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0100_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0100_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0101_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0101_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0102_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0102_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0103_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0103_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0104_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0104_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Maarit (geb. Lüthy) &amp; Gunnar Lidén</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0105_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0105_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0106_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0106_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0107_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0107_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0108_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0108_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0109_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0109_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen (2016)</AudienceRowOne>
+		<AudienceRowTwo>Philip Salathe (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Philip Salathe</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0110_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0110_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0111_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0111_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0112_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0112_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0113_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0113_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0114_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0114_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen (2016)</AudienceRowOne>
+		<AudienceRowTwo>Alex Vimposek (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Alex Vimposek</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0115_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0115_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen (2016)</AudienceRowOne>
+		<AudienceRowTwo>Bruno Lüthy (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Bruno Lüthy</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0116_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0116_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen (2016)</AudienceRowOne>
+		<AudienceRowTwo>Philip Salathe (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Philip Salathe</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0117_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0117_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Hannes Säuberli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0118_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0118_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0119_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0119_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0120_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0120_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0121_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0121_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Claude Gittelson</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0122_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0122_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0123_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0123_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Maarit (geb. Lüthy)</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0124_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0124_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0125_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0125_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>19</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>NotYetSetNodeValue</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0126_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0126_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>17</AudienceDay>
+		<AudienceRowOne>Alexia Gardner Trio (2015)</AudienceRowOne>
+		<AudienceRowTwo>Dora Scheidegger (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Dora Scheidegger</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0127_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0127_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0127_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>31</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Eva Eder (Künstlerin)</AudienceRowTwo>
+		<AudienceNames>Eva Eder &amp; Xyz</AudienceNames>
+		<AudienceRemark>Konzert: Claude Diallo Situation. Video wurde auch aufgenommen.</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0128_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0128_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0128_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2015</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>31</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen (2015)</AudienceRowOne>
+		<AudienceRowTwo>Dora Scheidegger (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Dora Scheidegger</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0129_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0129_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0129_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2004</AudienceYear>
+		<AudienceMonth>10</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Sponsor viele Jahre</AudienceRowOne>
+		<AudienceRowTwo>Georges Amsler (2004)</AudienceRowTwo>
+		<AudienceNames>Georges Amsler</AudienceNames>
+		<AudienceRemark>Bild vom Geburtstagsfeier</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0130_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0130_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0130_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0131_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0131_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0131_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0132_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0132_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0132_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0133_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0133_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0133_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0134_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0134_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0134_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0135_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0135_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0135_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0136_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0136_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0136_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0137_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0137_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0137_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0138_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0138_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0138_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0139_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0139_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0139_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0140_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0140_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0140_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0141_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0141_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0141_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0142_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0142_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0142_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0143_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0143_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0143_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0144_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0144_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0144_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0145_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0145_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0145_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0146_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0146_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0146_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Vorstand JAZZ live AARAU (2016)</AudienceRowOne>
+		<AudienceRowTwo>Peter Häuptli &amp; Dora Scheidegger</AudienceRowTwo>
+		<AudienceNames>Peter Häuptli &amp; Dora Scheidegger</AudienceNames>
+		<AudienceRemark>Peter und Dora sehen nicht so glücklich aus</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0147_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0147_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0147_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Xyz &amp; Thomas Scholian &amp; Xyz &amp; Urs Wigger</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0148_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0148_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0148_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Gesa Vimposek</AudienceNames>
+		<AudienceRemark>Vater Alex fragen ob OK zu publizieren</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0149_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0149_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0149_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>10</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>Gesa Vimposek</AudienceNames>
+		<AudienceRemark>Vater Alex fragen ob OK zu publizieren</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0150_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0150_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0150_small.jpg</AudienceSmallSize>
+		<AudiencePublish>FALSE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>5</AudienceMonth>
+		<AudienceDay>9</AudienceDay>
+		<AudienceRowOne>Vorstandsbesprechung in Männedorf 2006</AudienceRowOne>
+		<AudienceRowTwo>Peter Häuptli &amp; Veronique Weiersmüller &amp; Georges Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Peter Häuptli &amp; Veronique Weiersmüller &amp; Georges Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0151_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0151_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0151_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2006</AudienceYear>
+		<AudienceMonth>5</AudienceMonth>
+		<AudienceDay>9</AudienceDay>
+		<AudienceRowOne>Vorstandsbesprechung in Männedorf 2006</AudienceRowOne>
+		<AudienceRowTwo>Peter Günthart &amp; Anni Häuptli &amp; Peter Häuptli</AudienceRowTwo>
+		<AudienceNames>Peter Günthart &amp; Anni Häuptli &amp; Peter Häuptli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0152_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0152_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0152_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2007</AudienceYear>
+		<AudienceMonth>1</AudienceMonth>
+		<AudienceDay>9</AudienceDay>
+		<AudienceRowOne>Vorstandsausflug nach Weggis</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2007</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller &amp; Peter Günthart &amp; Anni Häuptli &amp; Peter Häuptli &amp; Esther Günthart &amp; Marianne Sneep</AudienceNames>
+		<AudienceRemark>Sponsor Lorenz Gadient (Restaurant Affenkasten) kriegte ein Fotobuch</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0153_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0153_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0153_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2002</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>16</AudienceDay>
+		<AudienceRowOne>Bistro Raffinesse 2002</AudienceRowOne>
+		<AudienceRowTwo>Werner Stähli &amp; Lech Wieleba</AudienceRowTwo>
+		<AudienceNames>Werner Stähli &amp; Lech Wieleba</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0154_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0154_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0154_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2002</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>16</AudienceDay>
+		<AudienceRowOne>Sureste Tango 2002</AudienceRowOne>
+		<AudienceRowTwo>Witek Kornacki &amp; Angel Garcia Arnès &amp; Lech Wieleba &amp; Veronique Weiersmüller</AudienceRowTwo>
+		<AudienceNames>Witek Kornacki &amp; Angel Garcia Arnès &amp; Lech Wieleba &amp; Veronique Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0155_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0155_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0155_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2002</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>16</AudienceDay>
+		<AudienceRowOne>Bistro Raffinesse 2002</AudienceRowOne>
+		<AudienceRowTwo>Sureste Tango</AudienceRowTwo>
+		<AudienceNames>Angel Garcia Arnès &amp; Lech Wieleba &amp; Veronique Weiersmüller &amp; Georges Weiersmüller &amp; Esther Günthart</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0156_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0156_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0156_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2002</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>16</AudienceDay>
+		<AudienceRowOne>Bistro Raffinesse 2002</AudienceRowOne>
+		<AudienceRowTwo>Veronique Weiersmüller &amp; Werner Stähli (Vorstand)</AudienceRowTwo>
+		<AudienceNames>Veronique Weiersmüller &amp; Werner Stähli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0157_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0157_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0157_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Marcel Meyer (Sponsor)</AudienceRowOne>
+		<AudienceRowTwo>Spaghetti Factory Salmen 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0158_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0158_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0158_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Marcel Meyer (Sponsor)</AudienceRowOne>
+		<AudienceRowTwo>Spaghetti Factory Salmen 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0159_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0159_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0159_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0160_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0160_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0160_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0161_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0161_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0161_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0162_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0162_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0162_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0163_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0163_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0163_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0164_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0164_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0164_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0165_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0165_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0165_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0166_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0166_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0166_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0167_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0167_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0167_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0168_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0168_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0168_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0169_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0169_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0169_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2016</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>26</AudienceDay>
+		<AudienceRowOne>Spaghetti Factory Salmen</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2016</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Markus Meier</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0170_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0170_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0170_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2002</AudienceYear>
+		<AudienceMonth>3</AudienceMonth>
+		<AudienceDay>2</AudienceDay>
+		<AudienceRowOne>NnNn, Georges Weiersmüller, Bruno Huwyler, Ray Blue</AudienceRowOne>
+		<AudienceRowTwo>Hauskonzert Burgdorf 2002</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>Im Susanne Gehrigs Haus</AudienceRemark>
+		<AudiencePhotographer>Peter Günthart</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0171_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0171_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0171_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Veronique Weiersmüller (Vorstand)</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0172_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0172_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0172_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Rest. Affenkasten, Saal 1. Stock</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0173_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0173_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0173_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Rest. Affenkasten, Saal 1. Stock</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0174_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0174_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0174_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Veronique Weiersmüller (Vorstand)</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0175_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0175_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0175_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Veronique Weiersmüller (Vorstand)</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0176_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0176_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0176_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Frisch gestrichen bei Veronique Weiersmüller</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0177_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0177_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0177_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Rest. Affenkasten, Saal 1. Stock</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0178_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0178_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0178_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Frisch gestrichen von Veronique Weiersmüller</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0179_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0179_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0179_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Frisch gestrichen von Veronique Weiersmüller</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0180_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0180_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0180_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Tony Renold</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0181_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0181_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0181_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Rest. Affenkasten, Saal 1. Stock</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0182_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0182_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0182_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>9</AudienceMonth>
+		<AudienceDay>20</AudienceDay>
+		<AudienceRowOne>Rest. Affenkasten, Saal 1. Stock</AudienceRowOne>
+		<AudienceRowTwo>Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0183_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0183_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0183_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>15</AudienceDay>
+		<AudienceRowOne>Vorstandsausflug nach Paris 2003</AudienceRowOne>
+		<AudienceRowTwo>Abendessen mit Moritz Peter (Saxofonist)</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller, Moritz Peter, Moritz Peters Frau, NnNn, NnNn, Pirjo Lühty, Veronique Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0184_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0184_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0184_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>15</AudienceDay>
+		<AudienceRowOne>Vorstandsausflug nach Paris 2003</AudienceRowOne>
+		<AudienceRowTwo>Abendessen mit Moritz Peter (Saxofonist)</AudienceRowTwo>
+		<AudienceNames>Bruno Lühty, Georges Weiersmüller, Moritz Peter</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0185_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0185_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0185_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>15</AudienceDay>
+		<AudienceRowOne>Vorstandsausflug nach Paris 2003</AudienceRowOne>
+		<AudienceRowTwo>Abendessen mit Moritz Peter (Saxofonist)</AudienceRowTwo>
+		<AudienceNames>Georges Weiersmüller, Moritz Peter, Moritz Peters Frau, NnNn, NnNn, Pirjo Lühty, Gunnar Lidén, Veronique Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0186_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0186_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0186_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>15</AudienceDay>
+		<AudienceRowOne>Vorstandsausflug nach Paris 2003</AudienceRowOne>
+		<AudienceRowTwo>Im Jazzclub mit Moritz Peter (Saxofonist)</AudienceRowTwo>
+		<AudienceNames>Moritz Peter, Georges Weiersmüller, Veronique Weiersmüller</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0187_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0187_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0187_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>15</AudienceDay>
+		<AudienceRowOne>Vorstandsausflug nach Paris 2003</AudienceRowOne>
+		<AudienceRowTwo>Abendessen mit Moritz Peter (Saxofonist)</AudienceRowTwo>
+		<AudienceNames>Moritz Peter, Georges Weiersmüller, NnNn, Pirjo Lühty</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0188_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0188_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0188_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>12</AudienceMonth>
+		<AudienceDay>15</AudienceDay>
+		<AudienceRowOne>Georges Weiersmüller (Gründer JAZZ live AARAU)</AudienceRowOne>
+		<AudienceRowTwo>Vorstandsausflug nach Paris 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0189_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0189_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0189_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>Antonietta, Maurizio, Gloria</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0190_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0190_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0190_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>Jimmy, Angelica. Im Hintergrund Esther Günthart, Markus Meier, Peter Häuptli</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0191_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0191_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0191_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>Jimmy, Angelica</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0192_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0192_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0192_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses. Mit Vorstand und Musikern</AudienceRowOne>
+		<AudienceRowTwo>Bistro Raffinesse. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0193_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0193_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0193_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses. Mit Vorstand und Musikern</AudienceRowOne>
+		<AudienceRowTwo>Bistro Raffinesse. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0194_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0194_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0194_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses. Mit Vorstand und Musikern</AudienceRowOne>
+		<AudienceRowTwo>Bistro Raffinesse. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0195_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0195_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0195_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses. Mit Vorstand und Musikern</AudienceRowOne>
+		<AudienceRowTwo>Bistro Raffinesse. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>Jimmy, Gloria</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0196_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0196_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0196_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses. Mit Vorstand und Musikern</AudienceRowOne>
+		<AudienceRowTwo>Bistro Raffinesse. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>Marco Käppeli (Schlagzeuger)</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0197_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0197_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0197_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses. Mit Vorstand und Musikern</AudienceRowOne>
+		<AudienceRowTwo>Bistro Raffinesse. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>Antonietta, Angelica, Gunnar Lidén, Maurizio</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0198_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0198_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0198_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	<Audience>
+		<AudienceYear>2003</AudienceYear>
+		<AudienceMonth>11</AudienceMonth>
+		<AudienceDay>22</AudienceDay>
+		<AudienceRowOne>Jazzkonzert als Abschlussfest eines Deutschkurses</AudienceRowOne>
+		<AudienceRowTwo>Rest. Affenkasten, Saal 1. Stock. Jahr 2003</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>Gunnar Lidén</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0199_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0199_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0199_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+<!--
+	<Audience>
+		<AudienceYear>NotYetSetNodeValue</AudienceYear>
+		<AudienceMonth>NotYetSetNodeValue</AudienceMonth>
+		<AudienceDay>NotYetSetNodeValue</AudienceDay>
+		<AudienceRowOne>NotYetSetNodeValue</AudienceRowOne>
+		<AudienceRowTwo>NotYetSetNodeValue</AudienceRowTwo>
+		<AudienceNames>NotYetSetNodeValue</AudienceNames>
+		<AudienceRemark>NotYetSetNodeValue</AudienceRemark>
+		<AudiencePhotographer>NotYetSetNodeValue</AudiencePhotographer>
+		<AudienceBigSize>PublikumBild_0nnn_HighRes.jpg</AudienceBigSize>
+		<AudienceMidSize>PublikumBild_0nnn_LowRes.jpg</AudienceMidSize>
+		<AudienceSmallSize>PublikumBild_0nnn_small.jpg</AudienceSmallSize>
+		<AudiencePublish>TRUE</AudiencePublish>
+	</Audience>
+	
+	&amp;
+-->
+
+</JazzPublikum>	

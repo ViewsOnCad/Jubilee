@@ -1,5 +1,5 @@
 // File: Jubilee.js
-// Date: 2026-04-17
+// Date: 2026-04-23
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -26,12 +26,18 @@ var g_jubilee_TODO = null;
 // 1. 
 function initJubilee()
 {
-    g_jubilee_image_data = new JubileeImageData('id_div_image_container');
-
-    JubileeImage.setImages();
+    g_jubilee_xml = new JubileeXml(afterLoadOfJubileeXml);
 
 
 } // initJubilee
+
+function afterLoadOfJubileeXml()
+{
+   g_jubilee_image_data = new JubileeImageData('id_div_image_container');
+
+    // Temporary !!!!! JubileeImage.setImages();
+
+} // afterLoadOfJubileeXml
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// End Main Functions //////////////////////////////////////////////

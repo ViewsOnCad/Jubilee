@@ -1,0 +1,14 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<!-- This XML file is created from an XML object by the function xmlToFormattedString -->
+<JubileeRoot>
+    <JubileePhoto>
+        <PhotoUrl>NotYetSetNodeValue</PhotoUrl>
+        <SmallPhotoUrl>NotYetSetNodeValue</SmallPhotoUrl>
+        <PhotoText>NotYetSetNodeValue</PhotoText>
+        <PhotoEvent>NotYetSetNodeValue</PhotoEvent>
+        <PhotoYear>NotYetSetNodeValue</PhotoYear>
+        <PhotoMonth>NotYetSetNodeValue</PhotoMonth>
+        <PhotoDay>NotYetSetNodeValue</PhotoDay>
+    </JubileePhoto>
+
+</JubileeRoot>

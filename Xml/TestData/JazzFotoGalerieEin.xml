@@ -1,0 +1,3140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--  JAZZ live AARAU Photo Gallery One -->
+<GalleryOne>
+  <PhotoDirectory>FotoGalerie</PhotoDirectory>
+  <PhotosSeason>
+    <PhotoStartYearSeason>1997</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Erich Gandet Quintet</PhotoBandName>
+      <PhotoYear>1998</PhotoYear>
+      <PhotoMonth>6</PhotoMonth>
+      <PhotoDay>28</PhotoDay>
+      <GalleryName>G108</GalleryName>
+      <PhotoTextOne>Erich Gandet, NnNn, Rougie Rothenbühler</PhotoTextOne>
+      <PhotoTextTwo>Hannes Hänggli, Bruno Gandet</PhotoTextTwo>
+      <PhotoTextThree>Erich Gandet, NnNn, Rougie Rothenbühler</PhotoTextThree>
+      <PhotoTextFour>NotYetSetNodeValue</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d19980628_ErichGandet_Quintet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>1999</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Kenny Drew Jr. - Rätus Flisch - Tony Renold</PhotoBandName>
+      <PhotoYear>1999</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>21</PhotoDay>
+      <GalleryName>G109</GalleryName>
+      <PhotoTextOne>Kenny Drew Jr.</PhotoTextOne>
+      <PhotoTextTwo>Kenny Drew Jr.</PhotoTextTwo>
+      <PhotoTextThree>Kenny Drew Jr.</PhotoTextThree>
+      <PhotoTextFour>Kenny Drew Jr.</PhotoTextFour>
+      <PhotoTextFive>Rätus Flisch</PhotoTextFive>
+      <PhotoTextSix>Rätus Flisch</PhotoTextSix>
+      <PhotoTextSeven>Rätus Flisch, Kenny Drew Jr.</PhotoTextSeven>
+      <PhotoTextEight>Tony Renold</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d19991021_KennyDrew_RaetusFlisch_TonyRenold.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>The Honeymoaners</PhotoBandName>
+      <PhotoYear>1999</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>30</PhotoDay>
+      <GalleryName>G110</GalleryName>
+      <PhotoTextOne>Pius Schürmann, Rolf Lenzin</PhotoTextOne>
+      <PhotoTextTwo>Pius Schürmann, Rolf Lenzin, Renata Friederich, Sabine Hochstrasser</PhotoTextTwo>
+      <PhotoTextThree>Renata Friederich</PhotoTextThree>
+      <PhotoTextFour>Renata Friederich, Sabine Hochstrasser</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d19991030_The_Honeymoaners_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Quartico</PhotoBandName>
+      <PhotoYear>2000</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <GalleryName>G111</GalleryName>
+      <PhotoTextOne>Nic Niedermann, Tico Keller</PhotoTextOne>
+      <PhotoTextTwo>NotYetSetNodeValue</PhotoTextTwo>
+      <PhotoTextThree>NotYetSetNodeValue</PhotoTextThree>
+      <PhotoTextFour>NotYetSetNodeValue</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20000311_Quartico_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Trumpets and Rhythm</PhotoBandName>
+      <PhotoYear>2000</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>25</PhotoDay>
+      <GalleryName>G112</GalleryName>
+      <PhotoTextOne>Beat Affolter</PhotoTextOne>
+      <PhotoTextTwo>Beat Affolter, Umberto Arlati</PhotoTextTwo>
+      <PhotoTextThree>Laura Cesar</PhotoTextThree>
+      <PhotoTextFour>Umberto Arlati</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20000325_Trumpets_and_Rhythm_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Three Sirens meet Odysseus</PhotoBandName>
+      <PhotoYear>2000</PhotoYear>
+      <PhotoMonth>5</PhotoMonth>
+      <PhotoDay>7</PhotoDay>
+      <GalleryName>G113</GalleryName>
+      <PhotoTextOne>Eugenijus Jonavichus, Herbie Kopf</PhotoTextOne>
+      <PhotoTextTwo>NotYetSetNodeValue</PhotoTextTwo>
+      <PhotoTextThree>NotYetSetNodeValue</PhotoTextThree>
+      <PhotoTextFour>NotYetSetNodeValue</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20000507_Three_Sirens_meet_Odysseus_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2000</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>MELLOW BRASS Quintett</PhotoBandName>
+      <PhotoYear>2000</PhotoYear>
+      <PhotoMonth>9</PhotoMonth>
+      <PhotoDay>30</PhotoDay>
+      <GalleryName>G114</GalleryName>
+      <PhotoTextOne>Marc Scheidegger, Siro Spörli</PhotoTextOne>
+      <PhotoTextTwo>Paul Haag, Rolf Winiger, Siro Spörli</PhotoTextTwo>
+      <PhotoTextThree>Paul Haag, Tony Renold, Rolf Winiger, Siro Spörli, Marc Scheidegger</PhotoTextThree>
+      <PhotoTextFour>Tony Renold, Rolf Winiger, Paul Haag, Marc Scheidegger, Siro Spörli</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20000930_MELLOW_BRASS_Quintett_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Klaus Koenig JAZZ LIVE TRIO feat. Roland von Flüe</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>17</PhotoDay>
+      <GalleryName>G118</GalleryName>
+      <PhotoTextOne>Kalli Gerhards, Roland von Flüe, Nick Liebmann</PhotoTextOne>
+      <PhotoTextTwo>Klaus Koenig, Kalli Gerhards</PhotoTextTwo>
+      <PhotoTextThree>Klaus Koenig, Kalli Gerhards, Roland von Flüe</PhotoTextThree>
+      <PhotoTextFour>Nick Liebmann</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20010217_Klaus Koenig_JAZZ_LIVE_TRIO_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Moritz Peter Quartett</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>28</PhotoDay>
+      <GalleryName>G117</GalleryName>
+      <PhotoTextOne>Emmanuel Chabbey</PhotoTextOne>
+      <PhotoTextTwo>Emmanuel Chabbey</PhotoTextTwo>
+      <PhotoTextThree>Moritz Peter</PhotoTextThree>
+      <PhotoTextFour>Moritz Peter</PhotoTextFour>
+      <PhotoTextFive>William Chabbey</PhotoTextFive>
+      <PhotoTextSix>William Chabbey, Moritz Peter</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20010428_MoritzPeterQuartett_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2001</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Marianne Racine Quartet</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G119</GalleryName>
+      <PhotoTextOne>Andy Scherrer</PhotoTextOne>
+      <PhotoTextTwo>Andy Scherrer, Marianne Racine</PhotoTextTwo>
+      <PhotoTextThree>Marianne Racine</PhotoTextThree>
+      <PhotoTextFour>Marianne Racine</PhotoTextFour>
+      <PhotoTextFive>Marianne Racine</PhotoTextFive>
+      <PhotoTextSix>Marianne Racine, Andy Scherrer</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20011006_Marianne_Racine_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Fischer Trio, featurin' Co Streiff</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>27</PhotoDay>
+      <GalleryName>G01</GalleryName>
+      <PhotoTextOne>Co Streiff</PhotoTextOne>
+      <PhotoTextTwo>Publikum</PhotoTextTwo>
+      <PhotoTextThree>Benno Kaiser</PhotoTextThree>
+      <PhotoTextFour>Co Streiff</PhotoTextFour>
+      <PhotoTextFive>Co Streiff</PhotoTextFive>
+      <PhotoTextSix>Publikum</PhotoTextSix>
+      <PhotoTextSeven>Co Streiff</PhotoTextSeven>
+      <PhotoTextEight>Erich Fischer</PhotoTextEight>
+      <PhotoTextNine>Lukas Zimmermann</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20011017_EichFischer_CoStreiff_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Bruno Spörri und Jazz Live Trio</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G05</GalleryName>
+      <PhotoTextOne>NotYetSetNodeValue</PhotoTextOne>
+      <PhotoTextTwo>NotYetSetNodeValue</PhotoTextTwo>
+      <PhotoTextThree>NotYetSetNodeValue</PhotoTextThree>
+      <PhotoTextFour>Bruno Spörri und Jazz Live Trio</PhotoTextFour>
+      <PhotoTextFive>Kalli Gerhards</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20011110_BrunoSpoerri_JazzLiveTrio.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Stride Piano Concert</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G115</GalleryName>
+      <PhotoTextOne>Hans Baur</PhotoTextOne>
+      <PhotoTextTwo>Hans Baur</PhotoTextTwo>
+      <PhotoTextThree>Hans Baur, Tom Roberts</PhotoTextThree>
+      <PhotoTextFour>Tom Roberts</PhotoTextFour>
+      <PhotoTextFive>Tom Roberts</PhotoTextFive>
+      <PhotoTextSix>Tom Roberts</PhotoTextSix>
+      <PhotoTextSeven>Tom Roberts</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20011124_Stride_Piano_Concert_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Christian Münchinger Quartet</PhotoBandName>
+      <PhotoYear>2001</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>8</PhotoDay>
+      <GalleryName>G116</GalleryName>
+      <PhotoTextOne>Christian Münchinger</PhotoTextOne>
+      <PhotoTextTwo>Christian Münchinger</PhotoTextTwo>
+      <PhotoTextThree>Christian Münchinger</PhotoTextThree>
+      <PhotoTextFour>NotYetSetNodeValue</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20011208_Christian_Muenchinger_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>David Wildi “Guitar Poetry”</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>16</PhotoDay>
+      <GalleryName>G02</GalleryName>
+      <PhotoTextOne>David Wildi</PhotoTextOne>
+      <PhotoTextTwo>Pius Bashnagel</PhotoTextTwo>
+      <PhotoTextThree>Stefan Stahel</PhotoTextThree>
+      <PhotoTextFour>Stephan Athanas</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20020216_David_Wildi_Guitar_Poetry_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ray Blue with Jazz Live Trio</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>2</PhotoDay>
+      <GalleryName>G121</GalleryName>
+      <PhotoTextOne>Hämi Hämmerli</PhotoTextOne>
+      <PhotoTextTwo>Klaus Koenig</PhotoTextTwo>
+      <PhotoTextThree>Klaus Koenig</PhotoTextThree>
+      <PhotoTextFour>Nick Liebmann</PhotoTextFour>
+      <PhotoTextFive>Ray Blue</PhotoTextFive>
+      <PhotoTextSix>Ray Blue</PhotoTextSix>
+      <PhotoTextSeven>Ray Blue</PhotoTextSeven>
+      <PhotoTextEight>Ray Blue</PhotoTextEight>
+      <PhotoTextNine>Ray Blue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20020302_Ray_Blue_Jazz_Live_Trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Sureste Tango</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>16</PhotoDay>
+      <GalleryName>G122</GalleryName>
+      <PhotoTextOne>Angel Garcia Arnès</PhotoTextOne>
+      <PhotoTextTwo>Angel Garcia Arnès, Witek Kornacki</PhotoTextTwo>
+      <PhotoTextThree>Angel Garcia Arnès, Witek Kornacki</PhotoTextThree>
+      <PhotoTextFour>Angel Garcia Arnès, Witek Kornacki, Lech Wieleba</PhotoTextFour>
+      <PhotoTextFive>Lech Wieleba</PhotoTextFive>
+      <PhotoTextSix>Witek Kornacki</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20020316_Sureste_Tango_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>MISTURA FINA</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G123</GalleryName>
+      <PhotoTextOne>Herbie Kopf, Jakob Hug</PhotoTextOne>
+      <PhotoTextTwo>Jakob Hug</PhotoTextTwo>
+      <PhotoTextThree>Mistura, Georges Weiersmüller</PhotoTextThree>
+      <PhotoTextFour>Nnn</PhotoTextFour>
+      <PhotoTextFive>Nnn, Ademir Candido, Nnn, Herbie Kopf, Jakob Hug</PhotoTextFive>
+      <PhotoTextSix>Nnn</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20020406_MISTURA_FINA_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Marlon Jordan / Tommy Inderbinnen Quintett</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>16</PhotoDay>
+      <GalleryName>G124</GalleryName>
+      <PhotoTextOne>Jonas Castell</PhotoTextOne>
+      <PhotoTextTwo>Marlon Jordan, Tommy Inderbinnen</PhotoTextTwo>
+      <PhotoTextThree>Niclas Höglind, Marlon Jordan, Jonas Castell, Tommy Inderbinnen, Kristofer Johansson</PhotoTextThree>
+      <PhotoTextFour>Tommy Inderbinnen</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20020416_Marlon Jordan_Tommy_Inderbinnen_Quintett.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2002</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Jochen Baldes Subnoder</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>19</PhotoDay>
+      <GalleryName>G125</GalleryName>
+      <PhotoTextOne>Adrian Frey</PhotoTextOne>
+      <PhotoTextTwo>Christoph Sprenger</PhotoTextTwo>
+      <PhotoTextThree>Elmar Frey</PhotoTextThree>
+      <PhotoTextFour>Jochen Baldes</PhotoTextFour>
+      <PhotoTextFive>Jochen Baldes</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20021019_Jochen_Baldes_Subnoder_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Manfred Junker Quartett</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>9</PhotoDay>
+      <GalleryName>G126</GalleryName>
+      <PhotoTextOne>German Klaiber</PhotoTextOne>
+      <PhotoTextTwo>German Klaiber, Manfred Junker</PhotoTextTwo>
+      <PhotoTextThree>Manfred Junker</PhotoTextThree>
+      <PhotoTextFour>Reto Suhner</PhotoTextFour>
+      <PhotoTextFive>Reto Suhner</PhotoTextFive>
+      <PhotoTextSix>Reto Suhner, Manfred Junker, German Klaiber, Martin Deufel</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20022209_Manfred_Junker_Quartett_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Renata Friederich - Roberto Bossard Quartett</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>30</PhotoDay>
+      <GalleryName>G128</GalleryName>
+      <PhotoTextOne>Alberto Canonico, Hämi Hämmerli, Renata Friederich, Roberto Bossard</PhotoTextOne>
+      <PhotoTextTwo>Hämi Hämmerli</PhotoTextTwo>
+      <PhotoTextThree>Hämi Hämmerli, Roberto Bossard</PhotoTextThree>
+      <PhotoTextFour>Renata Friederich</PhotoTextFour>
+      <PhotoTextFive>Renata Friederich</PhotoTextFive>
+      <PhotoTextSix>Roberto Bossard</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20021130_Renata_Friederich_Roberto_Bossard_Quartett_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Charles Davis und Captured Moments</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>14</PhotoDay>
+      <GalleryName>G129</GalleryName>
+      <PhotoTextOne>Ahmet Yüzen</PhotoTextOne>
+      <PhotoTextTwo>Charles Davis</PhotoTextTwo>
+      <PhotoTextThree>Charles Davis, Uwe Metzler, Ahmet Yüzen</PhotoTextThree>
+      <PhotoTextFour>Uwe Metzler</PhotoTextFour>
+      <PhotoTextFive>Uwe Metzler</PhotoTextFive>
+      <PhotoTextSix>Uwe Metzler</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20021214_Charles_Davis_Captured Moments_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Agostino Di Giorgio Quartet</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>15</PhotoDay>
+      <GalleryName>G130</GalleryName>
+      <PhotoTextOne>Agostino Di Giorgio</PhotoTextOne>
+      <PhotoTextTwo>Ron Seguin</PhotoTextTwo>
+      <PhotoTextThree>Ron Seguin</PhotoTextThree>
+      <PhotoTextFour>Vince Benedetti, Ron Seguin, Elmar Frey, Agostino Di Giorgio</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20030215_Agostino_Di_Giorgio_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Lily Horn is Born Saxophone Quartett</PhotoBandName>
+      <PhotoYear>2002</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>16</PhotoDay>
+      <GalleryName>G127</GalleryName>
+      <PhotoTextOne>Anette Kitagawa</PhotoTextOne>
+      <PhotoTextTwo>Anette Kitagawa, Fabienne Hoerni</PhotoTextTwo>
+      <PhotoTextThree>Anette Kitagawa, Fabienne Hoerni, Lisette Wyss</PhotoTextThree>
+      <PhotoTextFour>Anette Kitagawa, Fabienne Hoerni</PhotoTextFour>
+      <PhotoTextFive>Fabienne Hoerni, Lisette Wyss</PhotoTextFive>
+      <PhotoTextSix>Susanne Müller</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20021116_Lily_Horn_is_Born_Saxophone_Quartett.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>The Sydney Ellis Duo</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>1</PhotoDay>
+      <GalleryName>G131</GalleryName>
+      <PhotoTextOne>Alvin Nicholson</PhotoTextOne>
+      <PhotoTextTwo>Alvin Nicholson</PhotoTextTwo>
+      <PhotoTextThree>Alvin Nicholson</PhotoTextThree>
+      <PhotoTextFour>Alvin Nicholson, Sydney Ellis</PhotoTextFour>
+      <PhotoTextFive>Sydney Ellis</PhotoTextFive>
+      <PhotoTextSix>Sydney Ellis</PhotoTextSix>
+      <PhotoTextSeven>Sydney Ellis</PhotoTextSeven>
+      <PhotoTextEight>Sydney Ellis</PhotoTextEight>
+      <PhotoTextNine>Sydney Ellis</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20030301_Sydney_Ellis_Duo_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Lisette Spinnler Quartet</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G132</GalleryName>
+      <PhotoTextOne>Andreas Hörni</PhotoTextOne>
+      <PhotoTextTwo>Lisette Spinnler</PhotoTextTwo>
+      <PhotoTextThree>Lisette Spinnler</PhotoTextThree>
+      <PhotoTextFour>Lisette Spinnler</PhotoTextFour>
+      <PhotoTextFive>Oliver Friedli</PhotoTextFive>
+      <PhotoTextSix>Oliver Friedli, Patrick Sommer, Andreas Hörni, Lisette Spinnler</PhotoTextSix>
+      <PhotoTextSeven>Patrick Sommer, Andreas Hörni</PhotoTextSeven>
+      <PhotoTextEight>Patrick Sommer</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20030329_Lisette_Spinnler_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>hip-noses Contemporary latin jazz group</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G134</GalleryName>
+      <PhotoTextOne>Daniel Schenker</PhotoTextOne>
+      <PhotoTextTwo>Daniel Schenker</PhotoTextTwo>
+      <PhotoTextThree>Hans Feigenwinter</PhotoTextThree>
+      <PhotoTextFour>Herbie Kopf</PhotoTextFour>
+      <PhotoTextFive>Herbie Kopf</PhotoTextFive>
+      <PhotoTextSix>Nathanael Su</PhotoTextSix>
+      <PhotoTextSeven>Nathanael Su</PhotoTextSeven>
+      <PhotoTextEight>Nathanael Su</PhotoTextEight>
+      <PhotoTextNine>Rafi Woll</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20030412_hip-noses_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2003</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Barry Harris Trio</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>4</PhotoDay>
+      <GalleryName>G133</GalleryName>
+      <PhotoTextOne>Alex Milo</PhotoTextOne>
+      <PhotoTextTwo>Alex Milo</PhotoTextTwo>
+      <PhotoTextThree>Alex Milo, Elmar Frey</PhotoTextThree>
+      <PhotoTextFour>Barry Harris</PhotoTextFour>
+      <PhotoTextFive>Barry Harris</PhotoTextFive>
+      <PhotoTextSix>Barry Harris</PhotoTextSix>
+      <PhotoTextSeven>Barry Harris</PhotoTextSeven>
+      <PhotoTextEight>Barry Harris, Alex Milo, Elmar Frey</PhotoTextEight>
+      <PhotoTextNine>Barry Harris, Alex Milo, Elmar Frey</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20031004_Barry_Harris_Trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Peter Schärli "triple vision"</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <GalleryName>G135</GalleryName>
+      <PhotoTextOne>Hämi Hämmerli</PhotoTextOne>
+      <PhotoTextTwo>Hämi Hämmerli, Lars Lindvall</PhotoTextTwo>
+      <PhotoTextThree>Peter Schärli</PhotoTextThree>
+      <PhotoTextFour>Peter Schärli, Umberto Arlati, Lars Lindvall, Hämi Hämmerli</PhotoTextFour>
+      <PhotoTextFive>Peter Schärli, Umberto Arlati, Lars Lindvall, Hämi Hämmerli</PhotoTextFive>
+      <PhotoTextSix>Peter Schmidlin</PhotoTextSix>
+      <PhotoTextSeven>Umberto Arlati</PhotoTextSeven>
+      <PhotoTextEight>Vince Benedetti, Hämi Hämmerli, Peter Schmidlin</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20031018_Peter_Schaerli_triple_vision.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Gandet Quintet mit Marianne Benz</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>18</PhotoDay>
+      <GalleryName>G136</GalleryName>
+      <PhotoTextOne>Bruno Gandet</PhotoTextOne>
+      <PhotoTextTwo>Bruno Gandet</PhotoTextTwo>
+      <PhotoTextThree>Erich Gandet</PhotoTextThree>
+      <PhotoTextFour>Hannes Hänggli</PhotoTextFour>
+      <PhotoTextFive>Marianne Benz</PhotoTextFive>
+      <PhotoTextSix>Rougie Rothenbühler</PhotoTextSix>
+      <PhotoTextSeven>Rougie Rothenbühler, Bruno Gandet</PhotoTextSeven>
+      <PhotoTextEight>Tico  Keller</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20031018_Erich Gandet_Quintet_Marianne_Benz_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>J.M. Rythm Four, featuring Peter Appleyard</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>8</PhotoDay>
+      <GalleryName>G137</GalleryName>
+      <PhotoTextOne>Alessandro d'Episcopo</PhotoTextOne>
+      <PhotoTextTwo>Alessandro d'Episcopo, Peter Appleyard</PhotoTextTwo>
+      <PhotoTextThree>Jürg Morgenthaler</PhotoTextThree>
+      <PhotoTextFour>Kalli Gerhards</PhotoTextFour>
+      <PhotoTextFive>Peter Appleyard</PhotoTextFive>
+      <PhotoTextSix>Peter Appleyard, Kalli Gerhards</PhotoTextSix>
+      <PhotoTextSeven>Pius Baschnagel</PhotoTextSeven>
+      <PhotoTextEight>Pius Baschnagel, Peter Appleyard</PhotoTextEight>
+      <PhotoTextNine>NnNn, Peter Appleyard, Jürg Morgenthaler</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20031108_JM_Rhythm_Four_Appleyard_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Franziska Keller Group</PhotoBandName>
+      <PhotoYear>2003</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G138</GalleryName>
+      <PhotoTextOne>Dominic Egli</PhotoTextOne>
+      <PhotoTextTwo>Francesca Keller</PhotoTextTwo>
+      <PhotoTextThree>Francesca Keller, Araxi Karnusian</PhotoTextThree>
+      <PhotoTextFour>Oli Kuster, Francesca Keller, Samuel Kühni, Dominic Egli, Araxi Karnusian</PhotoTextFour>
+      <PhotoTextFive>Samuel Kühni</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20031206_Franziska_Keller_Group_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Rolf Häsler Quartett</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G143</GalleryName>
+      <PhotoTextOne>Giorgos Antoniou</PhotoTextOne>
+      <PhotoTextTwo>Jèrome De Carli</PhotoTextTwo>
+      <PhotoTextThree>Jèrome De Carli, Rolf Häsler</PhotoTextThree>
+      <PhotoTextFour>Peter Horisberger</PhotoTextFour>
+      <PhotoTextFive>Rolf Häsler, Giorgos Antoniou</PhotoTextFive>
+      <PhotoTextSix>Rolf Häsler, Giorgos Antoniou</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20040124_Rolf_Haesler_Quartett_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Panjam</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>7</PhotoDay>
+      <GalleryName>G139</GalleryName>
+      <PhotoTextOne>Alex Bally</PhotoTextOne>
+      <PhotoTextTwo>Alex Bally</PhotoTextTwo>
+      <PhotoTextThree>Claudio Pini</PhotoTextThree>
+      <PhotoTextFour>Gabriele Comeglio</PhotoTextFour>
+      <PhotoTextFive>Gabriele Comeglio, Claudio Pini</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20040207_Panjam_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>JazzIMpuls</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>21</PhotoDay>
+      <GalleryName>G144</GalleryName>
+      <PhotoTextOne>Alberto Canonico</PhotoTextOne>
+      <PhotoTextTwo>Beat Baumli</PhotoTextTwo>
+      <PhotoTextThree>Laura Cesar</PhotoTextThree>
+      <PhotoTextFour>Laura Cesar</PhotoTextFour>
+      <PhotoTextFive>Peter Hanel</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20040221_JazzIMpuls_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jean Paul Brodbeck Trio</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G140</GalleryName>
+      <PhotoTextOne>Jean Paul Brodbeck</PhotoTextOne>
+      <PhotoTextTwo>Jean Paul Brodbeck</PhotoTextTwo>
+      <PhotoTextThree>Jean Paul Brodbeck</PhotoTextThree>
+      <PhotoTextFour>Peter Frei</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20040306_Jean_Paul_Brodbeck_Trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2004</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Convergencia Salsaband</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>2</PhotoDay>
+      <GalleryName>G141</GalleryName>
+      <PhotoTextOne>Convergencia Salsaband</PhotoTextOne>
+      <PhotoTextTwo>Convergencia Salsaband</PhotoTextTwo>
+      <PhotoTextThree>Gloria Velandia, Jost Müller, Guiomar Velandia</PhotoTextThree>
+      <PhotoTextFour>Gloria Velandia</PhotoTextFour>
+      <PhotoTextFive>Convergencia Salsaband</PhotoTextFive>
+      <PhotoTextSix>Convergencia Salsaband</PhotoTextSix>
+      <PhotoTextSeven>NnNn</PhotoTextSeven>
+      <PhotoTextEight>Gloria Velandia</PhotoTextEight>
+      <PhotoTextNine>Pius Baschnagel</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20041002_Convergencia_Salsaband_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Daniel Schenker Quartet featuring Chris Cheek</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>30</PhotoDay>
+      <GalleryName>G142</GalleryName>
+      <PhotoTextOne>Chris Cheek</PhotoTextOne>
+      <PhotoTextTwo>Chris Wiesendanger</PhotoTextTwo>
+      <PhotoTextThree>Chris Wiesendanger</PhotoTextThree>
+      <PhotoTextFour>Daniel Schenker</PhotoTextFour>
+      <PhotoTextFive>Daniel Schenker, Chris Cheek</PhotoTextFive>
+      <PhotoTextSix>Daniel Schenker, Chris Cheek, Peter Frei</PhotoTextSix>
+      <PhotoTextSeven>Elmar Frey</PhotoTextSeven>
+      <PhotoTextEight>Elmar Freys Tochter</PhotoTextEight>
+      <PhotoTextNine>Peter Frei</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20041030_Daniel_Schenker_Quartet_Chris_Cheek_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Fischer Trio feat. René Mosele und Vasko Atanasovski</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>27</PhotoDay>
+      <GalleryName>G145</GalleryName>
+      <PhotoTextOne>Lukas Zimmermann, Benno Kaiser</PhotoTextOne>
+      <PhotoTextTwo>Erich Fischer</PhotoTextTwo>
+      <PhotoTextThree>Erich Fischer, Vasko Atanasovski</PhotoTextThree>
+      <PhotoTextFour>Erich Fischer, Vasko Atanasovski, René Mosele, Lukas Zimmermann</PhotoTextFour>
+      <PhotoTextFive>Erich Fischer Trio</PhotoTextFive>
+      <PhotoTextSix>Lukas Zimmermann</PhotoTextSix>
+      <PhotoTextSeven>René Mosele, Lukas Zimmermann</PhotoTextSeven>
+      <PhotoTextEight>Vasko Atanasovski, René Mosele</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20041127_Erich_Fischer_Trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Kuno Kürner Trio</PhotoBandName>
+      <PhotoYear>2004</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <GalleryName>G146</GalleryName>
+      <PhotoTextOne>Christian Stock</PhotoTextOne>
+      <PhotoTextTwo>Kuno Kürner</PhotoTextTwo>
+      <PhotoTextThree>Walter Bittner</PhotoTextThree>
+      <PhotoTextFour>Walter Bittner</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20041211_Kuno_Kuerner_Trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jérome De Carli Trio</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G147</GalleryName>
+      <PhotoTextOne>Giorgious Antoniou</PhotoTextOne>
+      <PhotoTextTwo>Giorgious Antoniou, Michael Leuenberger</PhotoTextTwo>
+      <PhotoTextThree>Jérome De Carli</PhotoTextThree>
+      <PhotoTextFour>Jérome De Carli</PhotoTextFour>
+      <PhotoTextFive>Michael Leuenberger</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20050129_JeromeDeCarliTrio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ost-West Inspiration / Jazz-Klezmer-Klassik</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G148</GalleryName>
+      <PhotoTextOne>Felix Huber</PhotoTextOne>
+      <PhotoTextTwo>Felix Huber, Lech Wieleba, Witek Kornacki</PhotoTextTwo>
+      <PhotoTextThree>Felix Huber, Lech Wieleba, Witek Kornacki</PhotoTextThree>
+      <PhotoTextFour>Lech Wieleba</PhotoTextFour>
+      <PhotoTextFive>Lech Wieleba, Witek Kornacki</PhotoTextFive>
+      <PhotoTextSix>Witek Kornacki</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20050212_Ost-West_Inspiration_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Wynavalley Old Time Jazz Band</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G149</GalleryName>
+      <PhotoTextOne>Heinz Glauser</PhotoTextOne>
+      <PhotoTextTwo>Heinz Lehmann &amp; Peter C. Beyeler</PhotoTextTwo>
+      <PhotoTextThree>Heinz Lehmann &amp; Peter C. Beyeler &amp; Peter J. Hausmann</PhotoTextThree>
+      <PhotoTextFour>Peter C. Beyeler &amp; Heinz Lehmann &amp; Heinz Glauser &amp; Jack Surbeck</PhotoTextFour>
+      <PhotoTextFive>Peter Beyeler &amp; Jack Surbeck</PhotoTextFive>
+      <PhotoTextSix>Walter Dätwyler</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20050226_Wynavalley_Old_Time_Jazz_Band_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Laura Cesar – Windrose CD Taufe</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>5</PhotoDay>
+      <GalleryName>G150</GalleryName>
+      <PhotoTextOne>Beat Baumli</PhotoTextOne>
+      <PhotoTextTwo>Beat Baumli, Brian Rudolf, Laura Cesar, Marie-Jo Rudolf, Elmar Frey</PhotoTextTwo>
+      <PhotoTextThree>Elmar Frey</PhotoTextThree>
+      <PhotoTextFour>Laura Cesar</PhotoTextFour>
+      <PhotoTextFive>Laura Cesar</PhotoTextFive>
+      <PhotoTextSix>Laura Cesar</PhotoTextSix>
+      <PhotoTextSeven>Marie-Jo Rudolf</PhotoTextSeven>
+      <PhotoTextEight>Marie-Jo Rudolf</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20050305_Laura_Cesar_Windrose_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>L’ésprit du rythme</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G151</GalleryName>
+      <PhotoTextOne>Allesandro Ricciardi</PhotoTextOne>
+      <PhotoTextTwo>Allesandro Ricciardi, Michael Flury, Mario Sander, Boubakar M’baye</PhotoTextTwo>
+      <PhotoTextThree>Michael Fury</PhotoTextThree>
+      <PhotoTextFour>Mario Sander</PhotoTextFour>
+      <PhotoTextFive>Mario Sander, Boubakar M’baye</PhotoTextFive>
+      <PhotoTextSix>Michael Flury</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20050312_Lesprit_du_rythme_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Daniel Schläppi 4th dimension</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>2</PhotoDay>
+      <GalleryName>G157</GalleryName>
+      <PhotoTextOne>Colin Vallon</PhotoTextOne>
+      <PhotoTextTwo>Colin Vallon</PhotoTextTwo>
+      <PhotoTextThree>Daniel Schläppi</PhotoTextThree>
+      <PhotoTextFour>Daniel Schläppi</PhotoTextFour>
+      <PhotoTextFive>Jürg Bucher</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20050402_DanielSchlaeppi_4th_dimension.zip</PhotoZipName>
+      <PhotoConcertNumber>13</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2005</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Triple Image</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>1</PhotoDay>
+      <GalleryName>G153</GalleryName>
+      <PhotoTextOne>Bernadette Soder</PhotoTextOne>
+      <PhotoTextTwo>Fridolin Blumer</PhotoTextTwo>
+      <PhotoTextThree>Fridolin Blumer</PhotoTextThree>
+      <PhotoTextFour>NotYetSetNodeValue</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20051001_Triple_Image_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Tony Renold Quartet  Timeless Flow</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>15</PhotoDay>
+      <GalleryName>G152</GalleryName>
+      <PhotoTextOne>Michael Bucher</PhotoTextOne>
+      <PhotoTextTwo>Rätus Flisch, Michael Gassman</PhotoTextTwo>
+      <PhotoTextThree>Tony Renold</PhotoTextThree>
+      <PhotoTextFour>Tony Renold</PhotoTextFour>
+      <PhotoTextFive>Tony Renold</PhotoTextFive>
+      <PhotoTextSix>Tony Renold, Rätus Flisch</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20051015_Tony_Renold_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Silves Trio</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G158</GalleryName>
+      <PhotoTextOne>Andreas Schmid</PhotoTextOne>
+      <PhotoTextTwo>Andreas Schmid</PhotoTextTwo>
+      <PhotoTextThree>Christoph Sprenger</PhotoTextThree>
+      <PhotoTextFour>Christoph Sprenger</PhotoTextFour>
+      <PhotoTextFive>Christoph Sprenger, Andreas Schmid</PhotoTextFive>
+      <PhotoTextSix>Thomas Silvestri</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20051029_Silves_Trio.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>DIRK jazzige Popsongs</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G154</GalleryName>
+      <PhotoTextOne>Eliane Cueni</PhotoTextOne>
+      <PhotoTextTwo>Sandra Merk</PhotoTextTwo>
+      <PhotoTextThree>Helen Iten</PhotoTextThree>
+      <PhotoTextFour>Sandra Merk, Eliane Cueni</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20051112_DIRK_jazzige_Popsongs.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Firau swiss_rythm_n_folk</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G155</GalleryName>
+      <PhotoTextOne>Heinz della Torre</PhotoTextOne>
+      <PhotoTextTwo>Martin Ledergerber</PhotoTextTwo>
+      <PhotoTextThree>Martin Ledergerber, Roland von Flüe</PhotoTextThree>
+      <PhotoTextFour>Martin Ledergerber, Roland von Flüe, Heinz della Torre</PhotoTextFour>
+      <PhotoTextFive>Roland von Flüe, Heinz della Torre</PhotoTextFive>
+      <PhotoTextSix>Roland von Flüe, Heinz della Torre</PhotoTextSix>
+      <PhotoTextSeven>Thomas Stalder</PhotoTextSeven>
+      <PhotoTextEight>Werner Häcki, Jean-Pierre Maillard</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20051126_Firau_swiss_rythm_n_folk.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Mark Hauser and  Mambology feat. Heriberto „Heri“ Paredes</PhotoBandName>
+      <PhotoYear>2005</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G156</GalleryName>
+      <PhotoTextOne>Georgios Mikirozis</PhotoTextOne>
+      <PhotoTextTwo>Heriberto Paredes</PhotoTextTwo>
+      <PhotoTextThree>Heriberto Paredes, Markus Fischer</PhotoTextThree>
+      <PhotoTextFour>Heriberto Paredes, Markus Fischer, Mark Hauser, Andreas Schnyder</PhotoTextFour>
+      <PhotoTextFive>Markus Fischer</PhotoTextFive>
+      <PhotoTextSix>Markus Fischer, Andreas Schnyder, Mark Hauser, Georgios Mikirozis</PhotoTextSix>
+      <PhotoTextSeven>Markus Fischer, Loris Peloso</PhotoTextSeven>
+      <PhotoTextEight>Mark Hauser</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20051210_Mark_Hauser_Mambology.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Marcel Lüscher Quartett</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>21</PhotoDay>
+      <GalleryName>G159</GalleryName>
+      <PhotoTextOne>Beni Bürgin</PhotoTextOne>
+      <PhotoTextTwo>Dario Bianchin, Marcel Lüscher</PhotoTextTwo>
+      <PhotoTextThree>Dario Bianchin, Marcel Lüscher</PhotoTextThree>
+      <PhotoTextFour>Dominik Schürmann</PhotoTextFour>
+      <PhotoTextFive>Dominik Schürmann, Beni Bürgin, Marcel Lüscher</PhotoTextFive>
+      <PhotoTextSix>Marcel Lüscher</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060121_Marcel_Luescher_Quartett.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Alex Felix Jazz Club</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>4</PhotoDay>
+      <GalleryName>G162</GalleryName>
+      <PhotoTextOne>Alberto Canonico</PhotoTextOne>
+      <PhotoTextTwo>Alex Felix</PhotoTextTwo>
+      <PhotoTextThree>Alex Felix, Hans Meier</PhotoTextThree>
+      <PhotoTextFour>Christoph Sprenger</PhotoTextFour>
+      <PhotoTextFive>Gina Günthard</PhotoTextFive>
+      <PhotoTextSix>Gina Günthard, Alex Felix</PhotoTextSix>
+      <PhotoTextSeven>Hans Meier</PhotoTextSeven>
+      <PhotoTextEight>Vince Benedetti</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060204_Alex_Felix_Jazz_Club_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Stewy von Wattenwyl Trio</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>18</PhotoDay>
+      <GalleryName>G163</GalleryName>
+      <PhotoTextOne>Daniel Schläppi</PhotoTextOne>
+      <PhotoTextTwo>Stewy von Wattenwyl</PhotoTextTwo>
+      <PhotoTextThree>Tobias Friedli</PhotoTextThree>
+      <PhotoTextFour>Tobias Friedli, Daniel Schläppi, Stewy von Wattenyl</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060218_Stewy_von_Wattenwyl_Trio.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ray Blue Quartett</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>4</PhotoDay>
+      <GalleryName>G161</GalleryName>
+      <PhotoTextOne>Adrian Frey</PhotoTextOne>
+      <PhotoTextTwo>Hannes Hänggli</PhotoTextTwo>
+      <PhotoTextThree>Hannes Hänggli, Adrian Frey, Reimund Gerstner</PhotoTextThree>
+      <PhotoTextFour>Ray Blue</PhotoTextFour>
+      <PhotoTextFive>Ray Blue</PhotoTextFive>
+      <PhotoTextSix>Ray Blue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060304_Ray_Blue_Quartett_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Christoph Stiefel Trio</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>18</PhotoDay>
+      <GalleryName>G164</GalleryName>
+      <PhotoTextOne>Christoph Stiefel, Patrice Moret, Marcel Papaux</PhotoTextOne>
+      <PhotoTextTwo>Christoph Stiefel</PhotoTextTwo>
+      <PhotoTextThree>Christoph Stiefel</PhotoTextThree>
+      <PhotoTextFour>Marcel Papaux</PhotoTextFour>
+      <PhotoTextFive>Marcel Papaux</PhotoTextFive>
+      <PhotoTextSix>Patrice Moret</PhotoTextSix>
+      <PhotoTextSeven>Patrice Moret</PhotoTextSeven>
+      <PhotoTextEight>Patrice Moret, Marcel Papaux</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060318_Christoph_Stiefel_Trio.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Lubos Holub Ensemble</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>1</PhotoDay>
+      <GalleryName>G160</GalleryName>
+      <PhotoTextOne>Ladislav Holub, Ruedi Vögeli</PhotoTextOne>
+      <PhotoTextTwo>Lobus Holub</PhotoTextTwo>
+      <PhotoTextThree>Lobus Holub</PhotoTextThree>
+      <PhotoTextFour>Lobus Holub</PhotoTextFour>
+      <PhotoTextFive>Lubos Holub Ensemble</PhotoTextFive>
+      <PhotoTextSix>Lubos Holub Ensemble</PhotoTextSix>
+      <PhotoTextSeven>Lobus Holub, NnNn</PhotoTextSeven>
+      <PhotoTextEight>Robert Horvath</PhotoTextEight>
+      <PhotoTextNine>Robert Horvath, Lobus Holub</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060401_Lubos_Holub_Ensemble_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>In memoriam Georges Amsler</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>8</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G165</GalleryName>
+      <PhotoTextOne>Franz Winteler</PhotoTextOne>
+      <PhotoTextTwo>Franz Winteler</PhotoTextTwo>
+      <PhotoTextThree>Stefan Pavelka</PhotoTextThree>
+      <PhotoTextFour>Stefan Pavelka</PhotoTextFour>
+      <PhotoTextFive>Stefan Pavelka, Franz Winteler</PhotoTextFive>
+      <PhotoTextSix>Stefan Pavelka, Franz Winteler</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20060826_In memoriam_Georges_Amsler_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>13</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2006</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Peter Schärli Trio featuring Ithamara Koorax</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>25</PhotoDay>
+      <GalleryName>G17</GalleryName>
+      <PhotoTextOne>Peter Schärli</PhotoTextOne>
+      <PhotoTextTwo>Ithamara Koorax</PhotoTextTwo>
+      <PhotoTextThree>Thomas Dürst</PhotoTextThree>
+      <PhotoTextFour>Ithamara Koorax &amp; Thomas Dürst</PhotoTextFour>
+      <PhotoTextFive>Peter Schärli Trio</PhotoTextFive>
+      <PhotoTextSix>Ithamara Koorax</PhotoTextSix>
+      <PhotoTextSeven>Markus Stalder</PhotoTextSeven>
+      <PhotoTextEight>Thomas Dürst</PhotoTextEight>
+      <PhotoTextNine>Markus Stalder</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Herbie Kopf’s Vilnius Quartet</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>7</PhotoDay>
+      <GalleryName>G166</GalleryName>
+      <PhotoTextOne>Herbie Kopf’s Vilnius Quartet</PhotoTextOne>
+      <PhotoTextTwo>Reto Suhner, Herbie Kopf</PhotoTextTwo>
+      <PhotoTextThree>Dimitrij Golovanov</PhotoTextThree>
+      <PhotoTextFour>Dimitrij Golovanov</PhotoTextFour>
+      <PhotoTextFive>Herbie Kopf</PhotoTextFive>
+      <PhotoTextSix>Herbie Kopf’s Vilnius Quartet</PhotoTextSix>
+      <PhotoTextSeven>Herbie Kopf’s Vilnius Quartet</PhotoTextSeven>
+      <PhotoTextEight>Reto Suhner</PhotoTextEight>
+      <PhotoTextNine>Marijus Aleksa</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20061007_Herbie_Kopfs_Vilnius_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Gandet Quintet</PhotoBandName>
+      <PhotoYear>2006</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>9</PhotoDay>
+      <GalleryName>G167</GalleryName>
+      <PhotoTextOne>Erich Gandet, Tico Keller</PhotoTextOne>
+      <PhotoTextTwo>Hannes Hänggli</PhotoTextTwo>
+      <PhotoTextThree>Tico Keller, Bruno Gandet</PhotoTextThree>
+      <PhotoTextFour>Rougi Rothenbühler</PhotoTextFour>
+      <PhotoTextFive>NotYetSetNodeValue</PhotoTextFive>
+      <PhotoTextSix>NotYetSetNodeValue</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20061209_Erich_Gandet_Quintet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Urban Spaces Quartet</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>27</PhotoDay>
+      <GalleryName>G168</GalleryName>
+      <PhotoTextOne>Bruno Huwyler</PhotoTextOne>
+      <PhotoTextTwo>Bruno Huwyler</PhotoTextTwo>
+      <PhotoTextThree>Edgar Marc Petter</PhotoTextThree>
+      <PhotoTextFour>Edgar Marc Petter</PhotoTextFour>
+      <PhotoTextFive>Edgar Marc Petter, Francis Petter</PhotoTextFive>
+      <PhotoTextSix>Francis Petter</PhotoTextSix>
+      <PhotoTextSeven>Peter Hunziker</PhotoTextSeven>
+      <PhotoTextEight>Peter Hunziker</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20070127_Urban_Spaces_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Voice it</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G169</GalleryName>
+      <PhotoTextOne>Andreas Schnyder</PhotoTextOne>
+      <PhotoTextTwo>Lisette Spinnler</PhotoTextTwo>
+      <PhotoTextThree>Lisette Spinnler</PhotoTextThree>
+      <PhotoTextFour>Roland Köppel</PhotoTextFour>
+      <PhotoTextFive>Roland Köppel</PhotoTextFive>
+      <PhotoTextSix>Roland Köppel, Jean-Pierre Schaller</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20070210_Voice_it_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Rafael Baier Group</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G170</GalleryName>
+      <PhotoTextOne>Christian Gall</PhotoTextOne>
+      <PhotoTextTwo>Claudio Strebel</PhotoTextTwo>
+      <PhotoTextThree>Ingrid Lukas</PhotoTextThree>
+      <PhotoTextFour>Ingrid Lukas</PhotoTextFour>
+      <PhotoTextFive>Ingrid Lukas, Claudio Strebel, Rafael Baier</PhotoTextFive>
+      <PhotoTextSix>Jörg Mikula</PhotoTextSix>
+      <PhotoTextSeven>Rafael Baier</PhotoTextSeven>
+      <PhotoTextEight>Willy Kotoun</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20070310_Rafael_Baier_Group_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Luigi Grasso Quintet</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <!--  Actually 10, but two concerts on one day does not work -->
+      <GalleryName>G185</GalleryName>
+      <PhotoTextOne>Kuno Kürner</PhotoTextOne>
+      <PhotoTextTwo>Luca Pisani</PhotoTextTwo>
+      <PhotoTextThree>Luca Pisani</PhotoTextThree>
+      <PhotoTextFour>Luigi Grasso</PhotoTextFour>
+      <PhotoTextFive>Luigi Grasso</PhotoTextFive>
+      <PhotoTextSix>Luigi Grasso, Kuno Kürner, Luca Pisani</PhotoTextSix>
+      <PhotoTextSeven>Pasquale Grasso</PhotoTextSeven>
+      <PhotoTextEight>Walter Bittner</PhotoTextEight>
+      <PhotoTextNine>Walter Bittner</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20070310_Luigi_Grasso_Quintet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Where’s Africa Quartet</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G171</GalleryName>
+      <PhotoTextOne>Adrian Mears</PhotoTextOne>
+      <PhotoTextTwo>Adrian Mears</PhotoTextTwo>
+      <PhotoTextThree>Irène Schweizer</PhotoTextThree>
+      <PhotoTextFour>Irène Schweizer</PhotoTextFour>
+      <PhotoTextFive>Makaya Ntshoko</PhotoTextFive>
+      <PhotoTextSix>Makaya Ntshoko</PhotoTextSix>
+      <PhotoTextSeven>Omri Ziegele</PhotoTextSeven>
+      <PhotoTextEight>Omri Ziegele</PhotoTextEight>
+      <PhotoTextNine>Omri Ziegele</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20070324_Wheres_Africa_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2007</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Twobones</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>9</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G172</GalleryName>
+      <PhotoTextOne>Danilo Moccia</PhotoTextOne>
+      <PhotoTextTwo>Isla Eckinger</PhotoTextTwo>
+      <PhotoTextThree>Isla Eckinger</PhotoTextThree>
+      <PhotoTextFour>Paul Haag</PhotoTextFour>
+      <PhotoTextFive>Paul Haag, Danilo Moccia</PhotoTextFive>
+      <PhotoTextSix>Peter Schmidlin</PhotoTextSix>
+      <PhotoTextSeven>Tutilo Odermatt</PhotoTextSeven>
+      <PhotoTextEight>Tutilo Odermatt, Danilo Moccia, Paul Haag</PhotoTextEight>
+      <PhotoTextNine>Twobones</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20070929_Twobones_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Oli Kuster Kombo</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>27</PhotoDay>
+      <GalleryName>G173</GalleryName>
+      <PhotoTextOne>Dominic Egli</PhotoTextOne>
+      <PhotoTextTwo>Dominic Egli</PhotoTextTwo>
+      <PhotoTextThree>Jürg Bucher</PhotoTextThree>
+      <PhotoTextFour>Jürg Bucher</PhotoTextFour>
+      <PhotoTextFive>Peter Schmidlin</PhotoTextFive>
+      <PhotoTextSix>Lorenz Beyeler</PhotoTextSix>
+      <PhotoTextSeven>Lorenz Beyeler</PhotoTextSeven>
+      <PhotoTextEight>Lorenz Beyeler</PhotoTextEight>
+      <PhotoTextNine>Oli Kuster</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20071027_Oli_Kuster _Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Fischer Quintett</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G174</GalleryName>
+      <PhotoTextOne>Erich Fischer</PhotoTextOne>
+      <PhotoTextTwo>Erich Fischer &amp; Claudio Strebel</PhotoTextTwo>
+      <PhotoTextThree>Vasko Atanasovski</PhotoTextThree>
+      <PhotoTextFour>Claudio Strebel</PhotoTextFour>
+      <PhotoTextFive>René Mosele</PhotoTextFive>
+      <PhotoTextSix>René Mosele</PhotoTextSix>
+      <PhotoTextSeven>Benno Kaiser</PhotoTextSeven>
+      <PhotoTextEight>Claudio Strebel</PhotoTextEight>
+      <PhotoTextNine>Vasko Atanasovski</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20071110_Erich_Fischer_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Michael Hammer Trio</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G175</GalleryName>
+      <PhotoTextOne>Andreas Aeberhard</PhotoTextOne>
+      <PhotoTextTwo>Floriano Inacio Jr.</PhotoTextTwo>
+      <PhotoTextThree>Michael Hammer</PhotoTextThree>
+      <PhotoTextFour>Andreas Aeberhard</PhotoTextFour>
+      <PhotoTextFive>Floriano Inacio Jr.</PhotoTextFive>
+      <PhotoTextSix>Floriano Inacio Jr., Andreas Aeberhard</PhotoTextSix>
+      <PhotoTextSeven>Michael Hammer</PhotoTextSeven>
+      <PhotoTextEight>Michael Hammer</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20071124_Michael_Hammer_trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Hornknox</PhotoBandName>
+      <PhotoYear>2007</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>8</PhotoDay>
+      <GalleryName>G24</GalleryName>
+      <PhotoTextOne>Klaus Widmer</PhotoTextOne>
+      <PhotoTextTwo>Michael Zisman</PhotoTextTwo>
+      <PhotoTextThree>Klaus Widmer</PhotoTextThree>
+      <PhotoTextFour>NnNn</PhotoTextFour>
+      <PhotoTextFive>Hornknox</PhotoTextFive>
+      <PhotoTextSix>Daniel Aebi</PhotoTextSix>
+      <PhotoTextSeven>Daniel Aebi</PhotoTextSeven>
+      <PhotoTextEight>Michael Zisman</PhotoTextEight>
+      <PhotoTextNine>Klaus Widmer</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20071208_Hornknox_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jochen Baldes Subnoder</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G176</GalleryName>
+      <PhotoTextOne>Adrian Frey &amp; Jochen Baldes</PhotoTextOne>
+      <PhotoTextTwo>Christoph Sprenger</PhotoTextTwo>
+      <PhotoTextThree>Christoph Sprenger &amp; Michael Gassmann</PhotoTextThree>
+      <PhotoTextFour>Elmar Frey</PhotoTextFour>
+      <PhotoTextFive>Jochen Baldes</PhotoTextFive>
+      <PhotoTextSix>Jochen Baldes</PhotoTextSix>
+      <PhotoTextSeven>Jochen Baldes &amp; Michael Gassmann</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20080126_Jochen_Baldes_Subnoder_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Greasy</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>9</PhotoDay>
+      <GalleryName>G177</GalleryName>
+      <PhotoTextOne>Christian Niederer</PhotoTextOne>
+      <PhotoTextTwo>Christian Niederer</PhotoTextTwo>
+      <PhotoTextThree>Oliver Keller</PhotoTextThree>
+      <PhotoTextFour>Roland Köppel</PhotoTextFour>
+      <PhotoTextFive>Roland Köppel, Oliver Keller</PhotoTextFive>
+      <PhotoTextSix>Roland Köppel, Oliver Keller</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20080209_Greasy_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Stefano Romerio Trio featuring Alfredo Ferrario</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>23</PhotoDay>
+      <GalleryName>G178</GalleryName>
+      <PhotoTextOne>Alfredo Ferrario</PhotoTextOne>
+      <PhotoTextTwo>Roberto Piccolo</PhotoTextTwo>
+      <PhotoTextThree>Stefano Romerio</PhotoTextThree>
+      <PhotoTextFour>Stefano Romerio, Alfredo Ferrario</PhotoTextFour>
+      <PhotoTextFive>Roberto Piccolo, Massimo Caracca, Stefano Romerio, Alfredo Ferrario</PhotoTextFive>
+      <PhotoTextSix>Alfredo Ferrario</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20080223_Stefano_Romerio_Alfredo_Ferrario_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ladybirds</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>8</PhotoDay>
+      <GalleryName>G179</GalleryName>
+      <PhotoTextOne>Emanuel Schnyder, Lisette Spinnler</PhotoTextOne>
+      <PhotoTextTwo>Gina Günthard</PhotoTextTwo>
+      <PhotoTextThree>Lisette Spinnler</PhotoTextThree>
+      <PhotoTextFour>Michael Stutz</PhotoTextFour>
+      <PhotoTextFive>Oliver Friedli</PhotoTextFive>
+      <PhotoTextSix>Petra Vogel </PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20080308_Ladybirds_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Barbara Balzan</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G180</GalleryName>
+      <PhotoTextOne>Barbara Balzan</PhotoTextOne>
+      <PhotoTextTwo>Barbara Balzan</PhotoTextTwo>
+      <PhotoTextThree>Barbara Balzan</PhotoTextThree>
+      <PhotoTextFour>Barbara Balzan</PhotoTextFour>
+      <PhotoTextFive>Gregor Müller, Attilo Zanchi</PhotoTextFive>
+      <PhotoTextSix>Gregor Müller</PhotoTextSix>
+      <PhotoTextSeven>Robby Hacaturian</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20080329_Barbara_Balzan_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Daniel Blanc / Umberto Arlati Quintet</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>4</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G181</GalleryName>
+      <PhotoTextOne>Dani Blanc &amp; K.T. Geier</PhotoTextOne>
+      <PhotoTextTwo>John Burrows</PhotoTextTwo>
+      <PhotoTextThree>John Burrows &amp; Daniel Blanc</PhotoTextThree>
+      <PhotoTextFour>Umberto Arlati</PhotoTextFour>
+      <PhotoTextFive>Vince Benedetti</PhotoTextFive>
+      <PhotoTextSix>Vince Benedetti</PhotoTextSix>
+      <PhotoTextSeven>NotYetSetNodeValue</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20080412_Dani_Blanc_Umberto_Arlati_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2008</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Four or more Flutes</PhotoBandName>
+      <PhotoYear>2008</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G182</GalleryName>
+      <PhotoTextOne>Andieh Merk</PhotoTextOne>
+      <PhotoTextTwo>Charles Davis</PhotoTextTwo>
+      <PhotoTextThree>Felix Hodel</PhotoTextThree>
+      <PhotoTextFour>Felix Hodel</PhotoTextFour>
+      <PhotoTextFive>Four or more flutes</PhotoTextFive>
+      <PhotoTextSix>Four or more Flutes</PhotoTextSix>
+      <PhotoTextSeven>Stefan Mölkner, Andieh Merk, Norbert Dehmke</PhotoTextSeven>
+      <PhotoTextEight>NotYetSetNodeValue</PhotoTextEight>
+      <PhotoTextNine>NotYetSetNodeValue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20081206_Four_or_More_Flutes_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Stewy von Wattenwyls WABASH</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>17</PhotoDay>
+      <GalleryName>G183</GalleryName>
+      <PhotoTextOne>Alex Hendriksen</PhotoTextOne>
+      <PhotoTextTwo>Pius Baschnagel</PhotoTextTwo>
+      <PhotoTextThree>Alex Hendriksen</PhotoTextThree>
+      <PhotoTextFour>Daniel Woodtli</PhotoTextFour>
+      <PhotoTextFive>WABASH</PhotoTextFive>
+      <PhotoTextSix>Samuel Dühsler</PhotoTextSix>
+      <PhotoTextSeven>Stewy von Wattenwyl</PhotoTextSeven>
+      <PhotoTextEight>Stewy von Wattenwyl</PhotoTextEight>
+      <PhotoTextNine>Pius Baschnagel</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>2009-01-17_Stewy_von_Wattenwil_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Francesca Keller Group</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>31</PhotoDay>
+      <GalleryName>G184</GalleryName>
+      <PhotoTextOne>Ricardo Regidor</PhotoTextOne>
+      <PhotoTextTwo>Reimund Gerstner</PhotoTextTwo>
+      <PhotoTextThree>Samuel Dühsler</PhotoTextThree>
+      <PhotoTextFour>Reimund Gerstner, Wege Wühtrich</PhotoTextFour>
+      <PhotoTextFive>Francesca Keller Group</PhotoTextFive>
+      <PhotoTextSix>Samuel Dühsler</PhotoTextSix>
+      <PhotoTextSeven>Reimund Gerstner, Wege Wühtrich, Samuel Dühsler</PhotoTextSeven>
+      <PhotoTextEight>Reimund Gerstner, Wege Wühtrich</PhotoTextEight>
+      <PhotoTextNine>Ricardo Regidor, Reimund Gerstner</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20090130_Francesca_Keller_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>DKgramm plays Horace Silver</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>14</PhotoDay>
+      <GalleryName>G29</GalleryName>
+      <PhotoTextOne>Dietmar Kirchner</PhotoTextOne>
+      <PhotoTextTwo>Karoly Gaspar &amp; Dietmar Kirchner</PhotoTextTwo>
+      <PhotoTextThree>Doris Mätzler</PhotoTextThree>
+      <PhotoTextFour>Klaus Raidt</PhotoTextFour>
+      <PhotoTextFive>Karoly Gaspar</PhotoTextFive>
+      <PhotoTextSix>Klaus Raidt</PhotoTextSix>
+      <PhotoTextSeven>Dietmar Kirchner</PhotoTextSeven>
+      <PhotoTextEight>Doris Mätzler</PhotoTextEight>
+      <PhotoTextNine>Dietmar Kirchner</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20090214_DKGramm_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>New Shoes</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>28</PhotoDay>
+      <GalleryName>G30</GalleryName>
+      <PhotoTextOne>Hans Kennel</PhotoTextOne>
+      <PhotoTextTwo>Hans Kennel</PhotoTextTwo>
+      <PhotoTextThree>Bruno Spoerri</PhotoTextThree>
+      <PhotoTextFour>Herbie Kopf</PhotoTextFour>
+      <PhotoTextFive>New Shoes</PhotoTextFive>
+      <PhotoTextSix>Hans Kennel</PhotoTextSix>
+      <PhotoTextSeven>Nathanael Su</PhotoTextSeven>
+      <PhotoTextEight>Nathanael Su</PhotoTextEight>
+      <PhotoTextNine>Elmar Frey</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20090328_New_shoes_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2009</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Thomas Lüscher new trio</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G31</GalleryName>
+      <PhotoTextOne>Thomas Lüscher</PhotoTextOne>
+      <PhotoTextTwo>Thomas Lüscher new trio</PhotoTextTwo>
+      <PhotoTextThree>Samuel Dühsler</PhotoTextThree>
+      <PhotoTextFour>Thomas Lüscher</PhotoTextFour>
+      <PhotoTextFive>Thomas Lüscher new trio</PhotoTextFive>
+      <PhotoTextSix>Manuel Müller</PhotoTextSix>
+      <PhotoTextSeven>Thomas Lüscher</PhotoTextSeven>
+      <PhotoTextEight>Manuel Müller</PhotoTextEight>
+      <PhotoTextNine>Samuel Dühsler</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091010_Thomas_Luescher_new_trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Accordion Project</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G32</GalleryName>
+      <PhotoTextOne>Danilo Boggini</PhotoTextOne>
+      <PhotoTextTwo>Alberto Guareschi</PhotoTextTwo>
+      <PhotoTextThree>Danilo Boggini</PhotoTextThree>
+      <PhotoTextFour>Rossella Bellinelli</PhotoTextFour>
+      <PhotoTextFive>Danilo Boggini</PhotoTextFive>
+      <PhotoTextSix>Rossella Bellinelli</PhotoTextSix>
+      <PhotoTextSeven>Sandro Di Pisa</PhotoTextSeven>
+      <PhotoTextEight>Alberto Guareschi</PhotoTextEight>
+      <PhotoTextNine>Mauro Pesenti</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091024_Accordion_Project_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Michael Hammer Quartet</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>25</PhotoDay>
+      <!-- Work around Should be 24-->
+      <GalleryName>G33</GalleryName>
+      <PhotoTextOne>Fridolin Blumer &amp; Michael Hammer</PhotoTextOne>
+      <PhotoTextTwo>Fridolin Blumer</PhotoTextTwo>
+      <PhotoTextThree>Oliver Widmer</PhotoTextThree>
+      <PhotoTextFour>Oliver Widmer</PhotoTextFour>
+      <PhotoTextFive>Oliver Widmer &amp; Fridolin Blumer &amp; Michael Hammer</PhotoTextFive>
+      <PhotoTextSix>Michael Hammer</PhotoTextSix>
+      <PhotoTextSeven>Fridolin Blumer</PhotoTextSeven>
+      <PhotoTextEight>Michael Hammer</PhotoTextEight>
+      <PhotoTextNine>Oliver Widmer</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091024_Michael_Hammer_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>13</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>stanisabo quintet</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <!-- Work around Should be 24-->
+      <GalleryName>G34</GalleryName>
+      <PhotoTextOne>Sabine Siegrist</PhotoTextOne>
+      <PhotoTextTwo>Thomas Blättler</PhotoTextTwo>
+      <PhotoTextThree>Stani Elmer</PhotoTextThree>
+      <PhotoTextFour>Markus Brodtbeck</PhotoTextFour>
+      <PhotoTextFive>stanisabo quintet</PhotoTextFive>
+      <PhotoTextSix>Lucio Marelli</PhotoTextSix>
+      <PhotoTextSeven>Sabine Siegrist</PhotoTextSeven>
+      <PhotoTextEight>Thomas Blättler</PhotoTextEight>
+      <PhotoTextNine>Sabine Siegrist &amp; Thomas Blättler</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091024_stanisabo_quintet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>14</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Gabriela Krapf Quartet</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>7</PhotoDay>
+      <GalleryName>G35</GalleryName>
+      <PhotoTextOne>Christian Münchinger</PhotoTextOne>
+      <PhotoTextTwo>Roberto Bossard &amp; Raffaele Bossard</PhotoTextTwo>
+      <PhotoTextThree>Christian Münchinger</PhotoTextThree>
+      <PhotoTextFour>Gabriela Krapf &amp; Christian Münchinger</PhotoTextFour>
+      <PhotoTextFive>Gabriela Krapf</PhotoTextFive>
+      <PhotoTextSix>Roberto Bossard</PhotoTextSix>
+      <PhotoTextSeven>Gabriela Krapf</PhotoTextSeven>
+      <PhotoTextEight>Christian Münchinger &amp; Gabriela Krapf</PhotoTextEight>
+      <PhotoTextNine>Gabriela Krapf</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091107_Gabriela_Krapf_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Daniel Blanc Quartett</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>21</PhotoDay>
+      <GalleryName>G36</GalleryName>
+      <PhotoTextOne>Daniel Blanc</PhotoTextOne>
+      <PhotoTextTwo>Walter Jauslin &amp; Giorgos Antoniou</PhotoTextTwo>
+      <PhotoTextThree>Daniel Blanc</PhotoTextThree>
+      <PhotoTextFour>Walter Jauslin</PhotoTextFour>
+      <PhotoTextFive>Daniel Blanc Quartett</PhotoTextFive>
+      <PhotoTextSix>Giorgos Antoniou</PhotoTextSix>
+      <PhotoTextSeven>Daniel Blanc</PhotoTextSeven>
+      <PhotoTextEight>Peter Schmidlin</PhotoTextEight>
+      <PhotoTextNine>Daniel Blanc Quartett</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091121_Daniel_Blanc_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Michael Gassmann Fearless Five</PhotoBandName>
+      <PhotoYear>2009</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>5</PhotoDay>
+      <GalleryName>G37</GalleryName>
+      <PhotoTextOne>Michael Gassmann</PhotoTextOne>
+      <PhotoTextTwo>Andy Brugger</PhotoTextTwo>
+      <PhotoTextThree>Michael Gassmann</PhotoTextThree>
+      <PhotoTextFour>Andy Brugger</PhotoTextFour>
+      <PhotoTextFive>Michael Gassmann</PhotoTextFive>
+      <PhotoTextSix>Herbert Kramis</PhotoTextSix>
+      <PhotoTextSeven>Herbert Kramis</PhotoTextSeven>
+      <PhotoTextEight>Eric Hunziker</PhotoTextEight>
+      <PhotoTextNine>Andy Brugger &amp; Michael Gassmann</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20091205_Michael_Gassmann_Fearless_Five_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Othella Dallas and Band</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G38</GalleryName>
+      <PhotoTextOne>Othella Dallas</PhotoTextOne>
+      <PhotoTextTwo>Othella Dallas &amp; Urs Müller</PhotoTextTwo>
+      <PhotoTextThree>Othella Dallas</PhotoTextThree>
+      <PhotoTextFour>Michael Chylewski</PhotoTextFour>
+      <PhotoTextFive>Othella Dallas</PhotoTextFive>
+      <PhotoTextSix>Hannes Bürgi</PhotoTextSix>
+      <PhotoTextSeven>Othella Dallas Band</PhotoTextSeven>
+      <PhotoTextEight>Othella Dallas</PhotoTextEight>
+      <PhotoTextNine>Lucas Gasser</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Michael Neff Group featuring Marie Malou</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G39</GalleryName>
+      <PhotoTextOne>Marie Malou</PhotoTextOne>
+      <PhotoTextTwo>Michael Neff</PhotoTextTwo>
+      <PhotoTextThree>Markus Bischof</PhotoTextThree>
+      <PhotoTextFour>Markus Bischof &amp; Ralph Hufenus</PhotoTextFour>
+      <PhotoTextFive>Michael Neff Group</PhotoTextFive>
+      <PhotoTextSix>Mario Söldi</PhotoTextSix>
+      <PhotoTextSeven>Ralph Hufenus &amp; Michael Neff</PhotoTextSeven>
+      <PhotoTextEight>Markus Bischof</PhotoTextEight>
+      <PhotoTextNine>Marie Malou</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Stewy von Wattenwyl Trio featuring Ray Blue</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>20</PhotoDay>
+      <GalleryName>G40</GalleryName>
+      <PhotoTextOne>Stewy von Wattenwyl</PhotoTextOne>
+      <PhotoTextTwo>Christoph Sprenger &amp; Stewy von Wattenwyl</PhotoTextTwo>
+      <PhotoTextThree>Ray Blue</PhotoTextThree>
+      <PhotoTextFour>Ray Blue</PhotoTextFour>
+      <PhotoTextFive>Stewy von Wattenwyl Trio</PhotoTextFive>
+      <PhotoTextSix>Ray Blue</PhotoTextSix>
+      <PhotoTextSeven>Kevin Chesham</PhotoTextSeven>
+      <PhotoTextEight>Christoph Sprenger</PhotoTextEight>
+      <PhotoTextNine>Ray Blue</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2010</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Daniel Schenker Quartet</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>2</PhotoDay>
+      <GalleryName>G41</GalleryName>
+      <PhotoTextOne>Stefan Aeby, Daniel Schenker &amp; Dominique Girod</PhotoTextOne>
+      <PhotoTextTwo>Dominique Girod</PhotoTextTwo>
+      <PhotoTextThree>Daniel Schenker</PhotoTextThree>
+      <PhotoTextFour>Stefan Aeby &amp; Daniel Schenker</PhotoTextFour>
+      <PhotoTextFive>Daniel Schenker Quartet</PhotoTextFive>
+      <PhotoTextSix>Tobias Friedli</PhotoTextSix>
+      <PhotoTextSeven>Daniel Schenker &amp; Dominique Girod</PhotoTextSeven>
+      <PhotoTextEight>Stefan Aeby, Daniel Schenker &amp; Dominique Girod</PhotoTextEight>
+      <PhotoTextNine>Daniel Schenker</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Reto Suhner Quartett</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>16</PhotoDay>
+      <GalleryName>G42</GalleryName>
+      <PhotoTextOne>Tobias Friedli, Patrick Sommer &amp; Reto Suhner</PhotoTextOne>
+      <PhotoTextTwo>Reto Suhner</PhotoTextTwo>
+      <PhotoTextThree>Reto Suhner</PhotoTextThree>
+      <PhotoTextFour>Tobias Friedli</PhotoTextFour>
+      <PhotoTextFive>Reto Suhner Quartett</PhotoTextFive>
+      <PhotoTextSix>Philip Henzi</PhotoTextSix>
+      <PhotoTextSeven>Tobias Friedli,  Reto Suhner &amp; Patrick Sommer</PhotoTextSeven>
+      <PhotoTextEight>Reto Suhner</PhotoTextEight>
+      <PhotoTextNine>Tobias Friedli,  Reto Suhner &amp; Patrick Sommer</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Barbara Balzan Quartet und Paolo Fresu</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>30</PhotoDay>
+      <GalleryName>G43</GalleryName>
+      <PhotoTextOne>Gregor Müller</PhotoTextOne>
+      <PhotoTextTwo>Barbara Balzan</PhotoTextTwo>
+      <PhotoTextThree>Paolo Fresu</PhotoTextThree>
+      <PhotoTextFour>Attilio Zanchi</PhotoTextFour>
+      <PhotoTextFive>Paolo Fresu</PhotoTextFive>
+      <PhotoTextSix>Barbara Balzan</PhotoTextSix>
+      <PhotoTextSeven>Tony Renold</PhotoTextSeven>
+      <PhotoTextEight>Barbara Balzan</PhotoTextEight>
+      <PhotoTextNine>Paolo Fresu</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20101030 Barbara Balzan Paolo Fresu Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Romano Ricciardi Quintet</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>13</PhotoDay>
+      <GalleryName>G44</GalleryName>
+      <PhotoTextOne>Steve Fishwick</PhotoTextOne>
+      <PhotoTextTwo>Giorgos Antoniou &amp; Steve Fishwick</PhotoTextTwo>
+      <PhotoTextThree>Giorgos Antoniou</PhotoTextThree>
+      <PhotoTextFour>Alessandro Ricciardi</PhotoTextFour>
+      <PhotoTextFive>Romano Ricciardi</PhotoTextFive>
+      <PhotoTextSix>Steve Brown</PhotoTextSix>
+      <PhotoTextSeven>Romano Ricciardi</PhotoTextSeven>
+      <PhotoTextEight>Steve Brown</PhotoTextEight>
+      <PhotoTextNine>Giorgos Antoniou</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>NotYetSetNodeValue</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Alexia Gardner Trio</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>27</PhotoDay>
+      <GalleryName>G186</GalleryName>
+      <PhotoTextOne>Alexia Gardner</PhotoTextOne>
+      <PhotoTextTwo>Alexia Gardner</PhotoTextTwo>
+      <PhotoTextThree>Alexia Gardner</PhotoTextThree>
+      <PhotoTextFour>Alexia Gardner</PhotoTextFour>
+      <PhotoTextFive>Alexia Gardner, Lorenz Beyeler</PhotoTextFive>
+      <PhotoTextSix>Beat Baumli</PhotoTextSix>
+      <PhotoTextSeven>Beat Baumli</PhotoTextSeven>
+      <PhotoTextEight>Lorenz Beyeler</PhotoTextEight>
+      <PhotoTextNine>Lorenz Beyeler</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20101127 Alexia Gardner Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Reto Anneler Quartet</PhotoBandName>
+      <PhotoYear>2010</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <GalleryName>G187</GalleryName>
+      <PhotoTextOne>Claudio Strübi</PhotoTextOne>
+      <PhotoTextTwo>Reto Anneler</PhotoTextTwo>
+      <PhotoTextThree>Stefan Rusconi</PhotoTextThree>
+      <PhotoTextFour>Christian Weber</PhotoTextFour>
+      <PhotoTextFive>Claudio Strübi</PhotoTextFive>
+      <PhotoTextSix>Reto Anneler</PhotoTextSix>
+      <PhotoTextSeven>Reto Anneler</PhotoTextSeven>
+      <PhotoTextEight>Stefan Rusconi</PhotoTextEight>
+      <PhotoTextNine>Christian Weber</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20101211 Reto Anneler Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ost-West-Inspiration</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>15</PhotoDay>
+      <GalleryName>G46</GalleryName>
+      <PhotoTextOne>Felix Huber</PhotoTextOne>
+      <PhotoTextTwo>Witek Kornacki</PhotoTextTwo>
+      <PhotoTextThree>Urs Burkhard</PhotoTextThree>
+      <PhotoTextFour>Urs Burkhard</PhotoTextFour>
+      <PhotoTextFive>Witek Kornacki Christoph Huber Urs Burkhard</PhotoTextFive>
+      <PhotoTextSix>Witek Kornacki</PhotoTextSix>
+      <PhotoTextSeven>Corinne Huber</PhotoTextSeven>
+      <PhotoTextEight>Rätus Flisch</PhotoTextEight>
+      <PhotoTextNine>Christoph Huber</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20110115 Ost-West-Inspiration Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Peter Zihlmann, Franz Hellmüller</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G47</GalleryName>
+      <PhotoTextOne>Peter Zihlmann</PhotoTextOne>
+      <PhotoTextTwo>Franz Hellmüller</PhotoTextTwo>
+      <PhotoTextThree>Peter Zihlmann</PhotoTextThree>
+      <PhotoTextFour>Peter Zihlmann &amp; Franz Hellmüller</PhotoTextFour>
+      <PhotoTextFive>Peter Zihlmann</PhotoTextFive>
+      <PhotoTextSix>Franz Hellmüller</PhotoTextSix>
+      <PhotoTextSeven>Peter Zihlmann</PhotoTextSeven>
+      <PhotoTextEight>Franz Hellmüller</PhotoTextEight>
+      <PhotoTextNine>Peter Zihlmann</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20110129_Zihlmann_Hellmueller_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Fischer Quartett</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G48</GalleryName>
+      <PhotoTextOne>Erich Fischer</PhotoTextOne>
+      <PhotoTextTwo>Erich Fischer</PhotoTextTwo>
+      <PhotoTextThree>Erich Fischer</PhotoTextThree>
+      <PhotoTextFour>Claudio Strebel</PhotoTextFour>
+      <PhotoTextFive>Claudio Strebel &amp; Vasko Atanasovski</PhotoTextFive>
+      <PhotoTextSix>Benno Kaiser</PhotoTextSix>
+      <PhotoTextSeven>Vasko Atanasovski</PhotoTextSeven>
+      <PhotoTextEight>Erich Fischer Quartett</PhotoTextEight>
+      <PhotoTextNine>Claudio Strebel &amp; Vasko Atanasovski</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20110226 Erich Fischer Quartett Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Marc Hunziker Trio</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G49</GalleryName>
+      <PhotoTextOne>Marc Hunziker</PhotoTextOne>
+      <PhotoTextTwo>Jürg Vonay</PhotoTextTwo>
+      <PhotoTextThree>Laura Cesar</PhotoTextThree>
+      <PhotoTextFour>Marc Hunziker Trio</PhotoTextFour>
+      <PhotoTextFive>Marc Hunziker Trio</PhotoTextFive>
+      <PhotoTextSix>Laura Cesar</PhotoTextSix>
+      <PhotoTextSeven>Marc Hunziker</PhotoTextSeven>
+      <PhotoTextEight>Marc Hunziker &amp; Laura Cesar</PhotoTextEight>
+      <PhotoTextNine>Laura Cesar</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20110312 Marc Hunziker Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Vince Benedetti Hardbop World</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G50</GalleryName>
+      <PhotoTextOne>Vince Benedetti</PhotoTextOne>
+      <PhotoTextTwo>Julio Pérez</PhotoTextTwo>
+      <PhotoTextThree>Miguel A Romero</PhotoTextThree>
+      <PhotoTextFour>Guillermo Morente</PhotoTextFour>
+      <PhotoTextFive>Vince Benedetti Hardbop World</PhotoTextFive>
+      <PhotoTextSix>Antonio González</PhotoTextSix>
+      <PhotoTextSeven>Vince Benedetti</PhotoTextSeven>
+      <PhotoTextEight>Miguel A Romero &amp; Antonio González</PhotoTextEight>
+      <PhotoTextNine>Julio Pérez</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20110326 Vince Benedetti Hardbop World Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2011</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Rosset Meyer Geiger</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>1</PhotoDay>
+      <GalleryName>G51</GalleryName>
+      <PhotoTextOne>Gabriel Meyer</PhotoTextOne>
+      <PhotoTextTwo>Gabriel Meyer &amp; Josquin Rosset</PhotoTextTwo>
+      <PhotoTextThree>Gabriel Meyer</PhotoTextThree>
+      <PhotoTextFour>Josquin Rosset</PhotoTextFour>
+      <PhotoTextFive>Jan Geiger &amp; Gabriel Meyer &amp; Josquin Rosset</PhotoTextFive>
+      <PhotoTextSix>Josquin Rosset</PhotoTextSix>
+      <PhotoTextSeven>Jan Geiger</PhotoTextSeven>
+      <PhotoTextEight>Gabriel Meyer</PhotoTextEight>
+      <PhotoTextNine>Jan Geiger &amp; Gabriel Meyer</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20111001 Rosset Meyer Geiger Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Brass Joy</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G52</GalleryName>
+      <PhotoTextOne>Paolo Alderighi</PhotoTextOne>
+      <PhotoTextTwo>Nicola Stranieri</PhotoTextTwo>
+      <PhotoTextThree>Danilo Moccia</PhotoTextThree>
+      <PhotoTextFour>Yuri Goloubev</PhotoTextFour>
+      <PhotoTextFive>Paolo Alderighi &amp; Lalo Conversano</PhotoTextFive>
+      <PhotoTextSix>Nicola Stranieri</PhotoTextSix>
+      <PhotoTextSeven>Paolo Alderighi</PhotoTextSeven>
+      <PhotoTextEight>Yuri Goloubev</PhotoTextEight>
+      <PhotoTextNine>Lalo Conversano</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20111029 Brass Joy Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Hagenlocher-Schürmann Quartet featuring Adrian Mears - Jazz meets Pop</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G53</GalleryName>
+      <PhotoTextOne>Adrian Mears</PhotoTextOne>
+      <PhotoTextTwo>Dominik Schürmann</PhotoTextTwo>
+      <PhotoTextThree>Adrian Mears</PhotoTextThree>
+      <PhotoTextFour>Christian Gutfleisch</PhotoTextFour>
+      <PhotoTextFive>Hagenlocher-Schürmann Quartet</PhotoTextFive>
+      <PhotoTextSix>Elmar Frey</PhotoTextSix>
+      <PhotoTextSeven>Jürgen Hagenlocher &amp; Adrian Mears</PhotoTextSeven>
+      <PhotoTextEight>Elmar Frey</PhotoTextEight>
+      <PhotoTextNine>Jürgen Hagenlocher &amp; Adrian Mears</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20111112_Hagenlocher-Schuermann_Quartet_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Michael Hammer Quartet Easy Listening Jazz, Pop-Jazz und Blues</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G54</GalleryName>
+      <PhotoTextOne>Peter Christof</PhotoTextOne>
+      <PhotoTextTwo>Michael Hammer</PhotoTextTwo>
+      <PhotoTextThree>Peter Christof &amp; Josquin Rosset</PhotoTextThree>
+      <PhotoTextFour>Toni Bechtold</PhotoTextFour>
+      <PhotoTextFive>Michael Hammer Quartet</PhotoTextFive>
+      <PhotoTextSix>Michael Hammer</PhotoTextSix>
+      <PhotoTextSeven>Toni Bechtold</PhotoTextSeven>
+      <PhotoTextEight>Michael Hammer Quartet</PhotoTextEight>
+      <PhotoTextNine>Toni Bechtold</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20111126 Michael Hammer Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Peter Schärli Trio featuring Glenn Ferris</PhotoBandName>
+      <PhotoYear>2011</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G55</GalleryName>
+      <PhotoTextOne>Glenn Ferris</PhotoTextOne>
+      <PhotoTextTwo>Peter Schärli</PhotoTextTwo>
+      <PhotoTextThree>Glenn Ferris</PhotoTextThree>
+      <PhotoTextFour>Hans-Peter Pfammatter</PhotoTextFour>
+      <PhotoTextFive>Peter Schärli</PhotoTextFive>
+      <PhotoTextSix>Thomas Dürst</PhotoTextSix>
+      <PhotoTextSeven>Thomas Dürst</PhotoTextSeven>
+      <PhotoTextEight>Hans-Peter Pfammatter</PhotoTextEight>
+      <PhotoTextNine>Glenn Ferris</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20111210_Peter_Schaerli_Trio_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Marianne Racine Quartet</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>14</PhotoDay>
+      <GalleryName>G56</GalleryName>
+      <PhotoTextOne>Patrick Sommer</PhotoTextOne>
+      <PhotoTextTwo>Marianne Racine</PhotoTextTwo>
+      <PhotoTextThree>Daniel Baschnagel</PhotoTextThree>
+      <PhotoTextFour>Marianne Racine</PhotoTextFour>
+      <PhotoTextFive>Marianne Racine Quartet</PhotoTextFive>
+      <PhotoTextSix>Pius Baschnagel</PhotoTextSix>
+      <PhotoTextSeven>Pius Baschnagel</PhotoTextSeven>
+      <PhotoTextEight>Marianne Racine</PhotoTextEight>
+      <PhotoTextNine>Patrick Sommer</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20120114 Marianne Racine Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Swing de Paris, Sophie Lüssi</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>28</PhotoDay>
+      <GalleryName>G57</GalleryName>
+      <PhotoTextOne>Felix Brühwiler &amp; David Beglinger</PhotoTextOne>
+      <PhotoTextTwo>Sophie Lüssi</PhotoTextTwo>
+      <PhotoTextThree>Claudio Strebel</PhotoTextThree>
+      <PhotoTextFour>Sophie Lüssi</PhotoTextFour>
+      <PhotoTextFive>Swing de Paris, Sophie Lüssi</PhotoTextFive>
+      <PhotoTextSix>Claudio Strebel &amp; Sophie Lüssi</PhotoTextSix>
+      <PhotoTextSeven>Claudio Strebel</PhotoTextSeven>
+      <PhotoTextEight>David Beglinger</PhotoTextEight>
+      <PhotoTextNine>Swing de Paris, Sophie Lüssi</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20120128 Sophie Lussy Swing de Paris Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Schneekönig featuring Ray Anderson</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <GalleryName>G58</GalleryName>
+      <PhotoTextOne>Linus Hunkeler &amp; Ray Anderson</PhotoTextOne>
+      <PhotoTextTwo>Felix Straumann</PhotoTextTwo>
+      <PhotoTextThree>Jürg Schneebeli</PhotoTextThree>
+      <PhotoTextFour>Christoph Keller</PhotoTextFour>
+      <PhotoTextFive>Schneekönig featuring Ray Anderson</PhotoTextFive>
+      <PhotoTextSix>Linus Hunkeler</PhotoTextSix>
+      <PhotoTextSeven>Peter Leuzinger</PhotoTextSeven>
+      <PhotoTextEight>Schneekönig featuring Ray Anderson</PhotoTextEight>
+      <PhotoTextNine>Ray Anderson</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20120211_Schneekoenig_feat_Ray_Anderson_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Homeland featuring Olivier Ker Ourio</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G59</GalleryName>
+      <PhotoTextOne>Olivier Ker Ourio</PhotoTextOne>
+      <PhotoTextTwo>Homeland</PhotoTextTwo>
+      <PhotoTextThree>Brian Quinn</PhotoTextThree>
+      <PhotoTextFour>Gabriele Pezzoli</PhotoTextFour>
+      <PhotoTextFive>Olivier Ker Ourio</PhotoTextFive>
+      <PhotoTextSix>Simon Quinn</PhotoTextSix>
+      <PhotoTextSeven>Olivier Ker Ourio</PhotoTextSeven>
+      <PhotoTextEight>Nolan Quinn</PhotoTextEight>
+      <PhotoTextNine>Olivier Ker Ourio &amp; Simon Quinn</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20120310 Homeland Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Bixology</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G60</GalleryName>
+      <PhotoTextOne>Helmut Dold</PhotoTextOne>
+      <PhotoTextTwo>Uwe Ladwig</PhotoTextTwo>
+      <PhotoTextThree>Lothar Binder</PhotoTextThree>
+      <PhotoTextFour>Uwe Ladwig</PhotoTextFour>
+      <PhotoTextFive>Lothar Binder</PhotoTextFive>
+      <PhotoTextSix>Helmut Dold</PhotoTextSix>
+      <PhotoTextSeven>Helmut Dold</PhotoTextSeven>
+      <PhotoTextEight>Schuh</PhotoTextEight>
+      <PhotoTextNine>Lothar Binder</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20120324 Bixology Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2012</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Tony Renold Quartet</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G61</GalleryName>
+      <PhotoTextOne>Tony Renold</PhotoTextOne>
+      <PhotoTextTwo>Michael Bucher</PhotoTextTwo>
+      <PhotoTextThree>Michael Gassmann</PhotoTextThree>
+      <PhotoTextFour>Tony Renold</PhotoTextFour>
+      <PhotoTextFive>Tony Renold Quartet</PhotoTextFive>
+      <PhotoTextSix>Patrick Sommer</PhotoTextSix>
+      <PhotoTextSeven>Tony Renold</PhotoTextSeven>
+      <PhotoTextEight>Patrick Sommer</PhotoTextEight>
+      <PhotoTextNine>Michael Gassmann</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20121006 Tony Renold Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Adrian Mears New Orleans Hardbop</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>20</PhotoDay>
+      <GalleryName>G62</GalleryName>
+      <PhotoTextOne>Adrian Mears</PhotoTextOne>
+      <PhotoTextTwo>Domenic Landolf</PhotoTextTwo>
+      <PhotoTextThree>Kevin Chesham</PhotoTextThree>
+      <PhotoTextFour>Adrian Mears</PhotoTextFour>
+      <PhotoTextFive>Adrian Mears New Orleans Hardbop</PhotoTextFive>
+      <PhotoTextSix>Stephan Kurmann</PhotoTextSix>
+      <PhotoTextSeven>Adrian Mears</PhotoTextSeven>
+      <PhotoTextEight>Peter Madsen</PhotoTextEight>
+      <PhotoTextNine>Kevin Chesham</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20121020 Adrian Mears New Orleans Hardbop Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Cojazz featuring Bruno Spoerri</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>3</PhotoDay>
+      <GalleryName>G63</GalleryName>
+      <PhotoTextOne>Bruno Spoerri</PhotoTextOne>
+      <PhotoTextTwo>Peter Schmidlin</PhotoTextTwo>
+      <PhotoTextThree>Andy Scherrer</PhotoTextThree>
+      <PhotoTextFour>Isla Eckinger</PhotoTextFour>
+      <PhotoTextFive>Cojazz</PhotoTextFive>
+      <PhotoTextSix>Isla Eckinger</PhotoTextSix>
+      <PhotoTextSeven>Bruno Spoerri</PhotoTextSeven>
+      <PhotoTextEight>Isla Eckinger</PhotoTextEight>
+      <PhotoTextNine>Bruno Spoerri</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20121103 Cojazz featuring Bruno Spoerri Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Kazalpin</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>14</PhotoDay>
+      <GalleryName>G64</GalleryName>
+      <PhotoTextOne>Patricia Draeger</PhotoTextOne>
+      <PhotoTextTwo>Claudio Strebel</PhotoTextTwo>
+      <PhotoTextThree>Kazalpin</PhotoTextThree>
+      <PhotoTextFour>Kazalpin</PhotoTextFour>
+      <PhotoTextFive>Kazalpin</PhotoTextFive>
+      <PhotoTextSix>Patricia Draeger</PhotoTextSix>
+      <PhotoTextSeven>Albin Brun</PhotoTextSeven>
+      <PhotoTextEight>Marco Käppeli</PhotoTextEight>
+      <PhotoTextNine>Kazalpin</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20121114 Kazalpin Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Markus Bischof Trio</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>1</PhotoDay>
+      <GalleryName>G65</GalleryName>
+      <PhotoTextOne>Andreas Wettstein</PhotoTextOne>
+      <PhotoTextTwo>Dietmar Kirchner</PhotoTextTwo>
+      <PhotoTextThree>Dietmar Kirchner &amp; Markus Bischof</PhotoTextThree>
+      <PhotoTextFour>Andreas Wettstein</PhotoTextFour>
+      <PhotoTextFive>Markus Bischof Trio</PhotoTextFive>
+      <PhotoTextSix>Dietmar Kirchner</PhotoTextSix>
+      <PhotoTextSeven>Dietmar Kirchner</PhotoTextSeven>
+      <PhotoTextEight>Markus Bischof Trio</PhotoTextEight>
+      <PhotoTextNine>Markus Bischof</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20121201 Markus Bischof Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Daccordeon Quartet</PhotoBandName>
+      <PhotoYear>2012</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>15</PhotoDay>
+      <GalleryName>G66</GalleryName>
+      <PhotoTextOne>Richard Pizzorno</PhotoTextOne>
+      <PhotoTextTwo>Francis Coletta</PhotoTextTwo>
+      <PhotoTextThree>André Pousaz</PhotoTextThree>
+      <PhotoTextFour>André Pousaz</PhotoTextFour>
+      <PhotoTextFive>Daccordeon Quartet</PhotoTextFive>
+      <PhotoTextSix>Chris von Hoffmann</PhotoTextSix>
+      <PhotoTextSeven>Richard Pizzorno</PhotoTextSeven>
+      <PhotoTextEight>Chris von Hoffmann</PhotoTextEight>
+      <PhotoTextNine>Richard Pizzorno</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20121215 Daccordeon Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ladybirds</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G67</GalleryName>
+      <PhotoTextOne>Lisette Spinnler</PhotoTextOne>
+      <PhotoTextTwo>Alain Veltin &amp; Gina Günthard</PhotoTextTwo>
+      <PhotoTextThree>Emanuel Schnyder</PhotoTextThree>
+      <PhotoTextFour>Gina Günthard</PhotoTextFour>
+      <PhotoTextFive>Ladybirds</PhotoTextFive>
+      <PhotoTextSix>Petra Vogel</PhotoTextSix>
+      <PhotoTextSeven>Petra Vogel</PhotoTextSeven>
+      <PhotoTextEight>Emanuel Schnyder</PhotoTextEight>
+      <PhotoTextNine>Gina Günthard &amp; Petra Vogel</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20130112 Ladybirds Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Accordion Project</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>26</PhotoDay>
+      <GalleryName>G68</GalleryName>
+      <PhotoTextOne>Danilo Boggini</PhotoTextOne>
+      <PhotoTextTwo>Alberto Guareschi</PhotoTextTwo>
+      <PhotoTextThree>Danilo Boggini</PhotoTextThree>
+      <PhotoTextFour>Mauro Pesenti</PhotoTextFour>
+      <PhotoTextFive>Accordion Project</PhotoTextFive>
+      <PhotoTextSix>Alberto Guareschi</PhotoTextSix>
+      <PhotoTextSeven>Mauro Pesenti &amp; Sandro di Pisa &amp; Alberto Guareschi</PhotoTextSeven>
+      <PhotoTextEight>Danilo Boggini</PhotoTextEight>
+      <PhotoTextNine>Mauro Pesenti</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20130126 Accordion Project Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Marco Santilli und Paolo Alderighi, Kammermusikalischer Jazz</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>9</PhotoDay>
+      <GalleryName>G69</GalleryName>
+      <PhotoTextOne>Paolo Alderighi</PhotoTextOne>
+      <PhotoTextTwo>Marco Santilli</PhotoTextTwo>
+      <PhotoTextThree>Marco Santilli</PhotoTextThree>
+      <PhotoTextFour>Marco Santilli &amp; Paolo Alderighi</PhotoTextFour>
+      <PhotoTextFive>Publikum</PhotoTextFive>
+      <PhotoTextSix>Marco Santilli</PhotoTextSix>
+      <PhotoTextSeven>Paolo Alderighi</PhotoTextSeven>
+      <PhotoTextEight>Marco Santilli &amp; Paolo Alderighi</PhotoTextEight>
+      <PhotoTextNine>Marco Santilli</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20130209 Marco Santilli Paolo Alderighi Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jazz Passengers</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>9</PhotoDay>
+      <GalleryName>G70</GalleryName>
+      <PhotoTextOne>Jörg Hauser</PhotoTextOne>
+      <PhotoTextTwo>Hannes Hänggli</PhotoTextTwo>
+      <PhotoTextThree>Sabine Siegrist</PhotoTextThree>
+      <PhotoTextFour>Sabine Siegrist &amp; Peter Tico Keller</PhotoTextFour>
+      <PhotoTextFive>Jazz Passengers</PhotoTextFive>
+      <PhotoTextSix>Peter Tico Keller</PhotoTextSix>
+      <PhotoTextSeven>Rougi Rothenbühler</PhotoTextSeven>
+      <PhotoTextEight>Jazz Passengers</PhotoTextEight>
+      <PhotoTextNine>Jörg Hauser &amp; Rougi Rothenbühler</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20130309 Jazz Passengers Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>'spittin’ horns (Sax-Quartet)</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>23</PhotoDay>
+      <GalleryName>G71</GalleryName>
+      <PhotoTextOne>Barbara Wehrli Wutzl</PhotoTextOne>
+      <PhotoTextTwo>Reto Suhner &amp; Thomi Geiger</PhotoTextTwo>
+      <PhotoTextThree>Thomi Geiger</PhotoTextThree>
+      <PhotoTextFour>Christoph Grab</PhotoTextFour>
+      <PhotoTextFive>Spittin’ horns</PhotoTextFive>
+      <PhotoTextSix>Christoph Grab</PhotoTextSix>
+      <PhotoTextSeven>Reto Suhner</PhotoTextSeven>
+      <PhotoTextEight>Barbara Wehrli Wutzl &amp; Thomi Geiger</PhotoTextEight>
+      <PhotoTextNine>Reto Suhner</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20130323 spittin horns Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2013</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Balzan-Silvestri Choice</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>5</PhotoDay>
+      <GalleryName>G72</GalleryName>
+      <PhotoTextOne>Michael Gassmann</PhotoTextOne>
+      <PhotoTextTwo>Barbara Balzan</PhotoTextTwo>
+      <PhotoTextThree>Thomas Silvestri</PhotoTextThree>
+      <PhotoTextFour>Barbara Balzan</PhotoTextFour>
+      <PhotoTextFive>Balzan-Silvestri Choice</PhotoTextFive>
+      <PhotoTextSix>Barbara Balzan</PhotoTextSix>
+      <PhotoTextSeven> Tony Renold &amp; Patrick Sommer</PhotoTextSeven>
+      <PhotoTextEight>Barbara Balzan</PhotoTextEight>
+      <PhotoTextNine>Thomas Silvestri</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20131005 Balzan-Silvestri Choice Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Adrian Frey Trio</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>19</PhotoDay>
+      <GalleryName>G73</GalleryName>
+      <PhotoTextOne>Patrick Sommer</PhotoTextOne>
+      <PhotoTextTwo>Tony Renold</PhotoTextTwo>
+      <PhotoTextThree>Adrian Frey</PhotoTextThree>
+      <PhotoTextFour>Tony Renold &amp; Patrick Sommer</PhotoTextFour>
+      <PhotoTextFive>Adrian Frey Trio</PhotoTextFive>
+      <PhotoTextSix>Adrian Frey</PhotoTextSix>
+      <PhotoTextSeven>Patrick Sommer</PhotoTextSeven>
+      <PhotoTextEight>Tony Renold</PhotoTextEight>
+      <PhotoTextNine>Adrian Frey</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20131019 Adrian Frey Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Peter Schärli Don't change your hair for me</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>2</PhotoDay>
+      <GalleryName>G74</GalleryName>
+      <PhotoTextOne>Sandy Patton</PhotoTextOne>
+      <PhotoTextTwo>Peter Schärli &amp; Thomas Dürst</PhotoTextTwo>
+      <PhotoTextThree>Sandy Patton</PhotoTextThree>
+      <PhotoTextFour>Peter Schärli</PhotoTextFour>
+      <PhotoTextFive>Peter Schärli Don't change your hair for me</PhotoTextFive>
+      <PhotoTextSix>Thomas Dürst</PhotoTextSix>
+      <PhotoTextSeven>Sandy Patton</PhotoTextSeven>
+      <PhotoTextEight>Antonia Giordano</PhotoTextEight>
+      <PhotoTextNine>Sandy Patton</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20131102_Peter_Schaerli_Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Chico Freeman und Christian Stock Trio</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>16</PhotoDay>
+      <GalleryName>G75</GalleryName>
+      <PhotoTextOne>Chico Freeman</PhotoTextOne>
+      <PhotoTextTwo>Christian Stock</PhotoTextTwo>
+      <PhotoTextThree>Chico Freeman</PhotoTextThree>
+      <PhotoTextFour>Martin Schrank</PhotoTextFour>
+      <PhotoTextFive>Walter Bittner</PhotoTextFive>
+      <PhotoTextSix>Christian Stock</PhotoTextSix>
+      <PhotoTextSeven>Christian Stock</PhotoTextSeven>
+      <PhotoTextEight>Chico Freeman</PhotoTextEight>
+      <PhotoTextNine>Walter Bittner</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20131116 Chico Freeman Christian Stock Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Duo Lottchen</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>30</PhotoDay>
+      <GalleryName>G76</GalleryName>
+      <PhotoTextOne>Eva Buchmann</PhotoTextOne>
+      <PhotoTextTwo>Sonja Huber</PhotoTextTwo>
+      <PhotoTextThree>Eva Buchmann</PhotoTextThree>
+      <PhotoTextFour>Eva Buchmann</PhotoTextFour>
+      <PhotoTextFive>Duo Lottchen</PhotoTextFive>
+      <PhotoTextSix>Sonja Huber</PhotoTextSix>
+      <PhotoTextSeven>Eva Buchmann</PhotoTextSeven>
+      <PhotoTextEight>Eva Buchmann</PhotoTextEight>
+      <PhotoTextNine>Sonja Huber</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20131130 Duo Lottchen Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Daccordeon</PhotoBandName>
+      <PhotoYear>2013</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>14</PhotoDay>
+      <GalleryName>G77</GalleryName>
+      <PhotoTextOne>Chris von Hoffmann</PhotoTextOne>
+      <PhotoTextTwo>Nick Perrin</PhotoTextTwo>
+      <PhotoTextThree>Richard Pizzorno</PhotoTextThree>
+      <PhotoTextFour>Sam Joss</PhotoTextFour>
+      <PhotoTextFive>Daccordeon</PhotoTextFive>
+      <PhotoTextSix>Nick Perrin</PhotoTextSix>
+      <PhotoTextSeven>Richard Pizzorno</PhotoTextSeven>
+      <PhotoTextEight>Richard Pizzorno</PhotoTextEight>
+      <PhotoTextNine>Richard Pizzorno</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20131214 Daccordeon Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Organ X plus</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>11</PhotoDay>
+      <GalleryName>G78</GalleryName>
+      <PhotoTextOne>Marcel Thomi</PhotoTextOne>
+      <PhotoTextTwo>Elmar Frey &amp; Roberto Bossard</PhotoTextTwo>
+      <PhotoTextThree>Roland von Flüe &amp; Roberto Bossard</PhotoTextThree>
+      <PhotoTextFour>Roland von Flüe &amp; Elmar Frey</PhotoTextFour>
+      <PhotoTextFive>Organ X plus</PhotoTextFive>
+      <PhotoTextSix>Elmar Frey</PhotoTextSix>
+      <PhotoTextSeven>Marcel Thomi &amp; Roland von Flüe &amp; Elmar Frey</PhotoTextSeven>
+      <PhotoTextEight>Marcel Thomi &amp; Roland von Flüe</PhotoTextEight>
+      <PhotoTextNine>Roberto Bossard</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20140111 Organ X Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jochen Baldes subnoder</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>25</PhotoDay>
+      <GalleryName>G79</GalleryName>
+      <PhotoTextOne>Jochen Baldes</PhotoTextOne>
+      <PhotoTextTwo>Jochen Baldes</PhotoTextTwo>
+      <PhotoTextThree>Jochen Baldes</PhotoTextThree>
+      <PhotoTextFour>Raffaele Bossard</PhotoTextFour>
+      <PhotoTextFive>Jochen Baldes subnoder</PhotoTextFive>
+      <PhotoTextSix>Michi Stulz</PhotoTextSix>
+      <PhotoTextSeven>Thomas Bauser</PhotoTextSeven>
+      <PhotoTextEight>Franz Hellmüller</PhotoTextEight>
+      <PhotoTextNine>Jochen Baldes subnoder</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20140125 Jochen Baldes subnoder Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Ellingtonality</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>8</PhotoDay>
+      <GalleryName>G80</GalleryName>
+      <PhotoTextOne>Christoph Grab</PhotoTextOne>
+      <PhotoTextTwo>Haemi Haemmerli</PhotoTextTwo>
+      <PhotoTextThree>Christoph Grab</PhotoTextThree>
+      <PhotoTextFour>Elmar Frey</PhotoTextFour>
+      <PhotoTextFive>Ellingtonality</PhotoTextFive>
+      <PhotoTextSix>Elmar Frey</PhotoTextSix>
+      <PhotoTextSeven>Christoph Grab &amp; Elmar Frey</PhotoTextSeven>
+      <PhotoTextEight>Alessandro d'Episcopo</PhotoTextEight>
+      <PhotoTextNine>Haemi Haemmerli</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20140208 Ellingtonality Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Erich Fischer Quartet</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>22</PhotoDay>
+      <GalleryName>G81</GalleryName>
+      <PhotoTextOne>Vasko Atanasovski</PhotoTextOne>
+      <PhotoTextTwo>Erich Fischer &amp; Vasko Atanasovski</PhotoTextTwo>
+      <PhotoTextThree>Benno Kaiser</PhotoTextThree>
+      <PhotoTextFour>Erich Fischer</PhotoTextFour>
+      <PhotoTextFive>Erich Fischer Quartet</PhotoTextFive>
+      <PhotoTextSix>Silvan Jeger</PhotoTextSix>
+      <PhotoTextSeven>Erich Fischer</PhotoTextSeven>
+      <PhotoTextEight>Silvan Jeger</PhotoTextEight>
+      <PhotoTextNine>Vasko Atanasovski</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20140222 Erich Fischer Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Anne Czichowsky Quintett</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>8</PhotoDay>
+      <GalleryName>G82</GalleryName>
+      <PhotoTextOne>Anne Czichowsky</PhotoTextOne>
+      <PhotoTextTwo>Matthias Daneck</PhotoTextTwo>
+      <PhotoTextThree>Anne Czichowsky</PhotoTextThree>
+      <PhotoTextFour>Thilo Wagner</PhotoTextFour>
+      <PhotoTextFive>Anne Czichowsky Quintett</PhotoTextFive>
+      <PhotoTextSix>Martin Wiedmann</PhotoTextSix>
+      <PhotoTextSeven>Anne Czichowsky</PhotoTextSeven>
+      <PhotoTextEight>Axel Kühn</PhotoTextEight>
+      <PhotoTextNine>Anne Czichowsky &amp; Axel Kühn</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20140308 Anne Czichowsky Quintett Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Big Band Aarau</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>22</PhotoDay>
+      <GalleryName>G83</GalleryName>
+      <PhotoTextOne>Corinne Huber</PhotoTextOne>
+      <PhotoTextTwo>Big Band Aarau</PhotoTextTwo>
+      <PhotoTextThree>Herbert Schlunegger</PhotoTextThree>
+      <PhotoTextFour>Big Band Aarau</PhotoTextFour>
+      <PhotoTextFive>Big Band Aarau</PhotoTextFive>
+      <PhotoTextSix>Albert Herzog</PhotoTextSix>
+      <PhotoTextSeven>Corinne Huber</PhotoTextSeven>
+      <PhotoTextEight>Micha Dehler</PhotoTextEight>
+      <PhotoTextNine>Nicolas Indlekofer</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20140322 Big Band Aarau Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2014</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>John Stowell - Manfred Junker Duo</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>4</PhotoDay>
+      <GalleryName>G84</GalleryName>
+      <PhotoTextOne>John Stowell</PhotoTextOne>
+      <PhotoTextTwo>John Stowell &amp; Manfred Junker</PhotoTextTwo>
+      <PhotoTextThree>Manfred Junker</PhotoTextThree>
+      <PhotoTextFour>John Stowell</PhotoTextFour>
+      <PhotoTextFive>John Stowell &amp; Manfred Junker</PhotoTextFive>
+      <PhotoTextSix>Manfred Junker</PhotoTextSix>
+      <PhotoTextSeven>John Stowell</PhotoTextSeven>
+      <PhotoTextEight>John Stowell &amp; Manfred Junker</PhotoTextEight>
+      <PhotoTextNine>Manfred Junker</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20141004 Manfred Junker John Stowell Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Herbie's EXPLO 3000</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>18</PhotoDay>
+      <GalleryName>G85</GalleryName>
+      <PhotoTextOne>Herbie Kopf</PhotoTextOne>
+      <PhotoTextTwo>Herbie's EXPLO 3000</PhotoTextTwo>
+      <PhotoTextThree>Herbie Kopf &amp; Adrian Pflugshaupt</PhotoTextThree>
+      <PhotoTextFour>Hans Feigenwinter</PhotoTextFour>
+      <PhotoTextFive>Herbie's EXPLO 3000</PhotoTextFive>
+      <PhotoTextSix>Pius Baschnagel</PhotoTextSix>
+      <PhotoTextSeven>Adrian Pflugshaupt</PhotoTextSeven>
+      <PhotoTextEight>Herbie Kopf</PhotoTextEight>
+      <PhotoTextNine>Adrian Pflugshaupt</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20141018 Herbie Kopf EXPLO 3000 Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Hellmüller Risso Zanoli</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>1</PhotoDay>
+      <GalleryName>G86</GalleryName>
+      <PhotoTextOne>Franz Hellmüller &amp; Stefano Risso</PhotoTextOne>
+      <PhotoTextTwo>Marco Zanoli</PhotoTextTwo>
+      <PhotoTextThree>Stefano Risso</PhotoTextThree>
+      <PhotoTextFour>Stefano Risso</PhotoTextFour>
+      <PhotoTextFive>Franz Hellmüller &amp; Stefano Risso &amp; Marco Zanoli</PhotoTextFive>
+      <PhotoTextSix>Franz Hellmüller</PhotoTextSix>
+      <PhotoTextSeven>Franz Hellmüller</PhotoTextSeven>
+      <PhotoTextEight>Marco Zanoli</PhotoTextEight>
+      <PhotoTextNine>Stefano Risso</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20141101 Hellmueller Risso Zanoli Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jazz Live Trio</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>15</PhotoDay>
+      <GalleryName>G87</GalleryName>
+      <PhotoTextOne>Andi Wettstein</PhotoTextOne>
+      <PhotoTextTwo>Jazz Live Trio</PhotoTextTwo>
+      <PhotoTextThree>Klaus König</PhotoTextThree>
+      <PhotoTextFour>Patrick Sommer</PhotoTextFour>
+      <PhotoTextFive>Jazz Live Trio</PhotoTextFive>
+      <PhotoTextSix>Patrick Sommer &amp; Andi Wettstein</PhotoTextSix>
+      <PhotoTextSeven>Andi Wettstein</PhotoTextSeven>
+      <PhotoTextEight>Jazz Live Trio</PhotoTextEight>
+      <PhotoTextNine>Klaus König</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20141115 Klaus Koenig Jazzlive Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Markus Hauser Quartet</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>29</PhotoDay>
+      <GalleryName>G88</GalleryName>
+      <PhotoTextOne>Markus Hauser</PhotoTextOne>
+      <PhotoTextTwo>Robert Weder</PhotoTextTwo>
+      <PhotoTextThree>Romano Ricciardi</PhotoTextThree>
+      <PhotoTextFour>Markus Hauser &amp; Robert Weder</PhotoTextFour>
+      <PhotoTextFive>Markus Hauser Quartet</PhotoTextFive>
+      <PhotoTextSix>Alessandro Ricciardi</PhotoTextSix>
+      <PhotoTextSeven>Markus Hauser</PhotoTextSeven>
+      <PhotoTextEight>Robert Weder &amp; Alessandro Ricciardi</PhotoTextEight>
+      <PhotoTextNine>Romano Ricciardi</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20141129 Markus Hauser Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>SIMON WYRSCH QUARTET</PhotoBandName>
+      <PhotoYear>2014</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>13</PhotoDay>
+      <GalleryName>G89</GalleryName>
+      <PhotoTextOne>Dario Bianchin &amp; Robert Mark</PhotoTextOne>
+      <PhotoTextTwo>Dario Bianchin</PhotoTextTwo>
+      <PhotoTextThree>Simon Wyrsch</PhotoTextThree>
+      <PhotoTextFour>Robert Mark</PhotoTextFour>
+      <PhotoTextFive>SIMON WYRSCH QUARTET</PhotoTextFive>
+      <PhotoTextSix>Fridolin Blumer</PhotoTextSix>
+      <PhotoTextSeven>Dario Bianchin</PhotoTextSeven>
+      <PhotoTextEight>Robert Mark</PhotoTextEight>
+      <PhotoTextNine>Simon Wyrsch</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20141213 Simon Wyrsch Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>NOJAKîN</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>10</PhotoDay>
+      <GalleryName>G90</GalleryName>
+      <PhotoTextOne>Christoph Huber</PhotoTextOne>
+      <PhotoTextTwo>Michael Haudenschild</PhotoTextTwo>
+      <PhotoTextThree>Corinne Nora Huber</PhotoTextThree>
+      <PhotoTextFour>Lukas Kohler</PhotoTextFour>
+      <PhotoTextFive>NOJAKîN</PhotoTextFive>
+      <PhotoTextSix>Lukas Rutzen</PhotoTextSix>
+      <PhotoTextSeven>Christoph Huber &amp; Lukas Kohler</PhotoTextSeven>
+      <PhotoTextEight>Benjamin Muralt</PhotoTextEight>
+      <PhotoTextNine>Corinne Nora Huber</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20150110 Corinne Huber Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Chachaloca</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>24</PhotoDay>
+      <GalleryName>G91</GalleryName>
+      <PhotoTextOne>Jost Müller &amp; Richard Pechota</PhotoTextOne>
+      <PhotoTextTwo>Alain von Ritter</PhotoTextTwo>
+      <PhotoTextThree>Richard Pechota</PhotoTextThree>
+      <PhotoTextFour>Roman Glaser</PhotoTextFour>
+      <PhotoTextFive>Chachaloca</PhotoTextFive>
+      <PhotoTextSix>Roman Glaser</PhotoTextSix>
+      <PhotoTextSeven>Alain von Ritter</PhotoTextSeven>
+      <PhotoTextEight>Jost Müller</PhotoTextEight>
+      <PhotoTextNine>Richard Pechota</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20150124 Chachaloca Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Compulsion</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>7</PhotoDay>
+      <GalleryName>G92</GalleryName>
+      <PhotoTextOne>Simone Bollini</PhotoTextOne>
+      <PhotoTextTwo>Dominik Schürmann</PhotoTextTwo>
+      <PhotoTextThree>Dominik Schürmann &amp; Marc Ulrich</PhotoTextThree>
+      <PhotoTextFour>Adam Taubitz</PhotoTextFour>
+      <PhotoTextFive>Compulsion</PhotoTextFive>
+      <PhotoTextSix>Adam Taubitz</PhotoTextSix>
+      <PhotoTextSeven>Simone Bollini</PhotoTextSeven>
+      <PhotoTextEight>Adam Taubitz</PhotoTextEight>
+      <PhotoTextNine>Marc Ulrich</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20150207 Compulsion Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Bucher´s Organ Book</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>21</PhotoDay>
+      <GalleryName>G93</GalleryName>
+      <PhotoTextOne>Thomas Bauser</PhotoTextOne>
+      <PhotoTextTwo>Michael Bucher</PhotoTextTwo>
+      <PhotoTextThree>Lukas Mantel</PhotoTextThree>
+      <PhotoTextFour>Lukas Mantel</PhotoTextFour>
+      <PhotoTextFive>Bucher’s Organ Book</PhotoTextFive>
+      <PhotoTextSix>Michael Bucher</PhotoTextSix>
+      <PhotoTextSeven>Thomas Bauser</PhotoTextSeven>
+      <PhotoTextEight>Michael Bucher</PhotoTextEight>
+      <PhotoTextNine>Bucher’s Organ Book</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20150221 Buchers Organ Book Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Balkan Flavours</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>7</PhotoDay>
+      <GalleryName>G94</GalleryName>
+      <PhotoTextOne>Marc Stucki</PhotoTextOne>
+      <PhotoTextTwo>Faruk Muslijevic</PhotoTextTwo>
+      <PhotoTextThree>Thomas Tavano</PhotoTextThree>
+      <PhotoTextFour>Dragan Pijetlovic</PhotoTextFour>
+      <PhotoTextFive>Balkan Flavours</PhotoTextFive>
+      <PhotoTextSix>Dragan Pijetlovic</PhotoTextSix>
+      <PhotoTextSeven>Thomas Tavano</PhotoTextSeven>
+      <PhotoTextEight>Faruk Muslijevic</PhotoTextEight>
+      <PhotoTextNine>Marc Stucki</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20150307 Balkan Flavours Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>A Tribute to Astor Piazzolla</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>21</PhotoDay>
+      <GalleryName>G95</GalleryName>
+      <PhotoTextOne>Adam Taubitz</PhotoTextOne>
+      <PhotoTextTwo>Denis Croisonnier</PhotoTextTwo>
+      <PhotoTextThree>Thomas Dobler</PhotoTextThree>
+      <PhotoTextFour>Thomas Dobler</PhotoTextFour>
+      <PhotoTextFive>A Tribute to Astor Piazzolla</PhotoTextFive>
+      <PhotoTextSix>Denis Croisonnier</PhotoTextSix>
+      <PhotoTextSeven>Rätus Flisch</PhotoTextSeven>
+      <PhotoTextEight>Denis Croisonnier</PhotoTextEight>
+      <PhotoTextNine>Rätus Flisch</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20150321 A Tribute to Astor Piazzolla Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+  <PhotosSeason>
+    <PhotoStartYearSeason>2015</PhotoStartYearSeason>
+    <PhotoConcert>
+      <PhotoBandName>Nathanael Su Quartet</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>3</PhotoDay>
+      <GalleryName>G96</GalleryName>
+      <PhotoTextOne>Nathanael Su</PhotoTextOne>
+      <PhotoTextTwo>Sheldon Suter</PhotoTextTwo>
+      <PhotoTextThree>Nathanael Su</PhotoTextThree>
+      <PhotoTextFour>Fabian Gisler</PhotoTextFour>
+      <PhotoTextFive>Nathanael Su Quartet</PhotoTextFive>
+      <PhotoTextSix>Jean-Paul Brodbeck</PhotoTextSix>
+      <PhotoTextSeven>Fabian Gisler &amp; Jean-Paul Brodbeck</PhotoTextSeven>
+      <PhotoTextEight>Fabian Gisler</PhotoTextEight>
+      <PhotoTextNine>Nathanael Su</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20151003 Nathanael Su Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>1</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Alexia Gardner Trio</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>17</PhotoDay>
+      <GalleryName>G97</GalleryName>
+      <PhotoTextOne>Lorenz Beyeler</PhotoTextOne>
+      <PhotoTextTwo>Lorenz Beyeler &amp; Beat Baumli</PhotoTextTwo>
+      <PhotoTextThree>Alexia Gardner</PhotoTextThree>
+      <PhotoTextFour>Beat Baumli</PhotoTextFour>
+      <PhotoTextFive>Alexia Gardner Trio</PhotoTextFive>
+      <PhotoTextSix>Alexia Gardner</PhotoTextSix>
+      <PhotoTextSeven>Lorenz Beyeler</PhotoTextSeven>
+      <PhotoTextEight>Beat Baumli</PhotoTextEight>
+      <PhotoTextNine>Alexia Gardner</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20151017 Alexia Gardner Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>2</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Claude Diallo Situation</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>10</PhotoMonth>
+      <PhotoDay>31</PhotoDay>
+      <GalleryName>G98</GalleryName>
+      <PhotoTextOne>Claude Diallo</PhotoTextOne>
+      <PhotoTextTwo>Laurent Salzard</PhotoTextTwo>
+      <PhotoTextThree>Claude Diallo</PhotoTextThree>
+      <PhotoTextFour>Laurent Salzard</PhotoTextFour>
+      <PhotoTextFive>Claude Diallo Situation</PhotoTextFive>
+      <PhotoTextSix>Massimo Buonanno</PhotoTextSix>
+      <PhotoTextSeven>Laurent Salzard &amp; Massimo Buonanno</PhotoTextSeven>
+      <PhotoTextEight>Claude Diallo Situation</PhotoTextEight>
+      <PhotoTextNine>Claude Diallo</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20151031 Claude Diallo Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>3</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Kuno Kürner - Klaus Koch Quartet, Tribute To Coleman Hawkins</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>14</PhotoDay>
+      <GalleryName>G99</GalleryName>
+      <PhotoTextOne>Claus Koch</PhotoTextOne>
+      <PhotoTextTwo>Giorgos Antoniou</PhotoTextTwo>
+      <PhotoTextThree>Claus Koch</PhotoTextThree>
+      <PhotoTextFour>Michael Keul</PhotoTextFour>
+      <PhotoTextFive>Kuno Kürner - Klaus Koch Quartet</PhotoTextFive>
+      <PhotoTextSix>Giorgos Antoniou</PhotoTextSix>
+      <PhotoTextSeven>Kuno Kürner</PhotoTextSeven>
+      <PhotoTextEight>Kuno Kürner - Klaus Koch Quartet</PhotoTextEight>
+      <PhotoTextNine>Claus Koch</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20151114 Kuno Kuerner Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>4</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Peter Schärli Trio featuring Glenn Ferris</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>11</PhotoMonth>
+      <PhotoDay>28</PhotoDay>
+      <GalleryName>G100</GalleryName>
+      <PhotoTextOne>Glenn Ferris</PhotoTextOne>
+      <PhotoTextTwo>Hans-Peter Pfamatter</PhotoTextTwo>
+      <PhotoTextThree>Glenn Ferris</PhotoTextThree>
+      <PhotoTextFour>Hans-Peter Pfamatter</PhotoTextFour>
+      <PhotoTextFive>Peter Schärli Trio</PhotoTextFive>
+      <PhotoTextSix>Peter Schärli Trio</PhotoTextSix>
+      <PhotoTextSeven>Glenn Ferris</PhotoTextSeven>
+      <PhotoTextEight>Thomas Dürst</PhotoTextEight>
+      <PhotoTextNine>Peter Schärli</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20151128 Peter Schaerli Trio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>5</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Rodrigo Botter Maio "Jazz via Brasil Group</PhotoBandName>
+      <PhotoYear>2015</PhotoYear>
+      <PhotoMonth>12</PhotoMonth>
+      <PhotoDay>12</PhotoDay>
+      <GalleryName>G101</GalleryName>
+      <PhotoTextOne>Gregor Müller</PhotoTextOne>
+      <PhotoTextTwo>Florian Reichle</PhotoTextTwo>
+      <PhotoTextThree>Lino Botter Maio</PhotoTextThree>
+      <PhotoTextFour>Lino Botter Maio</PhotoTextFour>
+      <PhotoTextFive>Rodrigo Botter Maio 'Jazz via Brasil Group'</PhotoTextFive>
+      <PhotoTextSix>Rodrigo Botter Maio</PhotoTextSix>
+      <PhotoTextSeven>Eduardo 'Dudu' Penz</PhotoTextSeven>
+      <PhotoTextEight>Eduardo 'Dudu' Penz</PhotoTextEight>
+      <PhotoTextNine>Rodrigo Botter Maio</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20151212 Rodrigo Botter Maio Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>6</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Marianne Racine Quartet</PhotoBandName>
+      <PhotoYear>2016</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>9</PhotoDay>
+      <GalleryName>G102</GalleryName>
+      <PhotoTextOne>Daniel Baschnagel</PhotoTextOne>
+      <PhotoTextTwo>Patrick Sommer</PhotoTextTwo>
+      <PhotoTextThree>Daniel Baschnagel</PhotoTextThree>
+      <PhotoTextFour>Marianne Racine</PhotoTextFour>
+      <PhotoTextFive>Pius Baschnagel</PhotoTextFive>
+      <PhotoTextSix>Marianne Racine</PhotoTextSix>
+      <PhotoTextSeven>Pius Baschnagel</PhotoTextSeven>
+      <PhotoTextEight>Patrick Sommer</PhotoTextEight>
+      <PhotoTextNine>Marianne Racine</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20160109 Marianne Racine Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>7</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Romano Ricciardi Trio featuring Brandy Butler</PhotoBandName>
+      <PhotoYear>2016</PhotoYear>
+      <PhotoMonth>1</PhotoMonth>
+      <PhotoDay>23</PhotoDay>
+      <GalleryName>G103</GalleryName>
+      <PhotoTextOne>Romano Ricciardi</PhotoTextOne>
+      <PhotoTextTwo>Elmar Frey</PhotoTextTwo>
+      <PhotoTextThree>Alessandro Ricciardi</PhotoTextThree>
+      <PhotoTextFour>Brandy Butler</PhotoTextFour>
+      <PhotoTextFive>Romano Ricciardi</PhotoTextFive>
+      <PhotoTextSix>Brandy Butler</PhotoTextSix>
+      <PhotoTextSeven>Romano Ricciardi</PhotoTextSeven>
+      <PhotoTextEight>Alessandro Ricciardi</PhotoTextEight>
+      <PhotoTextNine>Alessandro Ricciardi</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20160123 Romano Ricciardi Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>8</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Theo Kapilidis "Bright Shadows"</PhotoBandName>
+      <PhotoYear>2016</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>6</PhotoDay>
+      <GalleryName>G104</GalleryName>
+      <PhotoTextOne>Theo Kapilidis</PhotoTextOne>
+      <PhotoTextTwo>Raphael Walser</PhotoTextTwo>
+      <PhotoTextThree>Florian Egli</PhotoTextThree>
+      <PhotoTextFour>Maxime Paratte</PhotoTextFour>
+      <PhotoTextFive>Theo Kapilidis</PhotoTextFive>
+      <PhotoTextSix>Maxime Paratte</PhotoTextSix>
+      <PhotoTextSeven>Theo Kapilidis &amp; Raphael Walser</PhotoTextSeven>
+      <PhotoTextEight>Raphael Walser</PhotoTextEight>
+      <PhotoTextNine>Florian Egli</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20160206 Theo Kapilidis Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>9</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Anne Czichowsky Quintet</PhotoBandName>
+      <PhotoYear>2016</PhotoYear>
+      <PhotoMonth>2</PhotoMonth>
+      <PhotoDay>20</PhotoDay>
+      <GalleryName>G105</GalleryName>
+      <PhotoTextOne>Anne Czichowsky</PhotoTextOne>
+      <PhotoTextTwo>Axel Kühn</PhotoTextTwo>
+      <PhotoTextThree>Matthias Daneck</PhotoTextThree>
+      <PhotoTextFour>Axel Kühn</PhotoTextFour>
+      <PhotoTextFive>Anne Czichowsky</PhotoTextFive>
+      <PhotoTextSix>Thilo Wagner</PhotoTextSix>
+      <PhotoTextSeven>Matthias Daneck</PhotoTextSeven>
+      <PhotoTextEight>Martin Wiedemann</PhotoTextEight>
+      <PhotoTextNine>Matthias Daneck</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20160220 Anne Czichowsky Quintet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>10</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Christoph Neuhaus Quartet</PhotoBandName>
+      <PhotoYear>2016</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>5</PhotoDay>
+      <GalleryName>G106</GalleryName>
+      <PhotoTextOne>Christoph Neuhaus</PhotoTextOne>
+      <PhotoTextTwo>Axel Pape</PhotoTextTwo>
+      <PhotoTextThree>Rainer Böhm</PhotoTextThree>
+      <PhotoTextFour>Axel Pape</PhotoTextFour>
+      <PhotoTextFive>Christoph Neuhaus</PhotoTextFive>
+      <PhotoTextSix>Axel Kühn</PhotoTextSix>
+      <PhotoTextSeven>Axel Pape</PhotoTextSeven>
+      <PhotoTextEight>Axel Kühn</PhotoTextEight>
+      <PhotoTextNine>Rainer Böhm</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20160305 Christoph Neuhaus Quartet Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>11</PhotoConcertNumber>
+    </PhotoConcert>
+    <PhotoConcert>
+      <PhotoBandName>Jubiläumskonzert Barbara Balzan Quartet</PhotoBandName>
+      <PhotoYear>2016</PhotoYear>
+      <PhotoMonth>3</PhotoMonth>
+      <PhotoDay>19</PhotoDay>
+      <GalleryName>G107</GalleryName>
+      <PhotoTextOne>Barbara Balzan</PhotoTextOne>
+      <PhotoTextTwo>Daniele di Bonaventura</PhotoTextTwo>
+      <PhotoTextThree>Paolo Fresu</PhotoTextThree>
+      <PhotoTextFour>Gregor Müller</PhotoTextFour>
+      <PhotoTextFive>Paolo Fresu</PhotoTextFive>
+      <PhotoTextSix>Gregor Müller</PhotoTextSix>
+      <PhotoTextSeven>Barbara Balzan</PhotoTextSeven>
+      <PhotoTextEight>Daniele di Bonaventura</PhotoTextEight>
+      <PhotoTextNine>Paolo Fresu</PhotoTextNine>
+      <PhotographerName>Peter Günthart</PhotographerName>
+      <PhotoZipName>d20160319 Jubilaeumskonzert Barbara Balzan Peter.zip</PhotoZipName>
+      <PhotoConcertNumber>12</PhotoConcertNumber>
+    </PhotoConcert>
+  </PhotosSeason>
+</GalleryOne>

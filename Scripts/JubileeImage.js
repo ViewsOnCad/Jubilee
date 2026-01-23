@@ -1,5 +1,5 @@
 // File: JubileeImage.js
-// Date: 2026-04-19
+// Date: 2026-04-23
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -13,6 +13,9 @@
 
 // Instance of the class JubileeImageData
 var g_jubilee_image_data = null;
+
+// Instance of the class JubileeXml
+var g_jubilee_xml = null;
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// End Global Parameters ///////////////////////////////////////////

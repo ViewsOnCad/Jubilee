@@ -1,0 +1,23 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<!-- This XML file is created from an XML object by the function xmlToFormattedString -->
+<JubileeRoot>
+    <JubileePhoto>
+        <PhotoUrl>PublikumBild_0001_LowRes.jpg</PhotoUrl>
+        <SmallPhotoUrl>PublikumBild_0001_small.jpg</SmallPhotoUrl>
+        <PhotoText>JAZZ live AARAU Fotograf</PhotoText>
+        <PhotoEvent>NotYetSetNodeValue</PhotoEvent>
+        <PhotoYear>2013</PhotoYear>
+        <PhotoMonth>3</PhotoMonth>
+        <PhotoDay>20</PhotoDay>
+    </JubileePhoto>
+    <JubileePhoto>
+        <PhotoUrl>JazzGuests/d20060218_GianinFlucher.jpg</PhotoUrl>
+        <SmallPhotoUrl>JazzGuests/d20060218_GianinFlucher.jpg</SmallPhotoUrl>
+        <PhotoText>Gianin Flucher</PhotoText>
+        <PhotoEvent>Stewy von Wattenwyl Trio</PhotoEvent>
+        <PhotoYear>2006</PhotoYear>
+        <PhotoMonth>2</PhotoMonth>
+        <PhotoDay>18</PhotoDay>
+    </JubileePhoto>
+
+</JubileeRoot>
