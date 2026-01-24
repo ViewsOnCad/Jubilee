@@ -1,5 +1,5 @@
 /* 
-File: Jubilee.css Date: 2026-01-16
+File: Jubilee.css Date: 2026-01-24
 
 Author: Gunnar Liden
 
@@ -9,11 +9,16 @@ General information
 Defines all style classes for the application Jubilee.htm
 
 */
+/* For the whole body */
+body
+{
+    background-image: url('../Images/LeeKrasner_8.jpg');
+}
 
 /* The whole page */
 .cl_image_page
 {
-    border: solid 2px blue;
+    border: solid 2px black;
     font-family: 'Arial';
     font-size: 15px;
     font-weight: bold;

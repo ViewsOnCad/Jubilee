@@ -1,5 +1,5 @@
 // File: JubileeImage.js
-// Date: 2026-04-23
+// Date: 2026-04-24
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -91,13 +91,36 @@ class JubileeImage
 
         g_jubilee_image_data.initDisplayIndex();
 
-        JubileeImage.displayImagesRecursively();
+        JubileeImage.displayYearsRecursively();
 
     } // arraySmallImagesLoaded
+
+    // Display all years recursively
+    static displayYearsRecursively()
+    {
+        var next_index = g_jubilee_image_data.getNextDisplayIndex();    
+        if (next_index >= 0)
+        {
+            JubileeImage.displayYear();
+            
+            setTimeout(JubileeImage.displayYearsRecursively, 50);
+        }   
+        else
+        {
+            g_jubilee_image_data.m_load_image_case = -1;
+
+            g_jubilee_image_data.initDisplayIndex();
+
+            setTimeout(JubileeImage.displayImagesRecursively, 3000);
+        }
+
+    } // displayYearsRecursively
 
     // Display all images recursively
     static displayImagesRecursively()
     {
+        g_jubilee_image_data.m_overlay_text_div_el.style.display = 'block'; 
+
         var next_index = g_jubilee_image_data.getNextDisplayIndex();
 
         if (next_index >= 0)
@@ -181,20 +204,57 @@ class JubileeImage
 
         // Not used var concert_band = current_photo_data.getBand();
 
-        var concert_date = current_photo_data.getDay(); // TODO date = day Call Day, Month and Year and create swiss date
+        var concert_year = current_photo_data.getYear(); 
 
-        var text_htm = concert_text + '<br>' + concert_date;
+        var n_display_years = parseInt(2026 - concert_year);
+
+        var text_htm = concert_text + '<br>' + n_display_years.toString() + ' Jahre her';
 
         text_container_div.innerHTML = text_htm;
 
     } // displayImageText
+
+    // Display only the year
+    static displayYear()
+    {
+        var index_photo = g_jubilee_image_data.getDisplayIndex();
+        var current_photo_data = g_jubilee_image_data.m_list_data_objects.getPhotoData(index_photo + 1);
+        var concert_year = current_photo_data.getYear();
+        var n_display_years = parseInt(2026 - concert_year);
+        var text_htm = n_display_years.toString();
+        var current_grid_el = g_jubilee_image_data.m_grid_element_array[index_photo];
+        //QQ var text_container_div = g_jubilee_image_data.m_overlay_text_div_el;
+        current_grid_el.m_el.style.textAlign = 'center';
+        current_grid_el.m_el.style.verticalAlign = 'middle';
+
+        current_grid_el.m_el.innerHTML = text_htm;
+    } //
 
     // Callback function when all images and texts have been displayec
     static callbackImagesDisplayed()
     {
         console.log('JubileeImage.callbackImagesDisplayed: All photos displayed. ');
 
+        JubileeImage.displayJubileeText();
+
     } // callbackImagesDisplayed
+
+    // Display jubilee text in overlay <div>
+    static displayJubileeText()
+    {
+        console.log('JubileeImage.displayJubileeText Enter. ');
+
+         g_jubilee_image_data.m_overlay_image_div_el.style.display = 'none';
+
+        g_jubilee_image_data.m_overlay_text_div_el.style.display = 'block';
+        var text_container_div = g_jubilee_image_data.m_overlay_text_div_el;
+        //var text_htm = 'JAZZ live AARAU<br>30 Jahre Jubiläum<br><br>Vielen Dank an alle Musikerinnen und Musiker,<br>an alle Helferinnen und Helfer<br>und an alle Besucherinnen und Besucher<br>für die unvergesslichen Konzerte<br>in den letzten 30 Jahren!';
+        var text_htm = 'JAZZ <i>live</i> AARAU<br><br>30 Jahre Jubiläum';
+        text_container_div.style.color = 'red';
+        text_container_div.innerHTML = text_htm;
+
+    } // displayJubileeText
+
 
     // Get array from local storage and set object PhotoDataList(temporary solution)
     // i_n_photos: Number of PhotoData objects to set
@@ -206,7 +266,7 @@ class JubileeImage
 
         var key_jubilee_band_names = 'key_jubilee_band_names';
 
-        var key_jubilee_dates = 'key_jubilee_dates';
+        var key_jubilee_years = 'key_jubilee_years';
 
         var key_jubilee_texts = 'key_jubilee_texts';
 
@@ -216,7 +276,7 @@ class JubileeImage
 
         var jubilee_band_names = [];
 
-        var jubilee_dates = [];
+        var jubilee_years = [];
 
         var jubilee_texts = [];
 
@@ -241,11 +301,11 @@ class JubileeImage
             jubilee_band_names = JSON.parse(jubilee_band_names_string);
         }
 
-        var jubilee_dates_string = localStorage.getItem(key_jubilee_dates);
+        var jubilee_years_string = localStorage.getItem(key_jubilee_years);
 
-        if (null != jubilee_dates_string)
+        if (null != jubilee_years_string)
         {
-            jubilee_dates = JSON.parse(jubilee_dates_string);
+            jubilee_years = JSON.parse(jubilee_years_string);
         }
 
         var jubilee_texts_string = localStorage.getItem(key_jubilee_texts);
@@ -280,13 +340,13 @@ class JubileeImage
 
             var band_name = jubilee_band_names[index_url];
 
-            var concert_date = jubilee_dates[index_url];
+            var concert_year = jubilee_years[index_url];
 
             var text_info = jubilee_texts[index_url];
 
             photo_data.setBand(band_name);
 
-            photo_data.setDay(concert_date); // Note day is used for date
+            photo_data.setYear(concert_year); 
 
             photo_data.setText(text_info);
 
@@ -687,7 +747,8 @@ class JubileeImageData
 
         // Number of milliseconds that photo and text will be displayed
         // on the overlay <div> 
-        this.m_display_sleep_time = 1000;
+        this.m_display_sleep_time = 5000;
+        
 
         // Initialize
         this.init();
@@ -851,7 +912,7 @@ class JubileeImageData
                 el_div.style.width = this.m_element_width + 'px';
                 el_div.style.height = this.m_element_height + 'px';
                 el_div.id = element_id;
-                el_div.innerHTML = element_id;
+                //el_div.innerHTML = element_id;
                 el_div.style.backgroundColor = 'black';   
                 el_div.style.color = 'white';  
                 el_div.style.border = 'solid 1px white';   
@@ -890,9 +951,9 @@ class JubileeImageData
         this.m_overlay_image_text_div_el.id = 'id_jubilee_overlay_image_div';
 
         var div_width = parseInt(this.m_container_width*0.7);
-        var div_height = parseInt(this.m_container_height*0.75);
+        var div_height = parseInt(this.m_container_height*0.8);
         var left_coord = parseInt((this.m_container_width * 0.2));
-        var top_coord = parseInt((this.m_container_height*0.3));
+        var top_coord = parseInt((this.m_container_height*0.2));
 
         console.log("JubileeImageData.createOverlayImageTextDiv div_width=   " + div_width);
         console.log("JubileeImageData.createOverlayImageTextDiv div_height=  " + div_height);
@@ -907,8 +968,8 @@ class JubileeImageData
         this.m_overlay_image_text_div_el.style.width = div_width + 'px';
         this.m_overlay_image_text_div_el.style.height = div_height + 'px';
         this.m_overlay_image_text_div_el.style.zIndex = '10'; 
-        //QQ this.m_overlay_image_text_div_el.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
-        this.m_overlay_image_text_div_el.style.border = 'solid 2px yellow';
+        
+        //this.m_overlay_image_text_div_el.style.border = 'solid 2px yellow';
         //this.m_overlay_image_text_div_el.style.display = 'none'; // Initially hidden
         this.m_overlay_image_text_div_el.style.display = 'block'; // Initially displayed
 
@@ -918,8 +979,8 @@ class JubileeImageData
          this.m_overlay_image_div_el = document.createElement('div'); 
 
          this.m_overlay_image_div_el.style.width = '99%';
-         this.m_overlay_image_div_el.style.height = '59%';
-         this.m_overlay_image_div_el.style.border = 'solid 1px white';
+         this.m_overlay_image_div_el.style.height = '69%';
+         //this.m_overlay_image_div_el.style.border = 'solid 1px white';
 
         this.m_overlay_image_text_div_el.appendChild(this.m_overlay_image_div_el);
 
@@ -927,14 +988,16 @@ class JubileeImageData
         this.m_overlay_text_div_el = document.createElement('div');
         this.m_overlay_text_div_el.style.marginTop = '1%';
         this.m_overlay_text_div_el.style.width = '99%';
-        this.m_overlay_text_div_el.style.height = '32%';
-        this.m_overlay_text_div_el.style.border = 'solid 1px white';
+        this.m_overlay_text_div_el.style.height = '22%';
+        //this.m_overlay_text_div_el.style.border = 'solid 1px white';
         this.m_overlay_text_div_el.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
 
         this.m_overlay_text_div_el.style.color = 'white';
         this.m_overlay_text_div_el.style.fontSize = '19px';
         this.m_overlay_text_div_el.style.padding = '10px';
         this.m_overlay_text_div_el.style.textAlign = 'center';
+
+        this.m_overlay_text_div_el.style.display = 'none'; // Initially hidden
         // this.m_overlay_text_div_el.innerHTML = 'Overlay text goes here.';
 
         this.m_overlay_image_text_div_el.appendChild(this.m_overlay_text_div_el);
