@@ -1,7 +1,21 @@
 
+2026-01-30 Gunnar
 
+1. Start Newsletter Applikation
+
+2. Text unten als Betreff eingeben
         
 Feiern Sie mit uns 30 Jahre JAZZ live AARAU
+
+3. Plakat wegnehmen mit Dropdown (leere Zeile)
+
+4. Kein Reservationstext (Haken wegnehmen)
+
+5. Absender mit Dropdown wählen
+
+6. Testadresse mit Dropdown eingeben
+
+7. HTML Text unden in Text Feld kopieren
 
 <span style="font-weight:normal;font-size: 1.2em;">
 <b>Feiern Sie mit uns 30 Jahre JAZZ <i>live</i> AARAU</b>
@@ -40,3 +54,8 @@ Wir würden uns freuen, wenn Sie nach dem samstäglichen Konzert den Abend in ge
 Runde bei einem feinen Nachtessen aus der Spagi-Küche verbringen würden.
 </b>
 </span>
+
+8. Test Newsletter senden und E-Mail kontrollieren
+
+9. Alle Newsletter senden
+
