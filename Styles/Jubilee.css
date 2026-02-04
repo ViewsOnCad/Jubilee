@@ -1,5 +1,5 @@
 /* 
-File: Jubilee.css Date: 2026-01-24
+File: Jubilee.css Date: 2026-02-04
 
 Author: Gunnar Liden
 
@@ -12,7 +12,8 @@ Defines all style classes for the application Jubilee.htm
 /* For the whole body */
 body
 {
-    background-image: url('../Images/LeeKrasner_8.jpg');
+    background-color: black;
+    /* background-image: url('../Images/LeeKrasner_8.jpg'); */
 }
 
 /* The whole page */
@@ -88,17 +89,7 @@ button
     cursor: pointer;
 }
 
-.cl_jazz_notes_title
-{
-    clear: both;
-}
 
-/* Image <img> Elemente in <div> element logo */
-.cl_jazz_notes_title img
-{
-    margin-left: 10px;
-    margin-right: 10px;
-}
 
 .cl_div_image_container
 {

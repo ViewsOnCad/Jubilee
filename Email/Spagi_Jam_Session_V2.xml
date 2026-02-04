@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--  JAZZ live AARAU Layout Restaurant Spagi by Marcello -->
+<Layout>
+  <PremisesName>SPAGI by Marcello</PremisesName>
+  <PremisesWidth>8000</PremisesWidth>
+  <PremisesHeight>14000</PremisesHeight>
+  <MaxReservationsProcent>100</MaxReservationsProcent>
+  <MaxWidhtPixel>900</MaxWidhtPixel>
+  <WallThickness>300</WallThickness>
+  <OrganizerName>JAZZ live AARAU</OrganizerName>
+  <OrganizerTextLogo>ImagesLayout/jazz_live_aarau_text_logo.png</OrganizerTextLogo>
+  <OrganizerTextLogoWidth>400px</OrganizerTextLogoWidth>
+  <OrganizerTextLogoHeight>40px</OrganizerTextLogoHeight>
+  <OrganizerLogo>ImagesLayout/jazz_live_aarau_logo.png</OrganizerLogo>
+  <OrganizerLogoWidth>384px</OrganizerLogoWidth>
+  <OrganizerLogoHeight>392px</OrganizerLogoHeight>
+  <OrganizerTwintName>392px</OrganizerTwintName>
+  <OrganizerTwintTelephone>392px</OrganizerTwintTelephone>
+  <SponsorsImage>ImagesLayout/jazz_live_aarau_sponsor_logos.png</SponsorsImage>
+  <SponsorsImageWidth>NotYetSetNodeValue</SponsorsImageWidth>
+  <SponsorsImageHeight>100px</SponsorsImageHeight>
+  <TableColor>rgb(255, 255, 255)</TableColor>
+  <TableStrokeColor>rgb(255, 255, 255)</TableStrokeColor>
+  <TableStrokeWidth>4</TableStrokeWidth>
+  <TableTextRelXProcent>40</TableTextRelXProcent>
+  <TableTextRelYProcent>50</TableTextRelYProcent>
+  <TableTextColor>white</TableTextColor>
+  <!--  Stage data Start -->
+  <StageUpperLeftX>600</StageUpperLeftX>
+  <StageUpperLeftY>970</StageUpperLeftY>
+  <StageWidth>6800</StageWidth>
+  <StageHeight>950</StageHeight>
+  <StageText>Bühne</StageText>
+  <StageColor>rgb(244, 241, 66)</StageColor>
+  <StageStrokeColor>rgb(135, 132, 5)</StageStrokeColor>
+  <StageStrokeWidth>10</StageStrokeWidth>
+  <StageTextRelXProcent>30</StageTextRelXProcent>
+  <StageTextRelYProcent>46</StageTextRelYProcent>
+  <StageTextColor>blue</StageTextColor>
+  <StageImage>ImagesLayout/icon_stage.png</StageImage>
+  <StageImageWidth>750px</StageImageWidth>
+  <StageImageHeight>150px</StageImageHeight>
+  <!--  Stage data End -->
+  <!--  Cash-desk data Start 
+  <CashUpperLeftX>5900</CashUpperLeftX>
+  <CashUpperLeftY>11500</CashUpperLeftY>
+  <CashImage>ImagesLayout/icon_other_desk.png</CashImage>
+  <CashImageWidth>130px</CashImageWidth>
+  <CashImageHeight>230px</CashImageHeight>
+     Cash-desk data End -->  
+  <!--  Layout cases Start -->
+  <LayoutFile> 
+    <LayoutFileCase>MakeReservation</LayoutFileCase>
+    <LayoutFileHtmlName>MakeReservation.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The reservation HTML file for the concert guests</LayoutFileDescription>
+    <LayoutFileButtonId>button_send_email</LayoutFileButtonId>
+  </LayoutFile> 
+  <LayoutFile> 
+    <LayoutFileCase>ShowLayout</LayoutFileCase>
+    <LayoutFileHtmlName>ShowLayout.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The HTML file that displays the concert premises</LayoutFileDescription>
+    <LayoutFileButtonId>button_send_email</LayoutFileButtonId>
+  </LayoutFile> 
+  <LayoutFile> 
+    <LayoutFileCase>AddReservation</LayoutFileCase>
+    <LayoutFileHtmlName>AddReservation.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The HTML file for the administration of the reservations</LayoutFileDescription>
+    <LayoutFileButtonId>delete_reservation_mode</LayoutFileButtonId>
+    <LayoutFileButtonId>button_list_reservations</LayoutFileButtonId>
+    <LayoutFileButtonId>button_print_reservations</LayoutFileButtonId>
+    <LayoutFileButtonId>button_init_reservation</LayoutFileButtonId>
+    <LayoutFileButtonId>button_save_reservation</LayoutFileButtonId>
+    <LayoutFileButtonId>buttonEventList</LayoutFileButtonId>
+  </LayoutFile> 
+  <LayoutFile> 
+    <LayoutFileCase>SearchReservation</LayoutFileCase>
+    <LayoutFileHtmlName>SearchReservation.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The HTML file for the search of reserved seats</LayoutFileDescription>
+    <LayoutFileButtonId>delete_reservation_mode</LayoutFileButtonId>
+    <LayoutFileButtonId>button_list_reservations</LayoutFileButtonId>
+    <LayoutFileButtonId>button_print_reservations</LayoutFileButtonId>
+    <LayoutFileButtonId>button_init_reservation</LayoutFileButtonId>
+    <LayoutFileButtonId>button_save_reservation</LayoutFileButtonId>
+    <LayoutFileButtonId>buttonEventList</LayoutFileButtonId>
+  </LayoutFile> 
+  <LayoutFile> 
+    <LayoutFileCase>ReservationPrint</LayoutFileCase>
+    <LayoutFileHtmlName>ReservationPrint.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The HTML file that displays the cards</LayoutFileDescription>
+  </LayoutFile> 
+  <LayoutFile> 
+    <LayoutFileCase>ReservationList</LayoutFileCase>
+    <LayoutFileHtmlName>ReservationList.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The HTML file that displays the list of reservations</LayoutFileDescription>
+  </LayoutFile>
+  <LayoutFile> 
+    <LayoutFileCase>EventReservation</LayoutFileCase>
+    <LayoutFileHtmlName>EventReservation.htm</LayoutFileHtmlName>
+    <LayoutFileDescription>The HTML file for the reservation of seats for any event of the events program</LayoutFileDescription>
+  </LayoutFile>
+  <!--  Layout files End -->
+  <!--  Layout Buttons Start -->
+  <LayoutButton> 
+    <ButtonId>button_send_email</ButtonId>
+    <ButtonTitle>Sitzplätze reservieren: 
+        Die Reservation wird registriert und eine Bestätigungs-E-Mail wird gesendet.</ButtonTitle>
+    <ButtonEventFunction>mouseDownSendEmailOrMakeReservation</ButtonEventFunction>
+    <ButtonUpperLeftX>5963</ButtonUpperLeftX>
+    <ButtonUpperLeftY>45</ButtonUpperLeftY>
+    <ButtonWidth>1958</ButtonWidth>
+    <ButtonHeight>258</ButtonHeight>
+    <ButtonImageId>text_image_send_email</ButtonImageId>
+    <ButtonImageEventFunction>mouseDownSendEmailOrMakeReservationText</ButtonImageEventFunction>
+    <ButtonImageOne>ImagesApp/text_reserve_seats.png</ButtonImageOne>
+    <ButtonImageTwo>ImagesApp/text_reserve_select_undef.png</ButtonImageTwo>
+    <ButtonImageThree>ImagesApp/text_reserve_select_undef.png</ButtonImageThree>
+    <ButtonImageWidth>168px</ButtonImageWidth>
+    <ButtonImageHeight>26px</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton> 
+  <LayoutButton> 
+    <ButtonId>button_save_reservation</ButtonId>
+    <ButtonTitle>Reservierte Plätze speichern</ButtonTitle>
+    <ButtonEventFunction>mouseDownSaveReservation</ButtonEventFunction>
+    <ButtonUpperLeftX>90</ButtonUpperLeftX>
+    <ButtonUpperLeftY>534</ButtonUpperLeftY>
+    <ButtonWidth>2032</ButtonWidth>
+    <ButtonHeight>258</ButtonHeight>
+    <ButtonImageId>id_image_save_reservation_text</ButtonImageId>
+	  <ButtonImageEventFunction>mouseDownSaveReservationText</ButtonImageEventFunction>
+    <ButtonImageOne>ImagesApp/text_save_reservation_white.png</ButtonImageOne>
+    <ButtonImageTwo>ImagesApp/text_save_reservation_white.png</ButtonImageTwo>
+    <ButtonImageThree>ImagesApp/text_save_reservation_white.png</ButtonImageThree>
+    <ButtonImageWidth>222px</ButtonImageWidth>
+    <ButtonImageHeight>26px</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton> 
+  <LayoutButton> 
+    <ButtonId>button_init_reservation</ButtonId>
+    <ButtonTitle>Eine Reservation zufügen</ButtonTitle>
+    <ButtonEventFunction>mouseDownInitReservation</ButtonEventFunction>
+    <ButtonUpperLeftX>90</ButtonUpperLeftX>
+    <ButtonUpperLeftY>45</ButtonUpperLeftY>
+    <ButtonWidth>2020</ButtonWidth>
+    <ButtonHeight>231</ButtonHeight>
+    <ButtonImageId>id_text_add_reservation_text</ButtonImageId>
+    <ButtonImageEventFunction>mouseDownInitReservationText</ButtonImageEventFunction>
+    <ButtonImageOne>ImagesApp/text_add_reservation.png</ButtonImageOne>
+    <ButtonImageTwo>ImagesApp/text_add_reservation.png</ButtonImageTwo>
+    <ButtonImageThree>ImagesApp/text_add_reservation.png</ButtonImageThree>
+    <ButtonImageWidth>222px</ButtonImageWidth>
+    <ButtonImageHeight>26px</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton> 
+  <LayoutButton> 
+    <ButtonId>button_print_reservations</ButtonId>
+    <ButtonTitle>Reservationskarten für alle Sitzplätze generieren</ButtonTitle>
+    <ButtonEventFunction>mouseDownPrintReservations</ButtonEventFunction>
+    <ButtonUpperLeftX>5963</ButtonUpperLeftX>
+    <ButtonUpperLeftY>45</ButtonUpperLeftY>
+    <ButtonWidth>1958</ButtonWidth>
+    <ButtonHeight>258</ButtonHeight>
+    <ButtonImageId>id_text_image_reservation_print</ButtonImageId>
+    <ButtonImageEventFunction>mouseDownPrintReservationsText</ButtonImageEventFunction>
+    <ButtonImageOne>ImagesApp/text_reservation_print.png</ButtonImageOne>
+    <ButtonImageTwo>ImagesApp/text_reservation_print.png</ButtonImageTwo>
+    <ButtonImageThree>ImagesApp/text_reservation_print.png</ButtonImageThree>
+    <ButtonImageWidth>206px</ButtonImageWidth>
+    <ButtonImageHeight>26px</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton> 
+  <LayoutButton> 
+    <ButtonId>button_list_reservations</ButtonId>
+    <ButtonTitle>Liste mit allen Reservationen zeigen</ButtonTitle>
+    <ButtonEventFunction>mouseDownListReservations</ButtonEventFunction>
+    <ButtonUpperLeftX>5963</ButtonUpperLeftX>
+    <ButtonUpperLeftY>525</ButtonUpperLeftY>
+    <ButtonWidth>1958</ButtonWidth>
+    <ButtonHeight>258</ButtonHeight>
+    <ButtonImageId>id_text_image_reservation_list</ButtonImageId>
+	  <ButtonImageEventFunction>mouseDownListReservationsText</ButtonImageEventFunction>
+    <ButtonImageOne>ImagesApp/text_reservation_list.png</ButtonImageOne>
+    <ButtonImageTwo>ImagesApp/text_reservation_list.png</ButtonImageTwo>
+    <ButtonImageThree>ImagesApp/text_reservation_list.png</ButtonImageThree>
+    <ButtonImageWidth>188px</ButtonImageWidth>
+    <ButtonImageHeight>26px</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton> 
+  <LayoutButton> 
+    <ButtonId>delete_reservation_mode</ButtonId>
+    <ButtonTitle>Reservierte Plätze löschen</ButtonTitle>
+    <ButtonEventFunction>mouseDownDeleteReservationMode</ButtonEventFunction>
+    <ButtonUpperLeftX>3471</ButtonUpperLeftX>
+    <ButtonUpperLeftY>525</ButtonUpperLeftY>
+    <ButtonWidth>1068</ButtonWidth>
+    <ButtonHeight>258</ButtonHeight>
+    <ButtonImageId>id_text_image_delete_reservation</ButtonImageId>
+	  <ButtonImageEventFunction>mouseDownDeleteReservationModeText</ButtonImageEventFunction>
+    <ButtonImageOne>ImagesApp/text_delete_off.png</ButtonImageOne>
+    <ButtonImageTwo>ImagesApp/text_delete_on.png</ButtonImageTwo>
+    <ButtonImageThree>ImagesApp/text_delete_off.png</ButtonImageThree>
+    <ButtonImageWidth>104px</ButtonImageWidth>
+    <ButtonImageHeight>26px</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton>
+  <LayoutButton> 
+    <ButtonId>buttonEventList</ButtonId>
+    <ButtonTitle>No longer used button</ButtonTitle>
+    <ButtonEventFunction>mouseDownNoLongerUsed</ButtonEventFunction>
+    <ButtonUpperLeftX>90</ButtonUpperLeftX>
+    <ButtonUpperLeftY>834</ButtonUpperLeftY>
+    <ButtonWidth>2032</ButtonWidth>
+    <ButtonHeight>258</ButtonHeight>
+    <ButtonImageId>NotYetSetNodeValue</ButtonImageId>
+    <ButtonImageEventFunction>NotYetSetNodeValue</ButtonImageEventFunction>
+    <ButtonImageOne>NotYetSetNodeValue</ButtonImageOne>
+    <ButtonImageTwo>NotYetSetNodeValue</ButtonImageTwo>
+    <ButtonImageThree>NotYetSetNodeValue</ButtonImageThree>
+    <ButtonImageWidth>NotYetSetNodeValue</ButtonImageWidth>
+    <ButtonImageHeight>NotYetSetNodeValue</ButtonImageHeight>
+    <ButtonType>NotYetSetNodeValue</ButtonType>
+  </LayoutButton> 
+  <!--  Layout Buttons End -->
+  <!--  Text images Start -->
+  <TextImageSelectSeats>ImagesApp/text_select_seats.png</TextImageSelectSeats>
+  <TextImageReserveSeats>ImagesApp/text_reserve_seats.png</TextImageReserveSeats>
+  <TextImageReserveSelectUndef>ImagesApp/text_reserve_select_undef.png</TextImageReserveSelectUndef>
+  <TextImageAddReservation>ImagesApp/text_add_reservation.png</TextImageAddReservation>
+  <TextImageDeleteOff>ImagesApp/text_delete_off.png</TextImageDeleteOff>
+  <TextImageDeleteOn>ImagesApp/text_delete_on.png</TextImageDeleteOn>
+  <TextImageReservationList>ImagesApp/text_reservation_list.png</TextImageReservationList>
+  <TextImageReservationPrint>ImagesApp/text_reservation_print.png</TextImageReservationPrint>
+  <TextImageSaveReservation>ImagesApp/text_save_reservation.png</TextImageSaveReservation>
+  <TextImageSaveReservationWhite>ImagesApp/text_save_reservation_white.png</TextImageSaveReservationWhite>
+  <!--  Text images End -->  
+  <Door>  
+    <DoorType>right</DoorType>
+    <DoorPosition>5300</DoorPosition>
+	  <DoorHeight>1200</DoorHeight>
+	  <DoorText>Personal</DoorText>
+    <DoorImage>ImagesLayout/icon_door_staff.png</DoorImage>
+    <DoorImageWidth>73px</DoorImageWidth>
+    <DoorImageHeight>163px</DoorImageHeight>
+  </Door>   
+  <Door>  
+    <DoorType>right</DoorType>
+    <DoorPosition>9500</DoorPosition>
+	  <DoorHeight>1600</DoorHeight>
+	  <DoorText>Eingangstür</DoorText>
+    <DoorImage>ImagesLayout/icon_door_main.png</DoorImage>
+    <DoorImageWidth>73px</DoorImageWidth>
+    <DoorImageHeight>235px</DoorImageHeight>
+  </Door>  
+  <Door>  
+    <DoorType>lower</DoorType>
+    <DoorPosition>500</DoorPosition>
+	  <DoorHeight>1000</DoorHeight>
+	  <DoorText>Hintertür</DoorText>
+    <DoorImage>ImagesLayout/icon_door_back.png</DoorImage>
+    <DoorImageWidth>163px</DoorImageWidth>
+    <DoorImageHeight>73px</DoorImageHeight>
+  </Door>  
+  <TableGroup>
+    <TableGroupText>Erster Tisch links vorne am Fenster</TableGroupText>
+    <TableGroupPrice>25 Franken</TableGroupPrice>
+    <TableGroupPriceReduced>15 Franken</TableGroupPriceReduced>
+    <Table>
+      <Number>11</Number>
+      <UpperLeftX>1000</UpperLeftX>
+      <UpperLeftY>2500</UpperLeftY>
+      <Width>900</Width>
+      <Height>4700</Height>
+      <NumberLeftRightSeats>20</NumberLeftRightSeats>
+      <SeatOneLeft>true</SeatOneLeft>
+      <SeatTwoLeft>true</SeatTwoLeft>
+      <SeatThreeLeft>true</SeatThreeLeft>
+      <SeatFourLeft>true</SeatFourLeft>
+      <SeatFiveLeft>true</SeatFiveLeft>	
+      <SeatSixLeft>true</SeatSixLeft>	
+      <SeatSevenLeft>true</SeatSevenLeft>
+      <SeatEightLeft>true</SeatEightLeft>
+      <SeatNineLeft>true</SeatNineLeft>
+      <SeatTenLeft>true</SeatTenLeft>
+      <SeatElevenLeft>true</SeatElevenLeft>
+      <SeatTwelveLeft>true</SeatTwelveLeft>
+      <SeatThirteenLeft>true</SeatThirteenLeft>
+      <SeatFourteenLeft>true</SeatFourteenLeft>
+      <SeatFifteenLeft>true</SeatFifteenLeft>
+      <SeatSixteenLeft>true</SeatSixteenLeft>
+      <SeatSeventeenLeft>true</SeatSeventeenLeft>
+      <SeatEighteenLeft>true</SeatEighteenLeft>
+      <SeatNineteenLeft>true</SeatNineteenLeft>
+      <SeatTwentyLeft>true</SeatTwentyLeft>
+      <SeatOneRight>true</SeatOneRight>
+      <SeatTwoRight>true</SeatTwoRight>
+      <SeatThreeRight>true</SeatThreeRight>
+      <SeatFourRight>true</SeatFourRight>
+      <SeatFiveRight>true</SeatFiveRight>	
+      <SeatSixRight>true</SeatSixRight>	
+      <SeatSevenRight>true</SeatSevenRight>
+      <SeatEightRight>true</SeatEightRight>
+      <SeatNineRight>true</SeatNineRight>
+      <SeatTenRight>true</SeatTenRight>
+      <SeatElevenRight>true</SeatElevenRight>
+      <SeatTwelveRight>true</SeatTwelveRight>
+      <SeatThirteenRight>true</SeatThirteenRight>
+      <SeatFourteenRight>true</SeatFourteenRight>
+      <SeatFifteenRight>true</SeatFifteenRight>
+      <SeatSixteenRight>true</SeatSixteenRight>
+      <SeatSeventeenRight>true</SeatSeventeenRight>
+      <SeatEighteenRight>true</SeatEighteenRight>
+      <SeatNineteenRight>true</SeatNineteenRight>
+      <SeatTwentyRight>true</SeatTwentyRight>
+      <SeatUpper>false</SeatUpper>
+      <SeatLower>false</SeatLower>	  
+      <Text>Erster Tisch links am Fenster</Text>
+    </Table>
+  </TableGroup>
+  <TableGroup>
+    <TableGroupText>Erster Tisch in der mitte</TableGroupText>
+    <TableGroupPrice>25 Franken</TableGroupPrice>
+    <TableGroupPriceReduced>15 Franken</TableGroupPriceReduced>
+    <Table>
+      <Number>12</Number>
+      <UpperLeftX>3400</UpperLeftX>
+      <UpperLeftY>2500</UpperLeftY>
+      <Width>900</Width>
+      <Height>4700</Height>
+      <NumberLeftRightSeats>20</NumberLeftRightSeats>
+      <SeatOneLeft>true</SeatOneLeft>
+      <SeatTwoLeft>true</SeatTwoLeft>
+      <SeatThreeLeft>true</SeatThreeLeft>
+      <SeatFourLeft>true</SeatFourLeft>
+      <SeatFiveLeft>true</SeatFiveLeft>	
+      <SeatSixLeft>true</SeatSixLeft>	
+      <SeatSevenLeft>true</SeatSevenLeft>
+      <SeatEightLeft>true</SeatEightLeft>
+      <SeatNineLeft>true</SeatNineLeft>
+      <SeatTenLeft>true</SeatTenLeft>
+      <SeatElevenLeft>true</SeatElevenLeft>
+      <SeatTwelveLeft>true</SeatTwelveLeft>
+      <SeatThirteenLeft>true</SeatThirteenLeft>
+      <SeatFourteenLeft>true</SeatFourteenLeft>
+      <SeatFifteenLeft>true</SeatFifteenLeft>
+      <SeatSixteenLeft>true</SeatSixteenLeft>
+      <SeatSeventeenLeft>true</SeatSeventeenLeft>
+      <SeatEighteenLeft>true</SeatEighteenLeft>
+      <SeatNineteenLeft>true</SeatNineteenLeft>
+      <SeatTwentyLeft>true</SeatTwentyLeft>
+      <SeatOneRight>true</SeatOneRight>
+      <SeatTwoRight>true</SeatTwoRight>
+      <SeatThreeRight>true</SeatThreeRight>
+      <SeatFourRight>true</SeatFourRight>
+      <SeatFiveRight>true</SeatFiveRight>	
+      <SeatSixRight>true</SeatSixRight>	
+      <SeatSevenRight>true</SeatSevenRight>
+      <SeatEightRight>true</SeatEightRight>
+      <SeatNineRight>true</SeatNineRight>
+      <SeatTenRight>true</SeatTenRight>
+      <SeatElevenRight>true</SeatElevenRight>
+      <SeatTwelveRight>true</SeatTwelveRight>
+      <SeatThirteenRight>true</SeatThirteenRight>
+      <SeatFourteenRight>true</SeatFourteenRight>
+      <SeatFifteenRight>true</SeatFifteenRight>
+      <SeatSixteenRight>true</SeatSixteenRight>
+      <SeatSeventeenRight>true</SeatSeventeenRight>
+      <SeatEighteenRight>true</SeatEighteenRight>
+      <SeatNineteenRight>true</SeatNineteenRight>
+      <SeatTwentyRight>true</SeatTwentyRight>
+      <SeatUpper>false</SeatUpper>
+      <SeatLower>false</SeatLower>	  
+      <Text>Tisch Reihe Mitte Vorne</Text>
+    </Table>
+  </TableGroup>
+  <TableGroup>
+    <TableGroupText>Erster Tisch rechts</TableGroupText>
+    <TableGroupPrice>25 Franken</TableGroupPrice>
+    <TableGroupPriceReduced>15 Franken</TableGroupPriceReduced>
+    <Table>
+      <Number>13</Number>
+      <UpperLeftX>5800</UpperLeftX>
+      <UpperLeftY>2500</UpperLeftY>
+      <Width>900</Width>
+      <Height>4700</Height>
+      <NumberLeftRightSeats>20</NumberLeftRightSeats>
+      <SeatOneLeft>true</SeatOneLeft>
+      <SeatTwoLeft>true</SeatTwoLeft>
+      <SeatThreeLeft>true</SeatThreeLeft>
+      <SeatFourLeft>true</SeatFourLeft>
+      <SeatFiveLeft>true</SeatFiveLeft>	
+      <SeatSixLeft>true</SeatSixLeft>	
+      <SeatSevenLeft>true</SeatSevenLeft>
+      <SeatEightLeft>true</SeatEightLeft>
+      <SeatNineLeft>true</SeatNineLeft>
+      <SeatTenLeft>true</SeatTenLeft>
+      <SeatElevenLeft>true</SeatElevenLeft>
+      <SeatTwelveLeft>true</SeatTwelveLeft>
+      <SeatThirteenLeft>true</SeatThirteenLeft>
+      <SeatFourteenLeft>true</SeatFourteenLeft>
+      <SeatFifteenLeft>true</SeatFifteenLeft>
+      <SeatSixteenLeft>true</SeatSixteenLeft>
+      <SeatSeventeenLeft>true</SeatSeventeenLeft>
+      <SeatEighteenLeft>true</SeatEighteenLeft>
+      <SeatNineteenLeft>true</SeatNineteenLeft>
+      <SeatTwentyLeft>true</SeatTwentyLeft>
+      <SeatOneRight>true</SeatOneRight>
+      <SeatTwoRight>true</SeatTwoRight>
+      <SeatThreeRight>true</SeatThreeRight>
+      <SeatFourRight>true</SeatFourRight>
+      <SeatFiveRight>true</SeatFiveRight>	
+      <SeatSixRight>true</SeatSixRight>	
+      <SeatSevenRight>true</SeatSevenRight>
+      <SeatEightRight>true</SeatEightRight>
+      <SeatNineRight>true</SeatNineRight>
+      <SeatTenRight>true</SeatTenRight>
+      <SeatElevenRight>true</SeatElevenRight>
+      <SeatTwelveRight>true</SeatTwelveRight>
+      <SeatThirteenRight>true</SeatThirteenRight>
+      <SeatFourteenRight>true</SeatFourteenRight>
+      <SeatFifteenRight>true</SeatFifteenRight>
+      <SeatSixteenRight>true</SeatSixteenRight>
+      <SeatSeventeenRight>true</SeatSeventeenRight>
+      <SeatEighteenRight>true</SeatEighteenRight>
+      <SeatNineteenRight>true</SeatNineteenRight>
+      <SeatTwentyRight>true</SeatTwentyRight>
+      <SeatUpper>false</SeatUpper>
+      <SeatLower>false</SeatLower>	  
+      <Text>Erster Tisch rechts</Text>
+    </Table>
+  </TableGroup>    
+  <TableGroup>
+    <TableGroupText>Zweiter Tisch links am Fenster</TableGroupText>
+    <TableGroupPrice>25 Franken</TableGroupPrice>
+    <TableGroupPriceReduced>15 Franken</TableGroupPriceReduced>
+    <Table>
+      <Number>21</Number>
+      <UpperLeftX>1000</UpperLeftX>
+      <UpperLeftY>7400</UpperLeftY>
+      <Width>900</Width>
+      <Height>4700</Height>
+      <NumberLeftRightSeats>20</NumberLeftRightSeats>
+      <SeatOneLeft>true</SeatOneLeft>
+      <SeatTwoLeft>true</SeatTwoLeft>
+      <SeatThreeLeft>true</SeatThreeLeft>
+      <SeatFourLeft>true</SeatFourLeft>
+      <SeatFiveLeft>true</SeatFiveLeft>	
+      <SeatSixLeft>true</SeatSixLeft>	
+      <SeatSevenLeft>true</SeatSevenLeft>
+      <SeatEightLeft>true</SeatEightLeft>
+      <SeatNineLeft>true</SeatNineLeft>
+      <SeatTenLeft>true</SeatTenLeft>
+      <SeatElevenLeft>true</SeatElevenLeft>
+      <SeatTwelveLeft>true</SeatTwelveLeft>
+      <SeatThirteenLeft>true</SeatThirteenLeft>
+      <SeatFourteenLeft>true</SeatFourteenLeft>
+      <SeatFifteenLeft>true</SeatFifteenLeft>
+      <SeatSixteenLeft>true</SeatSixteenLeft>
+      <SeatSeventeenLeft>true</SeatSeventeenLeft>
+      <SeatEighteenLeft>true</SeatEighteenLeft>
+      <SeatNineteenLeft>true</SeatNineteenLeft>
+      <SeatTwentyLeft>true</SeatTwentyLeft>
+      <SeatOneRight>true</SeatOneRight>
+      <SeatTwoRight>true</SeatTwoRight>
+      <SeatThreeRight>true</SeatThreeRight>
+      <SeatFourRight>true</SeatFourRight>
+      <SeatFiveRight>true</SeatFiveRight>	
+      <SeatSixRight>true</SeatSixRight>	
+      <SeatSevenRight>true</SeatSevenRight>
+      <SeatEightRight>true</SeatEightRight>
+      <SeatNineRight>true</SeatNineRight>
+      <SeatTenRight>true</SeatTenRight>
+      <SeatElevenRight>true</SeatElevenRight>
+      <SeatTwelveRight>true</SeatTwelveRight>
+      <SeatThirteenRight>true</SeatThirteenRight>
+      <SeatFourteenRight>true</SeatFourteenRight>
+      <SeatFifteenRight>true</SeatFifteenRight>
+      <SeatSixteenRight>true</SeatSixteenRight>
+      <SeatSeventeenRight>true</SeatSeventeenRight>
+      <SeatEighteenRight>true</SeatEighteenRight>
+      <SeatNineteenRight>true</SeatNineteenRight>
+      <SeatTwentyRight>true</SeatTwentyRight>
+      <SeatUpper>false</SeatUpper>
+      <SeatLower>false</SeatLower>	  
+      <Text>Zweiter Tisch links am Fenster</Text>
+    </Table>
+  </TableGroup> 
+   <TableGroup>
+    <TableGroupText>Zweiter Tisch mitte</TableGroupText>
+    <TableGroupPrice>25 Franken</TableGroupPrice>
+    <TableGroupPriceReduced>15 Franken</TableGroupPriceReduced>
+    <Table>
+      <Number>22</Number>
+      <UpperLeftX>3400</UpperLeftX>
+      <UpperLeftY>7400</UpperLeftY>
+      <Width>900</Width>
+      <Height>4700</Height>
+      <NumberLeftRightSeats>20</NumberLeftRightSeats>
+      <SeatOneLeft>true</SeatOneLeft>
+      <SeatTwoLeft>true</SeatTwoLeft>
+      <SeatThreeLeft>true</SeatThreeLeft>
+      <SeatFourLeft>true</SeatFourLeft>
+      <SeatFiveLeft>true</SeatFiveLeft>	
+      <SeatSixLeft>true</SeatSixLeft>	
+      <SeatSevenLeft>true</SeatSevenLeft>
+      <SeatEightLeft>true</SeatEightLeft>
+      <SeatNineLeft>true</SeatNineLeft>
+      <SeatTenLeft>true</SeatTenLeft>
+      <SeatElevenLeft>true</SeatElevenLeft>
+      <SeatTwelveLeft>true</SeatTwelveLeft>
+      <SeatThirteenLeft>true</SeatThirteenLeft>
+      <SeatFourteenLeft>true</SeatFourteenLeft>
+      <SeatFifteenLeft>true</SeatFifteenLeft>
+      <SeatSixteenLeft>true</SeatSixteenLeft>
+      <SeatSeventeenLeft>true</SeatSeventeenLeft>
+      <SeatEighteenLeft>true</SeatEighteenLeft>
+      <SeatNineteenLeft>true</SeatNineteenLeft>
+      <SeatTwentyLeft>true</SeatTwentyLeft>
+      <SeatOneRight>true</SeatOneRight>
+      <SeatTwoRight>true</SeatTwoRight>
+      <SeatThreeRight>true</SeatThreeRight>
+      <SeatFourRight>true</SeatFourRight>
+      <SeatFiveRight>true</SeatFiveRight>	
+      <SeatSixRight>true</SeatSixRight>	
+      <SeatSevenRight>true</SeatSevenRight>
+      <SeatEightRight>true</SeatEightRight>
+      <SeatNineRight>true</SeatNineRight>
+      <SeatTenRight>true</SeatTenRight>
+      <SeatElevenRight>true</SeatElevenRight>
+      <SeatTwelveRight>true</SeatTwelveRight>
+      <SeatThirteenRight>true</SeatThirteenRight>
+      <SeatFourteenRight>true</SeatFourteenRight>
+      <SeatFifteenRight>true</SeatFifteenRight>
+      <SeatSixteenRight>true</SeatSixteenRight>
+      <SeatSeventeenRight>true</SeatSeventeenRight>
+      <SeatEighteenRight>true</SeatEighteenRight>
+      <SeatNineteenRight>true</SeatNineteenRight>
+      <SeatTwentyRight>true</SeatTwentyRight>
+      <SeatUpper>false</SeatUpper>
+      <SeatLower>false</SeatLower>	  
+      <Text>Zweiter Tisch mitte</Text>
+    </Table>
+    </TableGroup>  
+    <TableGroup>
+      <TableGroupText>Zweiter Tisch rechts</TableGroupText>
+      <TableGroupPrice>25 Franken</TableGroupPrice>
+      <TableGroupPriceReduced>15 Franken</TableGroupPriceReduced>
+      <Table>
+        <Number>23</Number>
+        <UpperLeftX>5800</UpperLeftX>
+        <UpperLeftY>7400</UpperLeftY>
+        <Width>900</Width>
+      <Height>4700</Height>
+      <NumberLeftRightSeats>20</NumberLeftRightSeats>
+      <SeatOneLeft>true</SeatOneLeft>
+      <SeatTwoLeft>true</SeatTwoLeft>
+      <SeatThreeLeft>true</SeatThreeLeft>
+      <SeatFourLeft>true</SeatFourLeft>
+      <SeatFiveLeft>true</SeatFiveLeft>	
+      <SeatSixLeft>true</SeatSixLeft>	
+      <SeatSevenLeft>true</SeatSevenLeft>
+      <SeatEightLeft>true</SeatEightLeft>
+      <SeatNineLeft>true</SeatNineLeft>
+      <SeatTenLeft>true</SeatTenLeft>
+      <SeatElevenLeft>true</SeatElevenLeft>
+      <SeatTwelveLeft>true</SeatTwelveLeft>
+      <SeatThirteenLeft>true</SeatThirteenLeft>
+      <SeatFourteenLeft>true</SeatFourteenLeft>
+      <SeatFifteenLeft>true</SeatFifteenLeft>
+      <SeatSixteenLeft>true</SeatSixteenLeft>
+      <SeatSeventeenLeft>true</SeatSeventeenLeft>
+      <SeatEighteenLeft>true</SeatEighteenLeft>
+      <SeatNineteenLeft>true</SeatNineteenLeft>
+      <SeatTwentyLeft>true</SeatTwentyLeft>
+      <SeatOneRight>true</SeatOneRight>
+      <SeatTwoRight>true</SeatTwoRight>
+      <SeatThreeRight>true</SeatThreeRight>
+      <SeatFourRight>true</SeatFourRight>
+      <SeatFiveRight>true</SeatFiveRight>	
+      <SeatSixRight>true</SeatSixRight>	
+      <SeatSevenRight>true</SeatSevenRight>
+      <SeatEightRight>true</SeatEightRight>
+      <SeatNineRight>true</SeatNineRight>
+      <SeatTenRight>true</SeatTenRight>
+      <SeatElevenRight>true</SeatElevenRight>
+      <SeatTwelveRight>true</SeatTwelveRight>
+      <SeatThirteenRight>true</SeatThirteenRight>
+      <SeatFourteenRight>true</SeatFourteenRight>
+      <SeatFifteenRight>true</SeatFifteenRight>
+      <SeatSixteenRight>true</SeatSixteenRight>
+      <SeatSeventeenRight>true</SeatSeventeenRight>
+      <SeatEighteenRight>true</SeatEighteenRight>
+      <SeatNineteenRight>true</SeatNineteenRight>
+      <SeatTwentyRight>true</SeatTwentyRight>
+      <SeatUpper>false</SeatUpper>
+      <SeatLower>false</SeatLower>	  
+        <Text>Zweiter Tisch rechts</Text>
+      </Table>
+    </TableGroup>  
+ 
+   
+</Layout>
