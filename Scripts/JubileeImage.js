@@ -1,5 +1,5 @@
 // File: JubileeImage.js
-// Date: 2026-04-24
+// Date: 2026-02-4
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -91,9 +91,28 @@ class JubileeImage
 
         g_jubilee_image_data.initDisplayIndex();
 
-        JubileeImage.displayYearsRecursively();
+        JubileeImage.fullScreen();
 
     } // arraySmallImagesLoaded
+
+    // Set full screen mode
+    static fullScreen()
+    {
+        var container_el = g_jubilee_image_data.m_container_el;
+        // KI UtilDomElement.setElementFullScreen(container_el);
+
+        var b_mobile = UtilDevice.isMobile();
+
+        console.log('Is mobile device= ' + b_mobile);
+
+        if (!UtilDevice. isMobile())
+        {
+            // TODO Did not work any longer UtilDevice.openFullScreen(container_el);
+        }
+
+        JubileeImage.displayYearsRecursively();
+        
+    } // fullScreen
 
     // Display all years recursively
     static displayYearsRecursively()
@@ -683,10 +702,10 @@ class JubileeImageData
         this.m_container_id = i_container_id;
 
         // Element width (pixels) 
-        this.m_element_width = 42;
+        this.m_element_width = 4*42;
 
         // Element height (pixels)
-        this.m_element_height = 35;
+        this.m_element_height = 4*35;
 
         // Number of columns
         this.m_n_columns = 0;
@@ -846,10 +865,24 @@ class JubileeImageData
 
             return false;
         }
+        var screen_width = UtilDevice.screenWidth();
+        var screen_height = UtilDevice.screenHeight();
 
-        this.m_container_width = this.m_container_el.clientWidth;
+        console.log('Screen width=    ' + screen_width +          ' height= ' + screen_height);
 
-        this.m_container_height = this.m_container_el.clientHeight;
+        console.log('Container width= ' + this.m_container_el.clientWidth + ' height= ' + this.m_container_el.clientHeight);
+
+
+        // this.m_container_width = this.m_container_el.clientWidth;
+
+        //this.m_container_height = this.m_container_el.clientHeight;
+
+        this.m_container_width = screen_width;
+
+        this.m_container_height = screen_height;
+
+
+        console.log('Element width= ' + this.m_element_width + ' height= ' + this.m_element_height);
 
         if (this.m_container_width < 4*this.m_element_width)
         {
@@ -865,7 +898,7 @@ class JubileeImageData
             return false;
         }
 
-        console.log('Container width= ' + this.m_container_width + ' height= ' + this.m_container_height);
+        
 
         return true;
 
