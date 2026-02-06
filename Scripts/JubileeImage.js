@@ -1,5 +1,5 @@
 // File: JubileeImage.js
-// Date: 2026-02-4
+// Date: 2026-02-06
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -244,6 +244,11 @@ class JubileeImage
         var current_grid_el = g_jubilee_image_data.m_grid_element_array[index_photo];
         //QQ var text_container_div = g_jubilee_image_data.m_overlay_text_div_el;
         current_grid_el.m_el.style.textAlign = 'center';
+
+        var font_size_years = parseInt(g_jubilee_image_data.m_element_height / 1.5);
+
+        current_grid_el.m_el.style.fontSize = font_size_years.toString() + 'px';
+
         current_grid_el.m_el.style.verticalAlign = 'middle';
 
         current_grid_el.m_el.innerHTML = text_htm;
@@ -265,12 +270,9 @@ class JubileeImage
 
          g_jubilee_image_data.m_overlay_image_div_el.style.display = 'none';
 
-        g_jubilee_image_data.m_overlay_text_div_el.style.display = 'block';
-        var text_container_div = g_jubilee_image_data.m_overlay_text_div_el;
-        //var text_htm = 'JAZZ live AARAU<br>30 Jahre Jubiläum<br><br>Vielen Dank an alle Musikerinnen und Musiker,<br>an alle Helferinnen und Helfer<br>und an alle Besucherinnen und Besucher<br>für die unvergesslichen Konzerte<br>in den letzten 30 Jahren!';
-        var text_htm = 'JAZZ <i>live</i> AARAU<br><br>30 Jahre Jubiläum';
-        text_container_div.style.color = 'red';
-        text_container_div.innerHTML = text_htm;
+        g_jubilee_image_data.m_overlay_text_div_el.style.display = 'none';
+
+        g_jubilee_image_data.m_overlay_jubilee_text_div_el.style.display = 'block';
 
     } // displayJubileeText
 
@@ -761,12 +763,16 @@ class JubileeImageData
         // Overlay text <div> element
         this.m_overlay_text_div_el = null;
 
+        // Overlay jubilee text <div> element
+        this.m_overlay_jubilee_text_div_el = null;
+
         // Index for the display of photo, text and small photo
         this.m_display_index = -12345;
 
         // Number of milliseconds that photo and text will be displayed
         // on the overlay <div> 
         this.m_display_sleep_time = 5000;
+        // this.m_display_sleep_time = 100; // QQQQQQQQ
         
 
         // Initialize
@@ -1025,15 +1031,35 @@ class JubileeImageData
         //this.m_overlay_text_div_el.style.border = 'solid 1px white';
         this.m_overlay_text_div_el.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
 
+        var font_size_text_image = parseInt(div_width / 25.0);
+
         this.m_overlay_text_div_el.style.color = 'white';
-        this.m_overlay_text_div_el.style.fontSize = '19px';
-        this.m_overlay_text_div_el.style.padding = '10px';
+        this.m_overlay_text_div_el.style.fontSize = font_size_text_image.toString() + 'px';
         this.m_overlay_text_div_el.style.textAlign = 'center';
 
         this.m_overlay_text_div_el.style.display = 'none'; // Initially hidden
         // this.m_overlay_text_div_el.innerHTML = 'Overlay text goes here.';
 
         this.m_overlay_image_text_div_el.appendChild(this.m_overlay_text_div_el);
+
+        var font_size_jubilee_text = parseInt(div_width / 9.0);
+
+        this.m_overlay_jubilee_text_div_el = document.createElement('div');
+        //this.m_overlay_jubilee_text_div_el.style.marginTop = '1%';
+        this.m_overlay_jubilee_text_div_el.style.width = '99%';
+        this.m_overlay_jubilee_text_div_el.style.height = '70%';    
+        // this.m_overlay_jubilee_text_div_el.style.border = 'solid 2px yellow';  
+        this.m_overlay_jubilee_text_div_el.style.color = 'red';
+        this.m_overlay_jubilee_text_div_el.style.fontSize = font_size_jubilee_text.toString() +  'px'; 
+        this.m_overlay_jubilee_text_div_el.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
+        this.m_overlay_jubilee_text_div_el.style.textAlign = 'center';
+        this.m_overlay_jubilee_text_div_el.style.zIndex = '20'; 
+        this.m_overlay_jubilee_text_div_el.style.display = 'none'; // Initially hidden
+        var text_htm = 'JAZZ <i>live</i> AARAU<br><br>30 Jahre';
+        this.m_overlay_jubilee_text_div_el.innerHTML = text_htm;
+
+        this.m_overlay_image_text_div_el.appendChild(this.m_overlay_jubilee_text_div_el);
+
 
         return true;
 
