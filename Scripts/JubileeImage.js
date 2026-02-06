@@ -887,6 +887,11 @@ class JubileeImageData
 
         this.m_container_height = screen_height;
 
+        var element_width = screen_width * 0.98 / 14.0;
+        var element_height = element_width*0.83;
+
+        this.m_element_width = parseInt(element_width);
+        this.m_element_height = parseInt(element_height);
 
         console.log('Element width= ' + this.m_element_width + ' height= ' + this.m_element_height);
 
