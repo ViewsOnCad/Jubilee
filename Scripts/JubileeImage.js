@@ -1,5 +1,5 @@
 // File: JubileeImage.js
-// Date: 2026-02-06
+// Date: 2026-02-07
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -697,11 +697,11 @@ class GridElement
 // static methods.
 class ElemDim
 {
-    static numberElements()
+    static numberHorizontal()
     {
         return 14;
 
-    } // numberElements
+    } // numberHorizontal
 
     static heightRelativeToWidth()
     {        
@@ -735,14 +735,35 @@ class ElemDim
     {
         var dinensions_ret = [];
 
-        var screen_width = ElemDim.widthContainer();
-        var screen_height = ElemDim.heightContainer();
+        var factor_width_height = 0.98;
 
-        var element_width = screen_width * 0.98 / ElemDim.numberElements();
+        var element_heigt_relative_to_width = 0.80;
 
-        var element_height = element_width * ElemDim.heightRelativeToWidth();
+        var element_width = ElemDim.widthContainer() * factor_width_height / ElemDim.numberHorizontal();
+
+        var n_rows = Math.floor(ElemDim.heightContainer() * factor_width_height / element_width * element_heigt_relative_to_width);
+
+        var grid_vertical_length = n_rows * element_width * element_heigt_relative_to_width;
+
+        console.log('ElemDim.widthHeightGridlImage:  ' + 'grid_vertical_length= ' + grid_vertical_length);    
+
+        var height_container_adjusted = ElemDim.heightContainer() * factor_width_height;
+
+        var height_difference = grid_vertical_length - height_container_adjusted;
+
+        console.log('ElemDim.widthHeightGridlImage:  ' + 'height_difference= ' + height_difference);
+
+        if (height_difference < 0)
+        {            
+            element_width = element_width * ElemDim.heightContainer() * factor_width_height / grid_vertical_length;
+
+            console.log('ElemDim.widthHeightGridlImage: element_width adjusted= ' + element_width);
+        }
+
+        var element_height = element_width * element_heigt_relative_to_width;
 
         dinensions_ret.push(element_width);
+
         dinensions_ret.push(element_height);
 
         return dinensions_ret;

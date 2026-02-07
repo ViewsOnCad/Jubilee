@@ -1,5 +1,5 @@
 /* 
-File: Jubilee.css Date: 2026-02-04
+File: Jubilee.css Date: 2026-02-07
 
 Author: Gunnar Liden
 
@@ -96,7 +96,7 @@ button
 
 .cl_div_image_container
 {
-    border: solid 1px white;
+    /* border: solid 1px white; */
     width: 100%;
     height: 100%;
     clear: both;    
