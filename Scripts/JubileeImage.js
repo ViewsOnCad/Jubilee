@@ -692,6 +692,109 @@ class GridElement
 ///////////////////////// End Class GridElement ///////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
 
+// Class for the dimensions of the grid elements. The dimensions are based on the screen 
+// width and height and the number of grid elements. The class is static, i.e. holds only 
+// static methods.
+class ElemDim
+{
+    static numberElements()
+    {
+        return 14;
+
+    } // numberElements
+
+    static heightRelativeToWidth()
+    {        
+        return 0.83;
+
+    } // heightRelativeToWidth
+
+    // Get width of the container for the grid elements. The dimensions are based 
+    // on the screen width.
+    static widthContainer()
+    {   
+        var screen_width = UtilDevice.screenWidth();
+
+        return screen_width;
+
+    } // widthContainer
+
+    // Get width of the container for the grid elements. The dimensions are based 
+    // on the screen width.
+    static heightContainer()
+    {   
+        var screen_height = UtilDevice.screenHeight();
+
+        return screen_height;
+
+    } // heightContainer
+
+    // Get width and height of the grid elements for the small images. The dimensions 
+    // are based on the screen width and height and the number of grid elements.
+    static widthHeightGridlImage()
+    {
+        var dinensions_ret = [];
+
+        var screen_width = ElemDim.widthContainer();
+        var screen_height = ElemDim.heightContainer();
+
+        var element_width = screen_width * 0.98 / ElemDim.numberElements();
+
+        var element_height = element_width * ElemDim.heightRelativeToWidth();
+
+        dinensions_ret.push(element_width);
+        dinensions_ret.push(element_height);
+
+        return dinensions_ret;
+
+    } // widthHeightGridlImage
+
+    // Get width of the grid elements for the small images. The dimensions 
+    // are based on the screen width and height and the number of grid elements.
+    static widthGridImage()
+    {
+        var grid_elemnt_dims = ElemDim.widthHeightGridlImage();
+
+        return parseInt(grid_elemnt_dims[0]);
+
+    } // widthGridImage
+    
+    // Get height of the grid elements for the small images. The dimensions 
+    // are based on the screen width and height and the number of grid elements.
+    static heightGridImage()
+    {
+        var grid_elemnt_dims = ElemDim.widthHeightGridlImage();
+
+        return parseInt(grid_elemnt_dims[1]);
+
+    } // heightGridImage
+
+    // Get number of rows for the grid elements. The dimensions are based on 
+    // the screen height and the element height.
+    static numberRows()
+    {
+        var screen_height = ElemDim.heightContainer();
+        var grid_elemnt_dims = ElemDim.widthHeightGridlImage();
+        var element_height = grid_elemnt_dims[1];
+
+        return Math.floor(screen_height / element_height);
+
+    } // numberRows
+
+    // Get number of columns for the grid elements. The dimensions are based on 
+    // the screen width and the element width.
+    static numberColumns()
+    {       
+        var screen_width = ElemDim.widthContainer();
+        var grid_elemnt_dims = ElemDim.widthHeightGridlImage();
+        var element_width = grid_elemnt_dims[0];
+
+        return Math.floor(screen_width / element_width);
+
+    } // numberColumns
+
+} // ElemDim
+
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// Start Class JubileeImageData ////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
@@ -728,7 +831,7 @@ class JubileeImageData
         this.m_audience_xml = null;
 
         // Instance of the class PhotoDataList holding the random photos
-        // as an arra y of PhotoData objects
+        // as an array of PhotoData objects
         this.m_list_data_objects = null;
 
         // Array of GridElement objects corresponding to m_list_data_objects
@@ -772,7 +875,7 @@ class JubileeImageData
         // Number of milliseconds that photo and text will be displayed
         // on the overlay <div> 
         this.m_display_sleep_time = 5000;
-        // this.m_display_sleep_time = 100; // QQQQQQQQ
+        // this.m_display_sleep_time = 100; 
         
 
         // Initialize
@@ -871,45 +974,17 @@ class JubileeImageData
 
             return false;
         }
-        var screen_width = UtilDevice.screenWidth();
-        var screen_height = UtilDevice.screenHeight();
+ 
+        this.m_container_width = ElemDim.widthContainer();
 
-        console.log('Screen width=    ' + screen_width +          ' height= ' + screen_height);
+        this.m_container_height = ElemDim.heightContainer();
 
-        console.log('Container width= ' + this.m_container_el.clientWidth + ' height= ' + this.m_container_el.clientHeight);
+        console.log('Container width= ' + this.m_container_width + ' height= ' + this.m_container_height);
 
-
-        // this.m_container_width = this.m_container_el.clientWidth;
-
-        //this.m_container_height = this.m_container_el.clientHeight;
-
-        this.m_container_width = screen_width;
-
-        this.m_container_height = screen_height;
-
-        var element_width = screen_width * 0.98 / 14.0;
-        var element_height = element_width*0.83;
-
-        this.m_element_width = parseInt(element_width);
-        this.m_element_height = parseInt(element_height);
+        this.m_element_width =  ElemDim.widthGridImage();
+        this.m_element_height = ElemDim.heightGridImage();
 
         console.log('Element width= ' + this.m_element_width + ' height= ' + this.m_element_height);
-
-        if (this.m_container_width < 4*this.m_element_width)
-        {
-            alert('JubileeImageData.setContainerAttributes: Container width is less than 4 X element width= ' + (4*this.m_element_width) + ' pixels');
-
-            return false;
-        }
-
-        if (this.m_container_height < 4*this.m_element_height)
-        {
-            alert('JubileeImageData.setContainerAttributes: Container height is less than 4 X element height= ' + (4*this.m_element_height) + ' pixels');
-
-            return false;
-        }
-
-        
 
         return true;
 
@@ -924,9 +999,9 @@ class JubileeImageData
     {     
         this.m_container_el.style.display = 'grid';
 
-        this.m_n_columns = Math.floor(this.m_container_width/this.m_element_width);
+        this.m_n_columns = ElemDim.numberColumns();
 
-        this.m_n_rows = Math.floor(this.m_container_height/this.m_element_height);
+        this.m_n_rows = ElemDim.numberRows();
 
         console.log('Number of columns= ' + this.m_n_columns + ' rows= ' + this.m_n_rows + 
             ' total elements= ' + this.numberGridElements()  );
