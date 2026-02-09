@@ -648,7 +648,8 @@ class JubileeLoadImages
 ///////////////////////// Start Class GridElement /////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
 
-
+// Class for the grid elements. Each grid element holds one photo. The class is used to 
+// store the data for each grid element and to set the photo in the grid element. Each grid
 class GridElement
 {
     constructor(i_id, i_el, i_index_row, i_index_col)
@@ -941,6 +942,9 @@ class JubileeImageData
          // Container height (pixels)
         this.m_container_height = 0;   
 
+        // Continer for the jubilee controls (buttons)
+        this.m_cl_div_jubilee_controls = null;
+
         // Overlay image and text <div> element
         this.m_overlay_image_text_div_el = null;
 
@@ -960,7 +964,6 @@ class JubileeImageData
         // on the overlay <div> 
         this.m_display_sleep_time = 5000;
         // this.m_display_sleep_time = 100; 
-        
 
         // Initialize
         this.init();
@@ -974,6 +977,11 @@ class JubileeImageData
     init()
     {
         if (!this.setContainerAttributes())
+        {
+            return false;
+        }
+
+        if (!this.setJubileeControlsAttributes())
         {
             return false;
         }
@@ -1073,6 +1081,23 @@ class JubileeImageData
         return true;
 
     } // setContainerAttributes
+
+    // Set attributes for the jubilee controls (buttons)
+    setJubileeControlsAttributes()
+    {
+        this.m_cl_div_jubilee_controls = document.getElementById('id_div_jubilee_controls');    
+
+        if (null == this.m_cl_div_jubilee_controls)        {
+            alert('JubileeImageData.setJubileeControlsAttributes: Jubilee controls container element is null for id= ' 
+                + 'id_div_jubilee_controls');
+            return false;
+        }   
+
+        this.m_cl_div_jubilee_controls.style.width = ElemDim.widthContainer() + 'px';
+ 
+        return true;
+
+    } // setJubileeControlsAttributes
 
     // Set grid attributes
     // 1. Member variables m_n_columns and m_n_rows are set from the container

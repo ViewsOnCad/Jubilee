@@ -1,5 +1,5 @@
 /* 
-File: Jubilee.css Date: 2026-02-07
+File: Jubilee.css Date: 2026-02-09
 
 Author: Gunnar Liden
 
@@ -52,47 +52,35 @@ button
     width: 95%;
 }
 
-/* Logo <div> element */
-.cl_jubilee_logo
-{
-    /* border: solid 2px yellow; */
-    text-align: center;
-    background-color: black;
-    color: rgb(255, 0, 40);
-    font-size: 18px;
-    font-weight: bold;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    overflow: hidden;   
-    width: 100%;
-}
-
-.cl_div_jubilee_title_info
+.cl_div_jubilee_controls
 {
     /* border: solid 1px yellow; */
+    overflow: hidden;
+ 
     clear: both;
 }
 
-.cl_div_jubilee_title
+.cl_div_jubilee_controls_exit
 {
-     /* border: solid 1px white; */
-     margin-left: 10%;
-    font-size: 15px;
-    width: 78%;
-    float: left;
-}
-
-.cl_div_jubilee_info
-{
-    /* border: solid 1px white; */
+    /* border: solid 1px yellow; */
     text-align: right;
-    padding-right: 6px;
-    width: 8%;
+    padding-right: 1%;
+    padding-bottom: 0.2%;
+    width: 3%;
     float: right;
     cursor: pointer;
 }
 
-
+.cl_div_jubilee_controls_restart
+{
+    /* border: solid 1px yellow; */
+    text-align: right;
+    padding-right: 1%;
+    padding-bottom: 0.2%;
+    width: 3%;
+    float: right;
+    cursor: pointer;
+}
 
 .cl_div_image_container
 {

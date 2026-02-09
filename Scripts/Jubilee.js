@@ -1,5 +1,5 @@
 // File: Jubilee.js
-// Date: 2026-04-24
+// Date: 2026-02-09
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -143,11 +143,28 @@ function afterLoadOfGuestbookXml( )
 ///////////////////////////////////////////////////////////////////////////////////////////
 
 // User clicked the information icon
+function clickJubileeExit()
+{
+    this.close();
+
+} // clickJubileeExit
+
+// User clicked the restart icon
+function clickJubileeRestart()
+{
+    
+     initJubilee();
+
+} // clickJubileeRestart
+
+// User clicked the information icon
 function clickJubileeInfo()
 {
-    var file_name = 'Info/InfoJubilee.htm';
+    
 
-     importJubileePhotosStart()
+     // importJubileePhotosStart()
+
+     // var file_name = 'Info/InfoJubilee.htm';
 
     //Temporarwly !!!!!!!!!!!!!!!!!!! window.open(file_name, '_blank');
 
