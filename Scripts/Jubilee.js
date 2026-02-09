@@ -152,8 +152,15 @@ function clickJubileeExit()
 // User clicked the restart icon
 function clickJubileeRestart()
 {
-    
-     initJubilee();
+    alert("Restart not yet implemented ");
+
+    return;
+
+    this.innerHTML = ""; // Clear the content of the page
+
+    // TODO Stop all timers
+
+    initJubilee();
 
 } // clickJubileeRestart
 

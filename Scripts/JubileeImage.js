@@ -723,7 +723,13 @@ class ElemDim
 
         width_container = parseInt(width_container);
 
-        var height_container = input_screen_height * (100 - 2*container_margin) / 100;
+        var height_controls = ElemDim.heightJubileeControlsDiv();
+
+        height_controls = 0; // TODO
+
+        console.log('ElemDim.allData: height_controls= ' + height_controls);
+
+        var height_container = (input_screen_height - height_controls) * (100 - 2*container_margin) / 100;
 
         height_container = parseInt(height_container);
 
@@ -848,6 +854,19 @@ class ElemDim
         return dim_data.m_number_horizontal;    
 
     } // numberColumns
+
+    // Get height of the container for the container div for the jubilee controls.
+    static heightJubileeControlsDiv()
+    {
+        var controls_div_exit_el = document.getElementById('id_div_jubilee_controls_exit');
+        if (controls_div_exit_el)
+        {
+            return controls_div_exit_el.offsetHeight;
+        }
+
+        return 0;
+
+    }  // heightJubileeControlsDiv
 
 } // ElemDim
 
