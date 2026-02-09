@@ -377,6 +377,7 @@ FodyWeavers.xsd
 
 # FTP log files
 WS_FTP.LOG
+*/WS_FTP.LOG
 
 # Number of code lines
 /.VSCodeCounter/

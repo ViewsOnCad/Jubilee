@@ -17,6 +17,8 @@ var g_jubilee_image_data = null;
 // Instance of the class JubileeXml
 var g_jubilee_xml = null;
 
+var g_number_horizontal_grid_elements = 15; 
+
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// End Global Parameters ///////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
@@ -58,7 +60,10 @@ class JubileeImage
             return;
         }
 
-        JubileeImage.getArrayFromLocalStorageSetPhotoDataList(n_images);
+        if (!JubileeImage.getArrayFromLocalStorageSetPhotoDataList(n_images))
+        {
+            return;
+        }
 
         if (!JubileeLoadImages.initArraysImages())
         {
@@ -343,7 +348,7 @@ class JubileeImage
         {
             alert('JubileeImage.getArrayFromLocalStorageSetPhotoDataList: Not enough images in local storage');
 
-            return;
+            return false;
         }
 
         g_jubilee_image_data.m_list_data_objects = new PhotoDataList();
@@ -379,6 +384,8 @@ class JubileeImage
         var n_photos = g_jubilee_image_data.m_list_data_objects.getNumberOfPhotos();
 
         console.log('JubileeImage.getArrayFromLocalStorageSetPhotoDataList: Number of set PhotoData objects= ' + n_photos);
+
+        return true;
 
     } // getArrayFromLocalStorageSetPhotoDataList
 
@@ -703,9 +710,9 @@ class ElemDim
     {
         var dim_data = new ElemDimData();
 
-        var number_grid_elements = ElemDim.numberGridElements();
+        var number_horizontal = ElemDim.numberHorizontal();
 
-         var input_screen_width = UtilDevice.screenWidth();
+        var input_screen_width = UtilDevice.screenWidth();
 
         var input_screen_height = UtilDevice.screenHeight();
 
@@ -720,25 +727,18 @@ class ElemDim
         height_container = parseInt(height_container);
 
         var rel_wh = ElemDim.heightRelativeToWidth();
-        
-        var width_square_two = width_container * height_container / number_grid_elements / rel_wh;
 
-        var width_el = Math.sqrt(width_square_two);
+        var width_el = width_container / number_horizontal;
 
         var height_el = width_el * rel_wh;
+
+        var number_vertical = Math.floor(height_container / height_el);
+           
+        var number_grid_elements = number_horizontal * number_vertical;
 
         width_el = parseInt(width_el);
 
         height_el = parseInt(height_el);
-
-        //console.log('ElemDim.allData: width_container= ' + width_container + ' height_container= ' + height_container +
-        //            ' width_el= ' + width_el + ' height_el= ' + height_el);
-
-        var number_horizontal = Math.floor(width_container / width_el);
-
-        var number_vertical = Math.floor(height_container / height_el);
-
-        // console.log('ElemDim.allData: number_horizontal= ' + number_horizontal + ' number_vertical= ' + number_vertical);
 
         dim_data.m_number_grid = number_grid_elements;
         dim_data.m_width_grid_image = width_el;
@@ -748,45 +748,31 @@ class ElemDim
         dim_data.m_width_container = width_container;
         dim_data.m_height_container = height_container;
 
+        //console.log('ElemDim.allData: width_container= ' + width_container + ' height_container= ' + height_container +
+        //            ' width_el= ' + width_el + ' height_el= ' + height_el);
+
+        //console.log('ElemDim.allData: number_horizontal= ' + number_horizontal + ' number_vertical= ' + number_vertical);
+
         return dim_data;
 
     } // allData
 
-    /*
+    // Get number of horizontal grid elements. 
+    // This is input data for the calculation
+    static numberHorizontal()
+    {
+       return g_number_horizontal_grid_elements;
 
-    width_container = n_columns * width_el 
-                                                    n_elements
-    n_elements = n_rows * n_columns ==> n_columns = -----------
-                                                    n_rows
-                    n_elements
-    width_container = ---------- * width_el 					
-                        n_rows
-
-    width_container * n_rows = n_elements * width_el
-
-                                                                height_container
-    height_container = n_rows * width_el * rel_wh  ==> n_rows = -----------------
-                                                                width_el * rel_wh
-
-                    height_container
-    width_container * -------------------- = n_elements * width_el
-                    width_el * rel_wh
-
-                    height_container
-    width_container * --------------------   =  width_el*width_el
-                    rel_wh * n_elements
-
-    width_el = SqrRoot( width_container * height_container / rel_wh / n_elements) 
-    
-
-    */
+    } // numberHorizontal
 
     // Returns the total number of grid elements. 
     // this is input data for the calculation
     static numberGridElements()
     {
-        return 100;
+        var dim_data = ElemDim.allData();
 
+        return dim_data.m_number_grid;
+        
     } // numberGridElements
 
     // Returns the margin of the container for the grid elements. 
@@ -794,7 +780,7 @@ class ElemDim
     // Returned as percentage value 
     static containerMargin()
     {
-        return 2; 
+        return 1; 
 
     } // containerMargin
 
@@ -806,16 +792,6 @@ class ElemDim
         return 0.89;
 
     } // heightRelativeToWidth
-
-
-    // Get number of horizontal grid elements. 
-    static numberHorizontal()
-    {
-        var dim_data = ElemDim.allData();
-
-        return dim_data.m_number_horizontal;
-
-    } // numberHorizontal
 
     // Get width of the container for the grid elements.
     static widthContainer()
