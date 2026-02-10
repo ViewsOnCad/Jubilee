@@ -195,7 +195,7 @@ class JubileeStorage
             return;
         }
 
-
+/*
         console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Musicians=' ); 
         console.log(g_statistics_array_musicians);
         console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Females=' );
@@ -210,7 +210,7 @@ class JubileeStorage
         console.log(g_statistics_array_galleries);
         console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Concerts=' );
         console.log(g_statistics_array_concerts);
-
+*/
     } // getJubileeStatisticsFromLocalStorageSetGlobalArrays
 
 

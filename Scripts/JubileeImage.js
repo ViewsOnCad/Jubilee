@@ -19,6 +19,11 @@ var g_jubilee_xml = null;
 
 var g_number_horizontal_grid_elements = 15; 
 
+// The identity (a number) of the setTimeout object for the display of the images. 
+// This is used to clear the timeout if necessary, e.g. when the user 
+// clicks on the jubilee image to stop the display of the images. TODO
+var g_set_timeout_object = null;
+
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// End Global Parameters ///////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
@@ -123,11 +128,12 @@ class JubileeImage
     static displayYearsRecursively()
     {
         var next_index = g_jubilee_image_data.getNextDisplayIndex();    
+
         if (next_index >= 0)
         {
             JubileeImage.displayYear();
-            
-            setTimeout(JubileeImage.displayYearsRecursively, 50);
+
+            JubileeTimeout.displayYears(JubileeImage.displayYearsRecursively);
         }   
         else
         {
@@ -135,7 +141,7 @@ class JubileeImage
 
             g_jubilee_image_data.initDisplayIndex();
 
-            setTimeout(JubileeImage.displayImagesRecursively, 3000);
+            JubileeTimeout.displayImages(JubileeImage.displayImagesRecursively); // TODO
         }
 
     } // displayYearsRecursively
@@ -153,9 +159,7 @@ class JubileeImage
 
             JubileeImage.displayImageText();
 
-            var timeout_seconds = g_jubilee_image_data.getDisplaySleepTime();
-
-            setTimeout(JubileeImage.displayImagesRecursively, timeout_seconds);
+             JubileeTimeout.displayImages(JubileeImage.displayImagesRecursively);
 
         }
         else
@@ -190,7 +194,7 @@ class JubileeImage
 
     } // displaySmallImage
 
-    // Display image and text in ovelay <div>
+    // Display image and text in overlay <div>
     // 1. Get the current display index. Call of JubileeImageData.getDisplayIndex
     // 2. Get loaded image from array JubileeImageData.m_loaded_images_small_array
     // 3. Get overlay image <div> container: JubileeImageData.m_overlay_image_div_el
@@ -264,14 +268,14 @@ class JubileeImage
     {
         console.log('JubileeImage.callbackImagesDisplayed: All photos displayed. ');
 
-        JubileeImage.displayJubileeText();
+        JubileeImage.displayImagesJubileeText();
 
     } // callbackImagesDisplayed
 
     // Display jubilee text in overlay <div>
-    static displayJubileeText()
+    static displayImagesJubileeText()
     {
-        console.log('JubileeImage.displayJubileeText Enter. ');
+        console.log('JubileeImage.displayImagesJubileeText Enter. ');
 
          g_jubilee_image_data.m_overlay_image_div_el.style.display = 'none';
 
@@ -279,7 +283,20 @@ class JubileeImage
 
         g_jubilee_image_data.m_overlay_jubilee_text_div_el.style.display = 'block';
 
-    } // displayJubileeText
+        JubileeTimeout.toJubileeTextOnly(JubileeImage.displayOnlyJubileeText);
+
+    } // displayImagesJubileeText
+
+    // Display only the jubilee text in overlay <div>
+    static displayOnlyJubileeText()
+    {
+        console.log('JubileeImage.displayOnlyJubileeText Enter. ');
+
+        g_jubilee_image_data.m_overlay_jubilee_text_div_el.style.display = 'block';
+
+        g_jubilee_image_data.hideImagesTextDiv();
+
+    } // displayOnlyJubileeText
 
 
 } // JubileeImage
@@ -287,4 +304,123 @@ class JubileeImage
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// End Class JubileeImage //////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////// Start Class JubileeTimeout //////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+
+// This class holds static methods for the setting of timeouts for the display of images.
+// The class is static, i.e. holds only static methods.
+// g_set_timeout_object is the identity (a number) of the setTimeout object for the display of the images.
+class JubileeTimeout
+{
+    // Returns timeout for the display of the images
+    static images()
+    {
+        // return 3000; // 3 seconds
+        return 70; // Temporarely QQQQQQQQQQQQQQQQQQ
+
+    } // images
+
+    // Returns timeout for the display of the image years
+    static imageYears()
+    {
+        return 50; // 3 seconds
+        
+    } // imageYears
+
+    // Returns timeout for the waiting time between the display of the years and 
+    // the display of the images
+    static imageYearsToImages()
+    {
+        return 1000; // 1 second
+        
+    } // imageYearsToImages
+
+    // Returns the time to display the jubilee text after all images have been displayed
+    static imagesJubileeText()
+    {
+        return 3000; // 3 seconds
+
+    } // imagesJubileeText
+
+    // Returns the time to display only the jubilee text with no images
+    static jubileeTextNoImages()
+    {
+        return 3000; // 3 seconds
+
+    } // jubileeTextNoImages    
+
+    // Set timeout for the display of the image years
+    static displayYears(i_function_name)
+    {
+        JubileeTimeout.clearTimeout();
+
+        g_set_timeout_object = setTimeout(i_function_name, JubileeTimeout.imageYears());
+
+        console.log('JubileeTimeout.displayYears: Set timeout for the display of the image years. Timeout= ' + 
+            JubileeTimeout.imageYears().toString() + ' milliseconds.');
+
+    } // displayYears
+
+        // Set timeout for the display of the jubilee text only
+    static toJubileeTextOnly(i_function_name)
+    {
+        JubileeTimeout.clearTimeout();
+        
+        g_set_timeout_object = setTimeout(i_function_name, JubileeTimeout.jubileeTextNoImages());
+        console.log('JubileeTimeout.toJubileeTextOnly: Set timeout for the display of the jubilee text only. Timeout= ' + 
+                JubileeTimeout.jubileeTextNoImages().toString() + ' milliseconds.');
+        
+    } // toJubileeTextOnly
+
+
+   // Set timeout for the display of the image years
+    static displayImages(i_function_name)
+    {
+        JubileeTimeout.clearTimeout();
+
+        g_set_timeout_object = setTimeout(i_function_name, JubileeTimeout.images());
+
+    } // displayImages
+
+    /* Not yet used
+
+    // Set timeout for the display of the image years,
+    static toDisplayYears(i_function_name)
+    {
+        JubileeTimeout.clearTimeout();
+        
+        g_set_timeout_object = setTimeout(i_function_name, JubileeTimeout.imageYearsToImages());
+        
+    } // toDisplayYears
+
+    // Set timeout for the display of the images i.e when only the years are displayed. 
+    static toDisplayImages(i_function_name)
+    {
+        JubileeTimeout.clearTimeout();
+
+        g_set_timeout_object = setTimeout(i_function_name, JubileeTimeout.images());
+
+    } // toDisplayImages
+    */
+
+    // Clear timeout for the display of the images
+    static clearTimeout()
+    {
+        if (null != g_set_timeout_object)
+        {
+            clearTimeout(g_set_timeout_object);
+            g_set_timeout_object = null;
+        }
+    } // clearTimeout
+
+} // JubileeTimeout
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////// End Class JubileeTimeout ////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+
 

@@ -394,6 +394,20 @@ class JubileeImageData
 
     } // createOverlayImageTextDiv
 
+    // Functions to hide and display the overlay image and text <div>
+    hideImagesTextDiv()
+    {
+        this.m_overlay_image_text_div_el.style.display = 'none';
+        
+    } // hideImagesTextDiv
+
+    // Functions to hide and display the overlay image and text <div>
+    displayImagesTextDiv()
+    {
+        this.m_overlay_image_text_div_el.style.display = 'block';
+
+    } // displayImagesTextDiv
+
 } // JubileeImageData
 
 ///////////////////////////////////////////////////////////////////////////////////////////
