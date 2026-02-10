@@ -11,8 +11,20 @@
 ///////////////////////// Start Global Parameters /////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////
 
-// Data ist stored in the global instance g_jubilee_image_data of the class JubileeStorageData. 
-
+var g_statistics_array_musicians = null;
+var g_statistics_array_musicians_html = null;
+var g_statistics_array_females = null;
+var g_statistics_array_females_html = null;
+var g_statistics_array_bands = null;
+var g_statistics_array_bands_html = null;
+var g_statistics_array_premises = null;
+var g_statistics_array_premises_html = null;
+var g_statistics_array_members = null;
+var g_statistics_array_members_html = null;
+var g_statistics_array_galleries = null;
+var g_statistics_array_galleries_html = null;
+var g_statistics_array_concerts = null;
+var g_statistics_array_concerts_html = null;
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////// End Global Parameters ///////////////////////////////////////////
@@ -25,6 +37,183 @@
 // Class for getting data for the jubilee image and storing it in the class JubileeStorageData.
 class JubileeStorage
 {
+
+    // Get statistics for the jubilee image in the local storage of the browser
+    // and save to global variables
+    static getJubileeStatisticsFromLocalStorageSetGlobalArrays()
+    {   
+        var key_jubilee_statistics_musicians = 'key_jubilee_statistics_musicians';
+        var key_jubilee_statistics_musicians_html = 'key_jubilee_statistics_musicians_html';
+        var key_jubilee_statistics_females = 'key_jubilee_statistics_females';
+        var key_jubilee_statistics_females_html = 'key_jubilee_statistics_females_html';
+        var key_jubilee_statistics_bands = 'key_jubilee_statistics_bands';
+        var key_jubilee_statistics_bands_html = 'key_jubilee_statistics_bands_html';
+        var key_jubilee_statistics_premises = 'key_jubilee_statistics_premises';
+        var key_jubilee_statistics_premises_html = 'key_jubilee_statistics_premises_html';
+        var key_jubilee_statistics_premises = 'key_jubilee_statistics_premises';
+        var key_jubilee_statistics_premises_html = 'key_jubilee_statistics_premises_html';
+        var key_jubilee_statistics_members = 'key_jubilee_statistics_members';
+        var key_jubilee_statistics_members_html = 'key_jubilee_statistics_members_html';
+        var key_jubilee_statistics_galleries = 'key_jubilee_statistics_galleries';
+        var key_jubilee_statistics_galleries_html = 'key_jubilee_statistics_galleries_html';
+        var key_jubilee_statistics_concerts = 'key_jubilee_statistics_concerts';
+        var key_jubilee_statistics_concerts_html = 'key_jubilee_statistics_concerts_html';
+        
+        
+
+        g_statistics_array_musicians = localStorage.getItem(key_jubilee_statistics_musicians);
+
+        if (null != g_statistics_array_musicians)
+        {
+            g_statistics_array_musicians = JSON.parse(g_statistics_array_musicians);
+        }
+        else
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No musicians statistics in local storage');
+
+            return;
+        }   
+
+        g_statistics_array_females = localStorage.getItem(key_jubilee_statistics_females);
+        if (null != g_statistics_array_females)
+        {
+            g_statistics_array_females = JSON.parse(g_statistics_array_females);
+        }
+        else
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No females statistics in local storage');
+
+            return;
+        }   
+
+        g_statistics_array_bands = localStorage.getItem(key_jubilee_statistics_bands);
+        if (null != g_statistics_array_bands)
+        {
+            g_statistics_array_bands = JSON.parse(g_statistics_array_bands);
+        }
+        else
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No bands statistics in local storage');
+
+            return;
+        }
+
+        g_statistics_array_premises = localStorage.getItem(key_jubilee_statistics_premises);
+        if (null != g_statistics_array_premises)
+        {
+            g_statistics_array_premises = JSON.parse(g_statistics_array_premises);
+        }
+        else
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No premises statistics in local storage');   
+            return;
+        }
+
+        g_statistics_array_members = localStorage.getItem(key_jubilee_statistics_members);
+        if (null != g_statistics_array_members)
+        {
+            g_statistics_array_members = JSON.parse(g_statistics_array_members);
+        }
+        else
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No members statistics in local storage');
+            return;
+        }
+
+        g_statistics_array_galleries = localStorage.getItem(key_jubilee_statistics_galleries);
+        if (null != g_statistics_array_galleries)
+        {
+            g_statistics_array_galleries = JSON.parse(g_statistics_array_galleries);
+        }
+        else
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No galleries statistics in local storage');
+            return;
+        }   
+
+        g_statistics_array_concerts = localStorage.getItem(key_jubilee_statistics_concerts);
+        if (null != g_statistics_array_concerts)
+        {
+            g_statistics_array_concerts = JSON.parse(g_statistics_array_concerts);
+        }
+
+
+    
+        g_statistics_array_musicians_html = localStorage.getItem(key_jubilee_statistics_musicians_html);    
+        if (null == g_statistics_array_musicians_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No musicians statistics in local storage');
+
+            return;
+        }
+
+        g_statistics_array_concerts_html = localStorage.getItem(key_jubilee_statistics_concerts_html);
+        if (null == g_statistics_array_concerts_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No concerts statistics in local storage');
+
+            return;
+        }
+
+        g_statistics_array_bands_html = localStorage.getItem(key_jubilee_statistics_bands_html);
+        if (null == g_statistics_array_bands_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No bands statistics in local storage');
+
+            return;
+        }
+
+        g_statistics_array_females_html = localStorage.getItem(key_jubilee_statistics_females_html);
+        if (null == g_statistics_array_females_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No females statistics in local storage');
+
+            return;
+        }           
+
+        g_statistics_array_premises_html = localStorage.getItem(key_jubilee_statistics_premises_html);
+        if (null == g_statistics_array_premises_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No premises statistics in local storage');
+
+            return;
+        }
+
+        g_statistics_array_members_html = localStorage.getItem(key_jubilee_statistics_members_html);
+        if (null == g_statistics_array_members_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No members statistics in local storage');
+
+            return;
+        }           
+
+        g_statistics_array_galleries_html = localStorage.getItem(key_jubilee_statistics_galleries_html);
+        if (null == g_statistics_array_galleries_html)
+        {
+            alert('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays: No galleries statistics in local storage');
+
+            return;
+        }
+
+
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Musicians=' ); 
+        console.log(g_statistics_array_musicians);
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Females=' );
+        console.log(g_statistics_array_females);
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Bands=' );
+        console.log(g_statistics_array_bands);
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Premises=' );
+        console.log(g_statistics_array_premises);
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Members=' );
+        console.log(g_statistics_array_members);
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Galleries=' );
+        console.log(g_statistics_array_galleries);
+        console.log('JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays Concerts=' );
+        console.log(g_statistics_array_concerts);
+
+    } // getJubileeStatisticsFromLocalStorageSetGlobalArrays
+
+
     // Get array from local storage and set object PhotoDataList(temporary solution)
     // i_n_photos: Number of PhotoData objects to set
     static getArrayFromLocalStorageSetPhotoDataList(i_n_photos)

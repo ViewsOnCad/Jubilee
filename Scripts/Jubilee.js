@@ -28,6 +28,8 @@ function initJubilee()
 {
     console.log("initJubilee Enter ");
 
+    JubileeStorage.getJubileeStatisticsFromLocalStorageSetGlobalArrays(); // Temporary test
+
     // TODO Wrong filename on server g_jubilee_xml = new JubileeXml(afterLoadOfJubileeXml);
 
     afterLoadOfJubileeXml();
