@@ -1,5 +1,5 @@
 // File: JubileeImageData.js
-// Date: 2026-02-10
+// Date: 2026-02-11
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -28,21 +28,73 @@ class JubileeImageData
 {
     constructor(i_container_id)
     {
+        ////////////////// Start container div ///////////////////////////
+
         // ID of the container element for the image
         this.m_container_id = i_container_id;
 
-        // Element width (pixels) 
-        this.m_element_width = 4*42;
+        // Container element for the image
+        this.m_container_el = null;
 
-        // Element height (pixels)
-        this.m_element_height = 4*35;
+        // Container width (pixels)
+        // Size is calculated by the function ElemDim.allData() 
+        // in the function setContainerAttributes.
+        this.m_container_width = 0;
+
+         // Container height (pixels)
+        // Size is calculated by the function ElemDim.allData() 
+        // in the function setContainerAttributes.
+        this.m_container_height = 0;   
+
+        ////////////////// End container div ///////////////////////////
+
+        ////////////////// Start display divs //////////////////////////
+        
+        // Container for the jubilee controls (buttons)
+        this.m_cl_div_jubilee_controls = null;
+
+        // Overlay image and text <div> element
+        this.m_overlay_image_text_div_el = null;
+
+        // Overlay image <div> element
+        this.m_overlay_image_div_el = null;
+
+        // Overlay text <div> element
+        this.m_overlay_text_div_el = null;
+
+        // Overlay jubilee text <div> element
+        this.m_overlay_jubilee_text_div_el = null;
+
+        ////////////////// End display divs ////////////////////////////
+      
+        ////////////////// Start grid photos ///////////////////////////
+
+        // Element width (pixels). This is the width of the grid 
+        // element <div> that will hold the photo.
+        // Size is calculated by the function ElemDim.allData()  
+        // Size is set in the function setContainerAttributes.
+        this.m_element_width = 120;
+
+        // Element height (pixels). This is the height of the grid 
+        // element <div> that will hold the photo.
+        // Size is calculated by the function ElemDim.allData()  
+        // Size is set in the function setContainerAttributes.
+        this.m_element_height = 100;
 
         // Number of columns
+        // Number is calculated by the function ElemDim.allData()  
+        // Number is set in the function setContainerAttributes.
         this.m_n_columns = 0;
 
         // Number of rows
+        // Number is calculated by the function ElemDim.allData()  
+        // Number is set in the function setContainerAttributes.
         this.m_n_rows = 0;
 
+        ////////////////// End grid photos ///////////////////////////////
+
+        ////////////////// Start photo XML data ///////////////////////////
+ 
         // XML data object for gallery one
         this.m_gallery_one_xml = null;
 
@@ -55,6 +107,10 @@ class JubileeImageData
         // XML data object for audience
         this.m_audience_xml = null;
 
+        ////////////////// End photo XML data /////////////////////////////
+
+        ////////////////// Start photo data ///////////////////////////////
+        
         // Instance of the class PhotoDataList holding the random photos
         // as an array of PhotoData objects
         this.m_list_data_objects = null;
@@ -73,37 +129,10 @@ class JubileeImageData
         // 1: Load small images
         this.m_load_image_case = -1;
 
-        // Container element for the image
-        this.m_container_el = null;
-
-        // Container width (pixels)
-        this.m_container_width = 0;
-
-         // Container height (pixels)
-        this.m_container_height = 0;   
-
-        // Continer for the jubilee controls (buttons)
-        this.m_cl_div_jubilee_controls = null;
-
-        // Overlay image and text <div> element
-        this.m_overlay_image_text_div_el = null;
-
-        // Overlay image <div> element
-        this.m_overlay_image_div_el = null;
-
-        // Overlay text <div> element
-        this.m_overlay_text_div_el = null;
-
-        // Overlay jubilee text <div> element
-        this.m_overlay_jubilee_text_div_el = null;
+        ////////////////// End photo data /////////////////////////////////
 
         // Index for the display of photo, text and small photo
         this.m_display_index = -12345;
-
-        // Number of milliseconds that photo and text will be displayed
-        // on the overlay <div> 
-        this.m_display_sleep_time = 5000;
-        // this.m_display_sleep_time = 100; 
 
         // Initialize
         this.init();
@@ -112,8 +141,12 @@ class JubileeImageData
 
     // Initialize
     // 1. Set container attributes. Call of setContainerAttributes.
-    // 2. Set grid attributes. Call of setGridAttributes.
-    // 3. Create grid elements. Call of createGridElements.
+    // 2. Set attributes for the jubilee controls (buttons). 
+    //    Call of setJubileeControlsAttributes.
+    // 3. Set grid attributes. Call of setGridAttributes.
+    // 4. Create grid elements. Call of createGridElements.
+    // 5. Create overlay image and text <div> element. 
+    //    Call of createOverlayImageTextDiv.
     init()
     {
         if (!this.setContainerAttributes())
@@ -143,6 +176,45 @@ class JubileeImageData
 
     } // init
 
+    ////////////////// Start container div functions //////////////////
+
+    // Get the container element for the jubilee image
+    getContainerElement()
+    {
+        return this.m_container_el; 
+
+    } // getContainerElement
+
+    // Get width of the container element for the jubilee image
+    getWidthContainer()
+    {   
+        return this.m_container_width;
+
+    } // getWidthContainer
+
+    // Get height of the container element for the jubilee image
+    getHeightContainer()
+    {
+        return this.m_container_height;
+
+    } // getHeightContainer
+
+    // Set width of the container element for the jubilee image
+    setWidthContainer(i_width)
+    {   
+        this.m_container_width = i_width;
+
+    } // setWidthContainer
+
+    // Set height of the container element for the jubilee image
+    setHeightContainer(i_height)
+    {
+        this.m_container_height = i_height;
+
+    } // setHeightContainer
+
+    ////////////////// End container div functions ////////////////////
+
     // Set display index to start value undefined: A negative value
     initDisplayIndex()
     {
@@ -150,7 +222,7 @@ class JubileeImageData
 
     } // initDisplayIndex
 
-    // Get the curren display index
+    // Get the current display index
     getDisplayIndex()
     {
         return this.m_display_index;
@@ -182,20 +254,10 @@ class JubileeImageData
 
     } // getNextDisplayIndex
 
-    // Returns the number of milliseconds that photo and text will be displayed
-    // on the overlay <div>
-    getDisplaySleepTime()
-    {
-        return this.m_display_sleep_time;
-
-    } // getDisplaySleepTime
-
     // Set container attributes 
     // 1. Member variables m_container_el, m_container_width, m_container_height
     //    are set from the input <div> container element (m_container_el) with
     //    functions clientWidth and clientHeight.
-    // 2. Check that container width is at least 4 X element width
-    // 3. Check that container height is at least 4 X element height
     setContainerAttributes()
     {
         this.m_container_el = document.getElementById(this.m_container_id);
@@ -206,12 +268,12 @@ class JubileeImageData
 
             return false;
         }
- 
-        this.m_container_width = ElemDim.widthContainer();
 
-        this.m_container_height = ElemDim.heightContainer();
+        this.setWidthContainer(ElemDim.widthContainer());
 
-        console.log('Container width= ' + this.m_container_width + ' height= ' + this.m_container_height);
+        this.setHeightContainer(ElemDim.heightContainer());
+
+        console.log('setContainerAttributes Container width= ' + this.getWidthContainer() + ' height= ' + this.getHeightContainer());
 
         this.m_element_width =  ElemDim.widthGridImage();
         this.m_element_height = ElemDim.heightGridImage();
