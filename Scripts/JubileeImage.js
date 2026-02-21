@@ -1,5 +1,5 @@
 // File: JubileeImage.js
-// Date: 2026-02-08
+// Date: 2026-02-21
 // Author: Gunnar Lidén
 
 // Inhalt
@@ -283,7 +283,7 @@ class JubileeImage
 
         g_jubilee_image_data.m_overlay_jubilee_text_div_el.style.display = 'block';
 
-        JubileeTimeout.toJubileeTextOnly(JubileeImage.displayOnlyJubileeText);
+        // TODO JubileeTimeout.toJubileeTextOnly(JubileeImage.displayOnlyJubileeText);
 
     } // displayImagesJubileeText
 
