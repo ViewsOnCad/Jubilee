@@ -317,9 +317,8 @@ class JubileeTimeout
     // Returns timeout for the display of the images
     static images()
     {
-        // return 3000; // 3 seconds
-        return 70; // Temporarely QQQQQQQQQQQQQQQQQQ
-
+        return 3000; // 3 seconds
+       
     } // images
 
     // Returns timeout for the display of the image years

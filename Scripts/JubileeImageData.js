@@ -215,6 +215,82 @@ class JubileeImageData
 
     ////////////////// End container div functions ////////////////////
 
+    ////////////////// Start display divs functions //////////////////
+
+
+    // Get container for the jubilee controls (buttons)
+    getJubileeControlsContainer()
+    {
+        return this.m_cl_div_jubilee_controls;  
+        
+    } // getJubileeControlsContainer
+    
+    // Get overlay image and text <div> element
+    getOverlayImageTextDiv()
+    {
+        return this.m_overlay_image_text_div_el;
+
+    }  // getOverlayImageTextDiv
+
+
+    // Get overlay image <div> element
+    getOverlayImageDiv()
+    {
+        return this.m_overlay_image_div_el; 
+
+    } // getOverlayImageDiv
+
+    // Get overlay text <div> element
+    getOverlayTextDiv(i_overlay_text_div_el)
+    {
+        return this.m_overlay_text_div_el;  
+    } // getOverlayTextDiv
+
+    // Get overlay jubilee text <div> element
+    getOverlayJubileeTextDiv()
+    {
+        return this.m_overlay_jubilee_text_div_el;  
+
+    } // getOverlayJubileeTextDiv
+
+    // Get container for the jubilee controls (buttons)
+    getJubileeControlsContainer()
+    {
+        return this.m_cl_div_jubilee_controls;  
+        
+    } // getJubileeControlsContainer
+    
+    // Set overlay image and text <div> element
+    setOverlayImageTextDiv(i_overlay_image_text_div_el)
+    {
+        this.m_overlay_image_text_div_el = i_overlay_image_text_div_el;
+
+    }  // setOverlayImageTextDiv
+
+    // Set overlay image <div> element
+    setOverlayImageDiv(i_overlay_image_div_el)
+    {
+        this.m_overlay_image_div_el = i_overlay_image_div_el;
+
+    } // setOverlayImageDiv
+
+    // Set overlay text <div> element
+    setOverlayTextDiv(i_overlay_text_div_el)
+    {
+        this.m_overlay_text_div_el = i_overlay_text_div_el;
+    } // setOverlayTextDiv
+
+    // Set overlay jubilee text <div> element
+    setOverlayJubileeTextDiv(i_overlay_jubilee_text_div_el)
+    {
+        this.m_overlay_jubilee_text_div_el = i_overlay_jubilee_text_div_el;
+
+    } // setOverlayJubileeTextDiv
+
+    ////////////////// End display divs functions ////////////////////
+
+    ////////////////// Start display index functions //////////////////
+    
     // Set display index to start value undefined: A negative value
     initDisplayIndex()
     {
@@ -253,6 +329,8 @@ class JubileeImageData
         return this.m_display_index;
 
     } // getNextDisplayIndex
+
+    ////////////////// End display index functions ////////////////////
 
     // Set container attributes 
     // 1. Member variables m_container_el, m_container_width, m_container_height
@@ -369,6 +447,33 @@ class JubileeImageData
 
     } // numberGridElements
 
+    createOverlayDivs()
+    {
+        var overlay_image_text_div_el = this.createOverlayImageTextDiv();
+        if (null == overlay_image_text_div_el)
+        {
+            alert('JubileeImageData.createOverlayDivs: Overlay image and text <div> element is null');
+            return false;
+        }
+       
+        setOverlayImageTextDiv(overlay_image_text_div_el);
+       
+
+    } // createOverlayDivs
+
+    // Creates the div for the big photo inside the overlay div for this div and the text div
+    creatOverlayImageDiv(i_overlay_image_text_div_el)
+    {
+          this.m_overlay_image_div_el = document.createElement('div'); 
+
+         this.m_overlay_image_div_el.style.width = '99%';
+         this.m_overlay_image_div_el.style.height = '69%';
+         //this.m_overlay_image_div_el.style.border = 'solid 1px white';
+
+        i_overlay_image_text_div_el.appendChild(this.m_overlay_image_div_el);
+
+    } // creatOverlayImageDive
+
     // Create overlay image and text <div> element 
     createOverlayImageTextDiv()
     {
@@ -428,8 +533,12 @@ class JubileeImageData
         this.m_overlay_text_div_el.style.fontSize = font_size_text_image.toString() + 'px';
         this.m_overlay_text_div_el.style.textAlign = 'center';
 
+        this.m_overlay_image_text_div_el.style.zIndex = '5'; 
+
         this.m_overlay_text_div_el.style.display = 'none'; // Initially hidden
         // this.m_overlay_text_div_el.innerHTML = 'Overlay text goes here.';
+
+        
 
         this.m_overlay_image_text_div_el.appendChild(this.m_overlay_text_div_el);
 
@@ -452,7 +561,7 @@ class JubileeImageData
         this.m_overlay_image_text_div_el.appendChild(this.m_overlay_jubilee_text_div_el);
 
 
-        return true;
+        return this.m_overlay_image_text_div_el;
 
     } // createOverlayImageTextDiv
 
