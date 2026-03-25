@@ -1,0 +1,52 @@
+
+https://jazzliveaarau.ch/Jubilee/Email/MailAbendEssen.txt
+
+E-Mail sollte mit Absender jubilaeum@jazzliveaarau.ch gesendet werden
+(In Thunderbird kann man Absender wählen)
+
+Betreff
+JAZZ live AARAU Jubiläumsessen 28. März
+
+Code unten in das E-Mail einfügen als HTML (Thunderbird Menü Einfügen -> HTML...
+
+<p style=  "font-family: 'Arial'; font-size: 17px; width: 800px; margin-left: 20px;">
+
+Lieber Jazz-Freunde, liebe Jazz-Freundin,
+<br><br>
+Du hast Dich für den Jubiläums-Gig vom Samstag, 28. März, angemeldet. 
+Nach dem Konzert treffen wir uns, wie bereits im früheren Newsletter 
+angekündigt, zum Nachtessen im Salmensaal. 
+Unsere Wirtsleute, Marcel und Poau Meyer, offerieren uns ein 
+festliches Gericht, zu dem wir Dich gerne begrüssen würden.
+<br><br>
+
+Das <a href=" https://jazzliveaarau.ch/Jubilee/Info/AbendmenuSamstag_20260328.pdf"  target="_blank">Menü</a>
+besteht aus Antipasti, Vorspeise, Pasta mit verschiedenen Saucen, 
+Dessert und Kaffee zum Preis von 49 Franken pro Person. 
+<br><br>
+
+Anmelden kannst Du Dich per Mail an <a href="mailto:jubilaeum@jazzliveaarau.ch">jubilaeum@jazzliveaarau.ch</a> 
+, wir werden die entsprechenden Plätze reservieren. Bitte vor 20. März anmelden.<br>
+Bezahlen kannst Du bar oder mit TWINT bei Hanni Heller an der Eintrittskasse.
+<br><br>
+
+Lieber Gruss<br><br>
+
+Dein JAZZ <i>live</i> AARAU Team<br><br>
+
+Markus, Laura, Alex, Gunnar, Hanni, Maria, Heiri, Hubert <br><br>
+
+</p>
+
+<p style=  "font-family: 'Arial'; font-size: 17px; width: 400px; margin-left: 20px; border: solid 2px blue; padding: 10px;">
+
+<b>Mit TWINT zahlen</b>
+<br><br>
+
+Bitte geben Sie Ihren Namen und das Konzertdatum bei der Bezahlung an. <br>
+
+Empfänger: Hanni Heller
+
+Telefonnummer:<br> <b><i>+41 79 368 56 93</i></b><br>
+
+</p>
